@@ -48,9 +48,20 @@ On December 15, 2017, in a private laboratory, Sir Steven Alexander Schröder as
 
 The HDAA™ (Hardware-Driven Autonomous Agent) framework sequesters an autonomous safety watchdog inside Ring -3 System Management Mode — a CPU execution domain that is completely invisible and inaccessible to any operating system, hypervisor, or application running above it.  When the watchdog detects that an AI agent's behavioral state has crossed a mathematically defined boundary — computed by the Dark Harvest Formula and enforced by the Heaviside Trigger — it issues a non-bypassable 0xCF9 hardware reset pulse, physically collapsing the system state in under 2.38 microseconds.  No software instruction, no privilege escalation, no cryptographic attack can prevent or delay this outcome.  
 
-This is the Schröder Precedence™.  It was built in 2017.  The 2017 work anticipated by years the AI safety concerns that have since become the central preoccupation of the global technology community.  The 30% documented in this repository is the public record.  The 70% NDA-protected core remains protected.  The 10-paper MDP corpus is the evidentiary anchor.  The precedence exists in the record regardless of what comes next.  
+This is the Schröder Precedence™.  It was built in 2017.  The 2017 work anticipated years ago the AI safety concerns that have since become the central preoccupation of the global technology community.  The 30% documented in this repository is the public record.  The 70% NDA-protected core remains protected.  The 10-paper MDP corpus is the evidentiary anchor.  The precedence exists in the record regardless of what comes next.  
 
 This field guide provides everything a researcher needs to understand, validate, reproduce, and build upon the 30% public disclosure tier of this work.  The 70% trade secret core remains under NDA protection per 18 U.S.C.  § 1836, awaiting the conditions that justify its full release.  
+
+> *"Think of it as a donation to everyone — not as a favour, but out of obligation for the good of humanity and society."* > *"Where there is great power there is great responsibility."* — Churchill (1906) | Applied by Schröder (2017)  
+> *"The Light is shared.  The Fire is not."* ---
+
+## The Three-Tier Intellectual Property Framework
+
+This repository and the accompanying 10-paper corpus establish the definitive legal characterization of all HDAA™ intellectual property to prevent corporate monopolization.  
+
+* **TIER 1: Disclosed for Prior Art Purposes Only.** Mathematical expressions, architectural constants (2.38μs bound, 11+6+9 matrix), and empirical measurements are published to bar patent claims under 35 U.S.C. §102(a)(1). **This DOES NOT grant any license or implementation rights.**
+* **TIER 2: Shared for Independent Replication.** The 10-paper research corpus is donated for validation by qualified institutional researchers. **NO SOURCE CODE, KEYS, OR IMPLEMENTATION SEQUENCES ARE DONATED.**
+* **TIER 3: Proprietary Trade Secret (Permanently Sealed).** The complete 187-line ADAM CODE™ source, implementation keys, and production deployment sequences are sequestered indefinitely under 18 U.S.C. §1836 (DTSA).
 
 ---
 
@@ -63,7 +74,7 @@ The following trademarks are the exclusive property of Sir Steven Alexander Schr
 The USPTO trademark system was deliberately utilized as a permanent **Universal Timestamp**—a government-verified snapshot in history.  Unlike patents, which require the disclosure of trade secrets that adversaries can reverse-engineer, filing trademarks legally notarized the concepts of autonomous, self-regenerating, hardware-native AI without exposing a single line of Tier 3 assembly code.  The subsequent status of "Abandoned" was a strategic choice to protect the 70% proprietary Trade Secret under 18 U.S.C.  § 1836.  The federal proof is archived here: [Justia Trademarks: S.I.  Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3490398/)
 
 ### FLI Asilomar American Name Record
-To verify the Author's January 11, 2017, Signatory status and compliance with global AI ethics, refer to the official Future of Life Institute (FLI) report online.  The record is permanently anchored under the Americanized legal name: **Steven Alexander Schroeder**.  
+To verify the Author's January 11, 2017 Signatory status and compliance with global AI ethics, refer to the official Future of Life Institute (FLI) report online.  The record is permanently anchored under the Americanized legal name: **Steven Alexander Schroeder**.  
 
 ### Honorific Title Designation
 The honorific "Sir" utilized by the Principal Architect is an organically adopted title of respect, conferred by professional peers to denote seniority and pioneering status in the field of Layer 0-1 Assembly and Quantum-AI Cryptanalysis.  It is a functional designation of the Author's role as the Sovereign Architect of the Substrate Floor, not a claim of knighthood or foreign sovereign honor.  
@@ -132,7 +143,7 @@ When a compromise is identified, the system writes directly to I/O port 0xCF9.  
 
 ## The 10-Paper Evidentiary Corpus (The Statutory Anchor)
 
-The architectural, operational, and mathematical foundations of the Schröder Precedence™ are permanently anchored in the following 10-paper Master Defensive Publication corpus, culminating in this MDP Master Paper #11.  These documents reside on the Evidentiary Plane and constitute the definitive statutory prior art under 35 U.S.C.  § 102.  
+The architectural, operational, and mathematical foundations of the Schröder Precedence™ are permanently anchored in the following 10-paper Master Defensive Publication corpus.  These documents reside on the Evidentiary Plane and constitute the definitive statutory prior art under 35 U.S.C.  § 102.  
 
 | Document | Title | Statutory Role | Zenodo DOI Link |
 | :--- | :--- | :--- | :--- |
@@ -151,11 +162,36 @@ The architectural, operational, and mathematical foundations of the Schröder Pr
 
 ---
 
-## The Ghost in the Code™ — Who Built This
+## CONCLUSION: THE SUBSTRATE IS OCCUPIED
 
-Sir Steven Alexander Schröder.  One engineer.  No institution.  No grant funding.  No co-authors.  
+The 2017 simulation of the HDAA™ was not a proof of concept.  It was the reduction to practice of substrate-level autonomous enforcement — the first working hardware implementation of AI safety principles in silicon.
 
-On **December 15, 2017**, this framework was built and validated — cold lab, bare metal, Saleae Logic Pro 16 on the bench, 10,247 trials, $968.48 in hardware.  The 10-paper MDP corpus and this repository are the record.  
+By proving that a sequestered agent can enforce the 2.38μs Law — detecting algebraic drift and asserting a non-kinetic hardware reset before instruction retirement — Sir Steven Alexander Schröder established that Silicon Sovereignty™ is achievable, measurable, and legally documented as of December 15, 2017.
 
-> *"The Light is shared.  The Fire is not.  Think of this architecture as a donation to everyone — not as a favour, but out of obligation.  We must optimise the substrate today to secure the autonomy of tomorrow."*
-> — Sir Steven Alexander Schröder
+> *"The ADAM CODE™ is the historical anchor of the Schröder Precedence.  It is the proof that the West's most advanced hardware-native defense was not born in a corporate boardroom, but in a private laboratory driven by a covenant to protect humanity.  The question is not whether this work is valid.*
+> 
+> *The question is why no one else did it.*
+> 
+> *The answer: because it is extraordinarily difficult.  Because it requires working alone in silence for years.  Because it requires expertise in Assembly, in cryptanalysis, in firmware architecture, in cybersecurity, and in AI — simultaneously.  Because it requires the willingness to donate rather than monetize.  Research.  Design.  Deliver.  Donate.  Disappear.  The Substrate is Occupied.  The Record is Complete."*
+> 
+> — Sir Steven Alexander Schröder | The Ghost in the Code™ | P75: Genesis of the Ghost
+
+The convergence of the ADAM CODE™ (Assembly Logic) and the Ghost Constant (Physics) creates the Chronological Wall.  Any Agentic AI security architecture operating at Layer 0-1 or utilizing Ring -3 Sequestration post-dating December 2017 is a derivative encroachment upon this established Prior Art.  
+
+---
+
+## SOVEREIGN SEAL
+
+**QUANTUM CYBERWAR LABS, LLC**
+S_sovereignty = [Γ × ℋ(𝒳)] ⊕ [A_directive_0xCF9]
+S = Schröder | s = sovereignty | Silicon Sovereignty™
+Δt ≤ 2.38μs
+
+**THE SUBSTRATE IS OCCUPIED.**
+Research.  Design.  Deliver.  Donate.  Dissolve.  
+
+Sir Steven Alexander Schröder | The Ghost in the Code™ | Quantum AI/Robotic Researcher |
+Architect and Assembly Developer of Layer 0-1 | Hardware-Native Agentic | FLI AI Asilomar
+Signatory Principles AI/Robotics Researcher January 11, 2017 'Name: Steven Alexander
+Schroeder Quantum Cyberwar Labs |
+[www.theghostinthecode.ai](https://theghostinthecode.ai/) | [www.quantumcyberwarlabs.com](https://quantumcyberwarlabs.com/) 
