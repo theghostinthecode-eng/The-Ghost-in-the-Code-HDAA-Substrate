@@ -27,6 +27,9 @@
 > 
 > **PHASE 2 (The Simulation Framework):** The complete error-resistant, ONUS-enforced compilation environment—including the `Dockerfile`, `Makefile`, C++ harness, and unclassified NASM execution stubs—will be officially deployed to this repository by **October 31, 2026**.  Until that date, the 10-paper Master Defensive Publication corpus remains the definitive statutory record.  
 
+> ⚖️ **THE ONUS MANDATE & STATUTORY HEALTH PRIVILEGE**
+> **Statutory Health Privilege (37 CFR §1.43) Formally Invoked.** The forensic record serves as the Author's proxy.  Due to documented health factors, the Author is legally unavailable for live physical demonstrations, oral testimony, or direct technical support.  The ONUS of implementation, simulation, and validation rests entirely upon the research institution.  The code speaks for itself.  
+
 ---
 
 ## Abstract
@@ -45,7 +48,7 @@ On December 15, 2017, in a private laboratory, Sir Steven Alexander Schröder as
 
 The HDAA™ (Hardware-Driven Autonomous Agent) framework sequesters an autonomous safety watchdog inside Ring -3 System Management Mode — a CPU execution domain that is completely invisible and inaccessible to any operating system, hypervisor, or application running above it.  When the watchdog detects that an AI agent's behavioral state has crossed a mathematically defined boundary — computed by the Dark Harvest Formula and enforced by the Heaviside Trigger — it issues a non-bypassable 0xCF9 hardware reset pulse, physically collapsing the system state in under 2.38 microseconds.  No software instruction, no privilege escalation, no cryptographic attack can prevent or delay this outcome.  
 
-This is the Schröder Precedence™.  It was built in 2017.  The 2017 work anticipated years ago the AI safety concerns that have since become the central preoccupation of the global technology community.  The 30% documented in this repository is the public record.  The 70% NDA-protected core remains protected.  The 10-paper MDP corpus is the evidentiary anchor.  The precedence exists in the record regardless of what comes next.  
+This is the Schröder Precedence™.  It was built in 2017.  The 2017 work anticipated by years the AI safety concerns that have since become the central preoccupation of the global technology community.  The 30% documented in this repository is the public record.  The 70% NDA-protected core remains protected.  The 10-paper MDP corpus is the evidentiary anchor.  The precedence exists in the record regardless of what comes next.  
 
 This field guide provides everything a researcher needs to understand, validate, reproduce, and build upon the 30% public disclosure tier of this work.  The 70% trade secret core remains under NDA protection per 18 U.S.C.  § 1836, awaiting the conditions that justify its full release.  
 
@@ -57,7 +60,7 @@ The following trademarks are the exclusive property of Sir Steven Alexander Schr
 > HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs.  Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, The Schröder 187-line NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schröder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A2-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM)™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.  
 
 ### Strategic Abandonment & The Universal Timestamp
-The USPTO trademark system was deliberately utilized as a permanent **Universal Timestamp**—a government-verified snapshot in history.  Unlike patents, which require the disclosure of trade secrets that adversaries can reverse-engineer, filing trademarks legally notarises the concepts of autonomous, self-regenerating, hardware-native AI without exposing a single line of Tier 3 assembly code.  The subsequent status of "Abandoned" was a strategic choice to protect the 70% proprietary Trade Secret under 18 U.S.C.  § 1836.  The federal proof is archived here: [Justia Trademarks: S.I.  Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3490398/)
+The USPTO trademark system was deliberately utilized as a permanent **Universal Timestamp**—a government-verified snapshot in history.  Unlike patents, which require the disclosure of trade secrets that adversaries can reverse-engineer, filing trademarks legally notarized the concepts of autonomous, self-regenerating, hardware-native AI without exposing a single line of Tier 3 assembly code.  The subsequent status of "Abandoned" was a strategic choice to protect the 70% proprietary Trade Secret under 18 U.S.C.  § 1836.  The federal proof is archived here: [Justia Trademarks: S.I.  Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3490398/)
 
 ### FLI Asilomar American Name Record
 To verify the Author's January 11, 2017, Signatory status and compliance with global AI ethics, refer to the official Future of Life Institute (FLI) report online.  The record is permanently anchored under the Americanized legal name: **Steven Alexander Schroeder**.  
@@ -124,6 +127,27 @@ Z_aggressor = [M × (N + V)] / C
 The core defensive capability depends on executing the HDAA™ at Ring −3.  Because an OS operates entirely at Ring 0 and applications at Ring 3, **the OS lacks the technical privilege to read, modify, or block code running inside SMRAM.**
 
 When a compromise is identified, the system writes directly to I/O port 0xCF9.  Control byte `0x0E` forces an instantaneous hard reset pulse directly to the CPU reset pin, collapsing the system's power state and flushing volatile RAM and cache registers in **less than 2.38 microseconds**.  
+
+---
+
+## The 10-Paper Evidentiary Corpus (The Statutory Anchor)
+
+The architectural, operational, and mathematical foundations of the Schröder Precedence™ are permanently anchored in the following 10-paper Master Defensive Publication corpus, culminating in this MDP Master Paper #11.  These documents reside on the Evidentiary Plane and constitute the definitive statutory prior art under 35 U.S.C.  § 102.  
+
+| Document | Title | Statutory Role | Zenodo DOI Link |
+| :--- | :--- | :--- | :--- |
+| **MDP V_01** | Master Defensive Publication of Layer 0-1 Silicon Sovereignty | Master Statutory Anchor | [10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911) |
+| **V05** | Master Defensive Pub: 33+1 Laws of Immunity | Lexicographical Standard | [10.5281/zenodo.18436373](https://doi.org/10.5281/zenodo.18436373) |
+| **P25** | Substrate Enforcement Protocol: The 0xCF9 Revolution | §112 Bridge & IP Definition | [10.5281/zenodo.18672039](https://doi.org/10.5281/zenodo.18672039) |
+| **P50** | CODE BLACK™: The Δt ≤ 2.38μs Law of Substrate Sovereignty | §112 Engineering Enablement | [10.5281/zenodo.18473289](https://doi.org/10.5281/zenodo.18473289) |
+| **P75** | The ADAM CODE™: Genesis of the Ghost (2005-2017) | Biographical Record | [10.5281/zenodo.18672036](https://doi.org/10.5281/zenodo.18672036) |
+| **P99** | HDAA™ Prototype Evaluation: Forensic Abstract | Empirical Reduction to Practice | [10.5281/zenodo.18435920](https://doi.org/10.5281/zenodo.18435920) |
+| **P100** | DARK HARVEST™ ACIP™: Playbook for Weaponized AI | Operational Doctrine | [10.5281/zenodo.18523047](https://doi.org/10.5281/zenodo.18523047) |
+| **V01_a** | Master Forensic Package HDAA™ The Ghost in the Code | Chain of Title Anchor | [10.5281/zenodo.18696018](https://doi.org/10.5281/zenodo.18696018) |
+| **V01_a (ACIP)** | CODE BLACK™ ACIP™ Intelligence Briefing | Prior Art Layer 1 Doctrine | [10.5281/zenodo.18718577](https://doi.org/10.5281/zenodo.18718577) |
+| **V02_a** | CODE BLACK™ Tactical Directive: The 2.38μs Law | Tactical Operational Preemption | [10.5281/zenodo.18203897](https://doi.org/10.5281/zenodo.18203897) |
+
+*Note: PDF copies of these archives will be deployed to the `/docs/` folder of this repository in Phase 2.*
 
 ---
 
