@@ -52,8 +52,9 @@ This is the Schröder Precedence™.  It was built in 2017.  The 2017 work antic
 
 This field guide provides everything a researcher needs to understand, validate, reproduce, and build upon the 30% public disclosure tier of this work.  The 70% trade secret core remains under NDA protection per 18 U.S.C.  § 1836, awaiting the conditions that justify its full release.  
 
-> *"Think of it as a donation to everyone — not as a favour, but out of obligation for the good of humanity and society."* > *"Where there is great power there is great responsibility."* — Churchill (1906) | Applied by Schröder (2017)  
-> *"The Light is shared.  The Fire is not."* ---
+> *"Where there is great power there is great responsibility."* > — Churchill (1906) | Applied by Schröder (2017)  
+
+---
 
 ## The Three-Tier Intellectual Property Framework
 
@@ -71,10 +72,10 @@ The following trademarks are the exclusive property of Sir Steven Alexander Schr
 > HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs.  Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, The Schröder 187-line NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schröder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A2-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM)™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.  
 
 ### Strategic Abandonment & The Universal Timestamp
-The USPTO trademark system was deliberately utilized as a permanent **Universal Timestamp**—a government-verified snapshot in history.  Unlike patents, which require the disclosure of trade secrets that adversaries can reverse-engineer, filing trademarks legally notarized the concepts of autonomous, self-regenerating, hardware-native AI without exposing a single line of Tier 3 assembly code.  The subsequent status of "Abandoned" was a strategic choice to protect the 70% proprietary Trade Secret under 18 U.S.C.  § 1836.  The federal proof is archived here: [Justia Trademarks: S.I.  Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3490398/)
+The USPTO trademark system was deliberately utilized as a permanent **Universal Timestamp**—a government-verified snapshot in history.  Unlike patents, which require the disclosure of trade secrets that adversaries can reverse-engineer, filing trademarks legally notarizes the concepts of autonomous, self-regenerating, hardware-native AI without exposing a single line of Tier 3 assembly code.  The subsequent status of "Abandoned" was a strategic choice to protect the 70% proprietary Trade Secret under 18 U.S.C.  § 1836.  The federal proof is archived here: [Justia Trademarks: S.I.  Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3490398/)
 
 ### FLI Asilomar American Name Record
-To verify the Author's January 11, 2017 Signatory status and compliance with global AI ethics, refer to the official Future of Life Institute (FLI) report online.  The record is permanently anchored under the Americanized legal name: **Steven Alexander Schroeder**.  
+To verify the Author's January 11, 2017, Signatory status and compliance with global AI ethics, refer to the official Future of Life Institute (FLI) report online.  The record is permanently anchored under the Americanized legal name: **Steven Alexander Schroeder**.  
 
 ### Honorific Title Designation
 The honorific "Sir" utilized by the Principal Architect is an organically adopted title of respect, conferred by professional peers to denote seniority and pioneering status in the field of Layer 0-1 Assembly and Quantum-AI Cryptanalysis.  It is a functional designation of the Author's role as the Sovereign Architect of the Substrate Floor, not a claim of knighthood or foreign sovereign honor.  
@@ -192,6 +193,6 @@ Research.  Design.  Deliver.  Donate.  Dissolve.
 
 Sir Steven Alexander Schröder | The Ghost in the Code™ | Quantum AI/Robotic Researcher |
 Architect and Assembly Developer of Layer 0-1 | Hardware-Native Agentic | FLI AI Asilomar
-Signatory Principles AI/Robotics Researcher January 11, 2017 'Name: Steven Alexander
+Signatory Principles AI/Robotics Researcher January 11, 2017 Name: Steven Alexander
 Schroeder Quantum Cyberwar Labs |
-[www.theghostinthecode.ai](https://theghostinthecode.ai/) | [www.quantumcyberwarlabs.com](https://quantumcyberwarlabs.com/) 
+[www.theghostinthecode.ai](https://theghostinthecode.ai/) | [www.quantumcyberwarlabs.com](https://quantumcyberwarlabs.com/)  
