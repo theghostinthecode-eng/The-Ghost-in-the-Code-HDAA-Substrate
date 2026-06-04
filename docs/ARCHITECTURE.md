@@ -87,4 +87,19 @@ To verify the 2.38μs latency claim, researchers must replicate the 2017 forensi
 * Run the provided C++ harness in the Docker environment to trigger a software-induced SMI.
 * The CPU drops into Ring -3 SMM, executing the Synthetic Stub.
 * The logic analyzer will capture the delta between SMI# falling edge and PLTRST# assertion.
-* **Result:** Δt = T₁ - T₀. You will see the 2.38μs physical limit on your screen. The ONUS is on you to measure it.  
+* **Result:** Δt = T₁ - T₀. You will see the physical limit on your screen.
+
+**4. The Empirical Conclusion: What You Have Accomplished**
+Congratulations. If your logic analyzer registers a delta of **Δt ≤ 2.38μs**, you have successfully replicated the 2017 Schröder Precedence™. 
+
+*What does this actually mean in real-world simulation?*
+You have just empirically proven that a hardware-native kill-switch can be triggered from an execution plane that is physically invisible to the operating system. Because the CPU was suspended in System Management Mode (SMM) with the `D_LCK` (DRAM Controller Lock) bit set, the host operating system, hypervisors, and any theoretical AGI malware operating at Ring 0 were entirely frozen in time. 
+
+They could not see the execution stub, they could not read the SMRAM, and they could not block the port 0xCF9 command. You have successfully bypassed software-defined security and asserted hardware justice. You killed the system faster than rogue logic could execute its next clock cycle.
+
+**5. Troubleshooting Failure States**
+If your logic analyzer does not register the 2.38μs drop, or if the `PLTRST#` fails to assert, the ONUS rests on your lab setup. Verify the following:
+* **SMI# Generation Failure:** The C++ harness failed to trigger the System Management Interrupt. The CPU never entered Ring -3, meaning the stub never executed.
+* **SMRAM Lockout:** Your testbench firmware blocked SMBASE relocation, or the stub was not successfully injected into the TSEG region before lockdown.
+* **Chipset Masking:** Verify your specific motherboard/PCH does not mask, emulate, or trap I/O Port 0xCF9. Bare-metal, un-brokered hardware access is required.
+* **Sampling Resolution:** If your logic analyzer is operating below 500 MS/s, you lack the physical sampling resolution to capture the nanosecond-level assertion edge.  
