@@ -1,4 +1,4 @@
-## PART IV: LEGAL, IP, AND FORENSIC NOTICE
+# PART IV: LEGAL, IP, AND FORENSIC NOTICE
 
 ## The Three-Tier Intellectual Property Framework
 
@@ -15,19 +15,9 @@ The 10-paper research corpus and Phase 2 simulation environment are shared to de
 **TIER 3: Proprietary Trade Secret**  
 The full 187-line ADAM CODE™ source, implementation keys, and production deployment sequences remain sealed under 18 U.S.C. § 1836.
 
-## Forensic Notice & OEM Encroachment Analysis
+## Corpus Placement
 
-This repository and the P25 Protocol constitute an original work of authorship protected under 17 U.S.C. § 102 and the Berne Convention. The public disclosure is intended as a statutory bar against future patent monopolization.
-
-Intel TDT, AMD PSP / SEV-SNP, NVIDIA Blackwell, and Microsoft Pluton are cited here as comparative reference points in the broader substrate-security landscape. They are not presented as identical systems. The point of comparison is architectural altitude, enforcement path, and degree of software brokerage.
-
-Any future implementation that materially mirrors Ring -3 SMM autonomous sequestration, deterministic state collapse via I/O Port 0xCF9, or 26-bit algebraic governance must be evaluated against the existing public disclosure record.
-
-## Trademark Declaration & Strategic Abandonment
-
-The following trademarks are asserted as proprietary marks of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC: HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, QAIS (Quantum AI Singularity™).
-
-The USPTO trademark system was used as a permanent universal timestamp. The abandoned status of certain marks was a strategic choice intended to preserve the 70% proprietary trade secret core.
+The corpus table belongs in **Part IV as the authoritative statutory anchor**, because that is where the legal and evidentiary significance is explained. A short reference to the corpus can also appear in Part I as a pointer, but the full table should live here so the repository has one stable source of truth [web:51][web:5].
 
 ## The 10-Paper Evidentiary Corpus
 
@@ -48,4 +38,39 @@ The USPTO trademark system was used as a permanent universal timestamp. The aban
 
 **Summary:** By depositing these documents into the Zenodo Evidentiary Plane, the Author has ensured that no corporate entity can successfully claim "first-to-invent" status regarding Ring -3 AI containment architectures post-2017.
 
-The ultimate proof that Ring 0 and Ring -1 have fallen is found not just in threat intelligence, but in the frantic defensive posturing of the hardware oligopoly. Between March 3 and March 31, 2026, official USPTO Patent Center records documented 22 third-party preissuance submissions across 6 unique patent applications filed by NVIDIA, AMD, and Intel. The OEMs are racing to claim substrate-level territory at Ring -2 and Ring -3 (e.g., Virtualized Roots of Trust, Attestable PCR Extensions). While the oligopoly attempts to patent defensive walls to catch up to the autonomous threat vectors, the Schröder Precedence™ already occupies the only wall that cannot be delegated upward.   
+The ultimate proof that Ring 0 and Ring -1 have fallen is found not just in threat intelligence, but in the frantic defensive posturing of the hardware oligopoly. Between March 3 and March 31, 2026, official USPTO Patent Center records documented 22 third-party preissuance submissions across 6 unique patent applications filed by NVIDIA, AMD, and Intel. The OEMs are racing to claim substrate-level territory at Ring -2 and Ring -3 (e.g., Virtualized Roots of Trust, Attestable PCR Extensions). While the oligopoly attempts to patent defensive walls to catch up to the autonomous threat vectors, the Schröder Precedence™ already occupies the only wall that cannot be delegated upward.
+
+## Part II Threat Elements
+
+For clarity, the specific threat model elements to document here are:
+
+- Nation-state competition over chronology and prior art.
+- Patent encroachment by OEMs.
+- Documentation drift and section deletion.
+- Artifact tampering in CI/CD.
+- Corruption of DOI linkage or release tags.
+- Ambiguous version control or corpus references.
+- Misclassification of public versus sealed material.
+- Loss of reproducibility due to missing logs or thresholds.
+
+## Part III Metrics Clarified
+
+The metrics listed in Part III are the ones that make the protocol legible to researchers:
+- latency.
+- trial count.
+- sample rate.
+- F1 score.
+- human-reaction ratio.
+- reset vector timing.
+- threshold boundary.
+- hardware platform reference.
+
+## Part I/II/III/IV Layout Rule
+
+Use this layout:
+- Part I for identity, branding, notices, abstract, executive summary, and repository map.
+- Part II for doctrine and threat model.
+- Part III for architecture, metrics, and protocol.
+- Part IV for legal/IP and the corpus table.
+
+That is the cleanest “summary-plus” shape for your research audience, and it keeps the README readable without stripping away the architecture [web:5][web:33][web:147].
