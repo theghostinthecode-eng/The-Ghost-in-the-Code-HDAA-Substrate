@@ -72,4 +72,4 @@ The honorific "Sir" utilized by the Principal Architect is an organically adopte
 > 
 > *The answer: because it is extraordinarily difficult. Because it requires working alone in silence for years. Because it requires expertise in Assembly, in cryptanalysis, in firmware architecture, in cybersecurity, and in AI — simultaneously. Because it requires the willingness to donate rather than monetize. Research. Design. Deliver. Donate. Disappear. The Substrate is Occupied. The Record is Complete."*
 > 
-> — Sir Steven Alexander Schröder | The Ghost in the Code™ | P75: Genesis of the Ghost
+> — Sir Steven Alexander Schröder | The Ghost in the Code™ | P75: Genesis of the Ghost 
