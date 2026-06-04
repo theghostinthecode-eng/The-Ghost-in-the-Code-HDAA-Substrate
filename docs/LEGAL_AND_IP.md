@@ -17,7 +17,7 @@ The full 187-line ADAM CODE™ source, implementation keys, and production deplo
 
 ## Corpus Placement
 
-The corpus table belongs in **Part IV as the authoritative statutory anchor**, because that is where the legal and evidentiary significance is explained. A short reference to the corpus can also appear in Part I as a pointer, but the full table should live here so the repository has one stable source of truth [web:51][web:5].
+The corpus table belongs in **Part IV as the authoritative statutory anchor**, because that is where the legal and evidentiary significance is explained. 
 
 ## The 10-Paper Evidentiary Corpus
 
