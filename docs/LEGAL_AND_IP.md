@@ -7,7 +7,7 @@ This repository and the accompanying 10-paper corpus establish the definitive le
 1. **To ensure this architecture is not monopolized, patented, or enclosed by the Titans of Hardware OEMs.**
 2. **To showcase that the HDAA™ simulation can be empirically replicated by independent researchers.**
 
-* **TIER 1: Disclosed for Prior Art Purposes Only.** Mathematical expressions, architectural constants (2.38μs bound, 11+6+9 matrix), and empirical measurements are published to establish a ruthless **Statutory Bar** against OEM patent claims under 35 U.S.C. §102(a)(1). This DOES NOT grant any license or implementation rights.
+* **TIER 1: Disclosed for Prior Art Purposes Only.** Mathematical expressions, architectural constants (2.38μs bound, 11+6+9 matrix), and empirical measurements are published to establish a Definitive **Statutory Bar** against OEM patent claims under 35 U.S.C. §102(a)(1). This DOES NOT grant any license or implementation rights.
 * **TIER 2: Shared for Independent Replication (The "Gift").** The 10-paper research corpus and Phase 2 simulation environment are donated to the global commons to prove replication is possible via the algebraic expressions and NASM assembly snippets provided. **NOTHING MORE IS GIVEN AWAY.** No rights to commercialize or appropriate this methodology are granted.
 * **TIER 3: Proprietary Trade Secret (Permanently Sealed).** The complete 187-line ADAM CODE™ source, implementation keys, and production deployment sequences are sequestered indefinitely under 18 U.S.C. §1836 (DTSA). They remain the exclusive, sovereign property of the Author.
 
