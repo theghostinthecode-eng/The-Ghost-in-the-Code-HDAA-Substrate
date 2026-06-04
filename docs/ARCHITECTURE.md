@@ -1,4 +1,4 @@
-## PART III: TECHNICAL ARCHITECTURE & RESEARCHER LAB
+# PART III: TECHNICAL ARCHITECTURE & RESEARCHER LAB
 
 ## Architectural Pipeline: The SMM Veto Flowchart
 
@@ -28,6 +28,21 @@ This diagram maps how telemetry moves from active execution to physical containm
       [ System Power State Collapsed ]
       [ Total Time: Δt ≤ 2.38μs ]
 ```
+
+## Core Metrics Used
+
+The protocol section should keep the metrics explicit and readable for researchers:
+
+- **Schröder Limit:** \(\Delta t \leq 2.38\mu s\). This is the maximum allowed time from breach detection to reset assertion.
+- **Median Latency:** 2.31 microseconds ± 0.07 microseconds across 10,247 trials.
+- **Trial Count:** 10,247 independent forensic trials.
+- **Sample Rate:** 500 MS/s logic acquisition.
+- **Detection Quality:** F1 score of 0.997.
+- **Human Reaction Ratio:** 105,042× faster than average human response time.
+- **Reset Path:** 0xCF9 hardware reset via delegated primitive.
+- **Execution Platform Reference:** Intel i7-7700K baseline; modern EPYC/Xeon scaling must be revalidated per platform.
+- **Trigger Boundary:** Heaviside threshold at Z ≥ 3.20.
+- **Telemetry Inputs:** Voltage, flags, MSRs, SMI assertion, and PLTRST# timing.
 
 ## The Master Equations — Public Disclosure Tier
 
@@ -67,19 +82,17 @@ The core defensive capability depends on executing the HDAA™ at Ring -3. Becau
 
 When a compromise is identified, the system writes directly to I/O port 0xCF9. Control byte 0x0E forces a hardware reset pulse directly to the CPU reset path, collapsing the system’s power state and flushing volatile RAM and cache registers.
 
-## Execution Context: 2017 Reduction to Practice vs. 2026 Scaling
-
-The foundational 10,247 trials yielding the 2.38μs Law were conducted on an Intel i7-7700K. The scaling question for 2026 EPYC/Xeon-class environments is whether the same reset path remains observable and measurable under modern enterprise hardware.
-
-The answer to that question must be demonstrated by instrumentation, not by assumption. The SMM architecture and the 0xCF9 delegated primitive remain fundamental to x86-64 hardware, but the replication environment must be explicitly documented per platform.
-
-## Phase 2 Developer Guide: The “No Questions Left” Replication Protocol
+## Replication Protocol
 
 For academic researchers, hardware engineers, and independent labs:
 
-1. The Synthetic SMM Trigger Stub. Since the 187-line ADAM CODE™ remains sealed, the release will include an unclassified, pre-compiled NASM binary that executes the 0xCF9 reset sequence on SMI trigger.
-2. Hardware Bench Setup. Researchers must replicate the 2017 forensic lab conditions using a logic analyzer capable of at least 500 MS/s.
-3. Execution. Run the supplied C++ harness in Docker, trigger the software-induced SMI, and record the delta between SMI# assertion and PLTRST# assertion.
-4. Empirical Conclusion. If the logic analyzer registers Δt ≤ 2.38μs, the replication has succeeded.
-5. Troubleshooting. If the result does not appear, verify SMI generation, SMRAM lock behavior, chipset handling of 0xCF9, and sample-rate resolution.
+1. Use the synthetic SMM trigger stub released for the simulation framework.
+2. Replicate the 2017 bench setup with logic analyzer sampling at 500 MS/s or better.
+3. Run the Dockerized harness and collect SMI# and PLTRST# timestamps.
+4. Compute Δt and verify whether it remains at or below 2.38μs.
+5. Archive logs, workflow artifacts, and release tags as part of the reproducibility record.
+
+## CI/CD Provenance Note
+
+GitHub Actions should capture latency logs, preserve artifacts, and attach them to release tags so the repository retains an auditable chronology of validation runs. The paper should carry the full workflow rationale; the README only needs the short provenance statement.
  
