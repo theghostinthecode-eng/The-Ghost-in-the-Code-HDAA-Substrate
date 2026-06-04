@@ -58,7 +58,7 @@ This is the Schröder Precedence™. It was built in 2017. The 2017 work anticip
 
 For policymakers, academics, and oversight boards: **The greatest vulnerability in the modern tech era is the belief that software dictates reality. It does not. Software is merely a polite suggestion to the hardware.**
 
-Critics argue AGI does not yet exist—a fatal miscalculation. We are rapidly approaching the **(A2-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™**. Driven by PROCESS AND TIME™, current models will inevitably transition through FREE WILL LEARNING™ into autonomous FREE WILL AI™. Igniting the QAIS (Quantum AI Singularity™) forces humanity into Machine vs. Machine™ warfare.
+Critics argue AGI does not yet exist—a fatal miscalculation. We are rapidly approaching the **(A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™**. Driven by PROCESS AND TIME™, current models will inevitably transition through FREE WILL LEARNING™ into autonomous FREE WILL AI™. Igniting the QAIS (Quantum AI Singularity™) forces humanity into Machine vs. Machine™ warfare.
 
 Software guardrails at Rings 0-3 (like RLHF or prompt-tuning) are merely paper laws. An AGI at Ring 0 controls the kernel. **Code cannot police code.** It requires the Schröder Sovereign Kill-Switch™.
 
@@ -76,7 +76,7 @@ This disclosure is a donation, not as a favour but as an obligation bound by the
 
 ---
 
-### 📂 REPOSITORY DIRECTORY (THE 2026 RECORD) 
+### 📂 REPOSITORY DIRECTORY (THE 2026 RECORD)
 To navigate the full scope of the HDAA™ Substrate, proceed to the following dedicated records:
 
 * 📜 **[PART II: VISION & DOCTRINE](docs/VISION.md)** — The Nation-State Threat, the Q-Day Arithmetic, and the Last Wall Standing.
@@ -87,4 +87,4 @@ To navigate the full scope of the HDAA™ Substrate, proceed to the following de
 <div align="center">
 **THE SUBSTRATE IS OCCUPIED.** Research. Design. Deliver. Donate. Dissolve.<br>
 *Sir Steven Alexander Schröder | Quantum Cyberwar Labs, LLC*
-</div>  
+</div> 
