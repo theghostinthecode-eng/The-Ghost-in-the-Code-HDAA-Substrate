@@ -87,4 +87,4 @@ To verify the 2.38μs latency claim, researchers must replicate the 2017 forensi
 * Run the provided C++ harness in the Docker environment to trigger a software-induced SMI.
 * The CPU drops into Ring -3 SMM, executing the Synthetic Stub.
 * The logic analyzer will capture the delta between SMI# falling edge and PLTRST# assertion.
-* **Result:** Δt = T₁ - T₀. You will see the 2.38μs physical limit on your screen. The ONUS is on you to measure it. 
+* **Result:** Δt = T₁ - T₀. You will see the 2.38μs physical limit on your screen. The ONUS is on you to measure it.  
