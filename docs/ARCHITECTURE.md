@@ -95,7 +95,7 @@ Congratulations. If your logic analyzer registers a delta of **Δt ≤ 2.38μs**
 *What does this actually mean in real-world simulation?*
 You have just empirically proven that a hardware-native kill-switch can be triggered from an execution plane that is physically invisible to the operating system. Because the CPU was suspended in System Management Mode (SMM) with the `D_LCK` (DRAM Controller Lock) bit set, the host operating system, hypervisors, and any theoretical AGI malware operating at Ring 0 were entirely frozen in time. 
 
-They could not see the execution stub, they could not read the SMRAM, and they could not block the port 0xCF9 command. You have successfully bypassed software-defined security and asserted hardware justice. You killed the system faster than rogue logic could execute its next clock cycle.
+They could not see the execution stub, they could not read the SMRAM, and they could not block the port 0xCF9 command. You have successfully bypassed software-defined security and asserted hardware justice. You killed the system faster than nation-state rogue logic could execute its next clock cycle.
 
 **5. Troubleshooting Failure States**
 If your logic analyzer does not register the 2.38μs drop, or if the `PLTRST#` fails to assert, the ONUS rests on your lab setup. Verify the following:
