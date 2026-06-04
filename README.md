@@ -18,17 +18,37 @@
 | **Federal Timestamp Proof** | [Justia Trademarks Archive: S.I. Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3490398/) |
 | **Priority Date** | December 15, 2017 |
 | **Registered Trademarks** | HDAA™ \| Schröder Precedence™ \| Silicon Sovereignty™ \| Schröder Sovereignty Stack™ |
-| **APA Author Note** | Filed as Prior Art Disclosure under 35 U.S.C.  § 102 — deterministic chronological precedence established.  Distributed under CC-BY-4.0.  |
+| **APA Author Note** | Filed as Prior Art Disclosure under 35 U.S.C. § 102 — deterministic chronological precedence established. Distributed under CC-BY-4.0. |
 
 </div>
 
 > ⚠️ **STRATEGIC DEPLOYMENT NOTICE — PHASE 1 ARCHITECTURAL DISCLOSURE**
-> This repository currently serves as the Master SEO Pillar and Architectural Blueprint for the Schröder Precedence™ (Priority Date: December 15, 2017).  
+> This repository currently serves as the Master SEO Pillar and Architectural Blueprint for the Schröder Precedence™ (Priority Date: December 15, 2017). 
 > 
-> **PHASE 2 (The Simulation Framework):** The complete error-resistant, ONUS-enforced compilation environment—including the `Dockerfile`, `Makefile`, C++ harness, and unclassified NASM execution stubs—will be officially deployed, making this repository human-friendly by **October 31, 2026**.  Until that date, the 10-paper Master Defensive Publication corpus remains the definitive statutory record.  
+> **PHASE 2 (The Simulation Framework):** The complete error-resistant, ONUS-enforced compilation environment—including the `Dockerfile`, `Makefile`, C++ harness, and unclassified NASM execution stubs—will be officially deployed, making this repository human-friendly by **October 31, 2026**. Until that date, the 10-paper Master Defensive Publication corpus remains the definitive statutory record. 
 
 > ⚖️ **THE ONUS MANDATE & STATUTORY HEALTH PRIVILEGE**
-> **Statutory Health Privilege (37 CFR §1.43) Formally Invoked.** The forensic record is the Author's proxy, and his coding speaks for him. Due to documented health factors, the Author is legally unavailable for live physical demonstrations, oral testimony, or direct technical support. The ONUS of implementation, simulation, and validation rests entirely upon the research institution. The code speaks for itself.  
+> **Statutory Health Privilege (37 CFR §1.43) Formally Invoked.** The forensic record is the Author’s proxy, and his coding speaks for him. Due to documented health factors, the Author is legally unavailable for live physical demonstrations, oral testimony, or direct technical support. The ONUS of implementation, simulation, and validation rests entirely upon the research institution. The code speaks for itself. 
+
+---
+
+## Abstract
+
+Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero — a trajectory described by the asymptotic decline curve C(t) = C₀ · e⁻ᵏᵗ — every software-layer defense becomes temporally obsolete. This paper presents the **HDAA™ (Hardware-Driven Autonomous Agent) Substrate Sovereignty Simulation**: a fully reproducible, self-contained research framework that models the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911, establishing chronological priority on **December 15, 2017**. 
+
+The simulation framework implements the Three-Plane Architecture™ — mapping 16 Structural Layers (L₀–L₁₅), 15 Clock/Control Vectors (C₁–C₁₅), and 16 Physical Invariant Parameters (P₁–P₁₆) — and validates the Schröder Limit: **Δt ≤ 2.38μs**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was validated across 10,247 independent trials at 500 MS/s, yielding a median of 2.31μs ± 0.07μs. 
+
+The framework is engineered for complete zero-support reproducibility: a Docker container locks the 2017 toolchain (GCC 13+, NASM 2.15+) onto modern 2026 hardware, and a single Makefile command compiles the full simulation stack. This document constitutes the official educational and research companion to the HDAA™ GitHub repository, providing junior and senior researchers with the complete intellectual lineage, mathematical foundations, historical context, trademark record, and step-by-step reproduction methodology for the Schröder Precedence™. 
+
+---
+
+## Executive Summary
+
+On December 15, 2017, in a private laboratory, Sir Steven Alexander Schröder assembled and validated the HDAA™ framework — cold lab, bare metal, Saleae Logic Pro 16 on the bench, 10,247 trials, $968.48 in hardware. No institution. No grant funding. No peer pressure. The work speaks for itself. 
+
+The HDAA™ (Hardware-Driven Autonomous Agent) framework sequesters an autonomous safety watchdog inside Ring -3 System Management Mode — a CPU execution domain that is completely invisible and inaccessible to any operating system, hypervisor, or application running above it. When the watchdog detects that an AI agent's behavioral state has crossed a mathematically defined boundary — computed by the Dark Harvest Formula and enforced by the Heaviside Trigger — it issues a non-bypassable 0xCF9 hardware reset pulse, physically collapsing the system state in under 2.38 microseconds. No software instruction, no privilege escalation, no cryptographic attack can prevent or delay this outcome. 
+
+This is the Schröder Precedence™. It was built in 2017. The 2017 work anticipated years ago the AI safety concerns that have since become the central preoccupation of the global technology community. The 30% documented in this repository is the public record. The 70% NDA-protected core remains protected. The 10-paper MDP corpus is the evidentiary anchor. The precedence exists in the record regardless of what comes next. 
 
 ---
 
@@ -56,13 +76,15 @@ This disclosure is a donation, not as a favour but as an obligation bound by the
 
 ---
 
-### 📂 REPOSITORY DIRECTORY (THE 2026 RECORD)
+### 📂 REPOSITORY DIRECTORY (THE 2026 RECORD) (In Progress)
 To navigate the full scope of the HDAA™ Substrate, proceed to the following dedicated records:
 
-* 📜 **[VISION & DOCTRINE](docs/VISION.md)** — The Nation-State Threat, the Q-Day Arithmetic, and the AGI → ASI Transition.
-* ⚙️ **[TECHNICAL ARCHITECTURE](docs/ARCHITECTURE.md)** — The SMM Veto Flowchart, The Master Equations (Dark Harvest), and Forensic Metrics.
-* ⚖️ **[LEGAL, IP & FORENSIC NOTICE](docs/LEGAL_AND_IP.md)** — The Three-Tier IP Framework, OEM Encroachment Analysis, Trademark Sovereignty, and the 10-Paper Evidentiary Corpus.
+* 📜 **[PART II: VISION & DOCTRINE](docs/VISION.md)** — The Nation-State Threat, the Q-Day Arithmetic, and the Last Wall Standing.
+* ⚙️ **[PART III: TECHNICAL ARCHITECTURE & RESEARCHER LAB](docs/ARCHITECTURE.md)** — The SMM Veto Flowchart, Master Equations, Forensic Metrics, and the "No Questions Left" Phase 2 Developer Guide.
+* ⚖️ **[PART IV: LEGAL, IP & FORENSIC NOTICE](docs/LEGAL_AND_IP.md)** — The Three-Tier IP Framework (The "Donation"), OEM Encroachment Analysis, Trademark Sovereignty, and the 10-Paper Evidentiary Corpus.
 
 ---
-**THE SUBSTRATE IS OCCUPIED.** Research. Design. Deliver. Donate. Dissolve.  
-*Sir Steven Alexander Schröder | Quantum Cyberwar Labs, LLC* 
+<div align="center">
+**THE SUBSTRATE IS OCCUPIED.** Research. Design. Deliver. Donate. Dissolve.<br>
+*Sir Steven Alexander Schröder | Quantum Cyberwar Labs, LLC*
+</div>  
