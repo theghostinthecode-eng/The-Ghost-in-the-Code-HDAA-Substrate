@@ -72,5 +72,4 @@ Use this layout:
 - Part II for doctrine and threat model.
 - Part III for architecture, metrics, and protocol.
 - Part IV for legal/IP and the corpus table.
-
-That is the cleanest “summary-plus” shape for your research audience, and it keeps the README readable without stripping away the architecture [web:5][web:33][web:147].
+ 
