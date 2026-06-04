@@ -29,23 +29,26 @@ The following trademarks are asserted as proprietary marks of Sir Steven Alexand
 
 The USPTO trademark system was used as a permanent universal timestamp. The abandoned status of certain marks was a strategic choice intended to preserve the 70% proprietary trade secret core.
 
-## The 10-Paper Evidentiary Corpus
+## The 10-Paper Evidentiary Corpus (The Statutory Anchor)
 
-Educational Context: the following corpus anchors the legal, technical, and chronological claims of the framework.
+**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0-1 Silicon Sovereignty. These peer-reviewed and time-stamped defensive publications permanently establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
 
-| Document | Title | Statutory Role | DOI |
+| DOCUMENT | TITLE | STATUTORY ROLE | ZENODO DIRECT LINK |
 |---|---|---|---|
-| MDP V_01 | Master Defensive Publication | Master Statutory Anchor | [10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911) |
-| V05 | 33+1 Laws of Immunity | Lexicographical Standard | [10.5281/zenodo.18436373](https://doi.org/10.5281/zenodo.18436373) |
-| P25 | Substrate Enforcement Protocol | §112 Bridge & IP Definition | [10.5281/zenodo.18672039](https://doi.org/10.5281/zenodo.18672039) |
-| P50 | CODE BLACK™: The Δt ≤ 2.38μs Law | §112 Engineering Enablement | [10.5281/zenodo.18473289](https://doi.org/10.5281/zenodo.18473289) |
-| P75 | The ADAM CODE™: Genesis of the Ghost | Biographical Record | [10.5281/zenodo.18672036](https://doi.org/10.5281/zenodo.18672036) |
-| P99 | HDAA™ Prototype Evaluation | Empirical Reduction to Practice | [10.5281/zenodo.18435920](https://doi.org/10.5281/zenodo.18435920) |
-| P100 | DARK HARVEST™ ACIP™ Playbook | Operational Doctrine | [10.5281/zenodo.18523047](https://doi.org/10.5281/zenodo.18523047) |
-| V01_a | Master Forensic Package | Chain of Title Anchor | [10.5281/zenodo.18696018](https://doi.org/10.5281/zenodo.18696018) |
-| V.P11 | Convergence of Agentic AI | Transition Manifesto | [10.5281/zenodo.19653805](https://doi.org/10.5281/zenodo.19653805) |
-| V.P14a.01 | Autopsy of the Nation-State War | Forensic Indictment | [10.5281/zenodo.20405333](https://doi.org/10.5281/zenodo.20405333) |
+| **MDP V_01** | Master Defensive Publication of Layer 0-1 Silicon Sovereignty | Master Statutory Anchor | [10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911) |
+| **V05** | Master Defensive Pub: 33+1 Laws of Immunity | Lexicographical Standard | [10.5281/zenodo.18436373](https://doi.org/10.5281/zenodo.18436373) |
+| **P25** | Substrate Enforcement Protocol: The 0xCF9 Revolution | §112 Bridge & IP Definition | [10.5281/zenodo.18672039](https://doi.org/10.5281/zenodo.18672039) |
+| **P50** | CODE BLACK™: The Δt ≤ 2.38μs Law of Substrate Sovereignty | §112 Engineering Enablement | [10.5281/zenodo.18473289](https://doi.org/10.5281/zenodo.18473289) |
+| **P75** | The ADAM CODE™: Genesis of the Ghost (2005-2017) | Biographical Record | [10.5281/zenodo.18672036](https://doi.org/10.5281/zenodo.18672036) |
+| **P99** | HDAA™ Prototype Evaluation: Forensic Abstract | Empirical Reduction to Practice | [10.5281/zenodo.18435920](https://doi.org/10.5281/zenodo.18435920) |
+| **P100** | DARK HARVEST™ ACIP™: Playbook for Weaponized AI | Operational Doctrine | [10.5281/zenodo.18523047](https://doi.org/10.5281/zenodo.18523047) |
+| **V01_a** | Master Forensic Package HDAA™ The Ghost in the Code | Chain of Title Anchor | [10.5281/zenodo.18696018](https://doi.org/10.5281/zenodo.18696018) |
+| **V01_a (ACIP)** | CODE BLACK™ ACIP™ Intelligence Briefing | Prior Art Layer 1 Doctrine | [10.5281/zenodo.18718577](https://doi.org/10.5281/zenodo.18718577) |
+| **V02_a** | CODE BLACK™ Tactical Directive: The 2.38μs Law | Tactical Operational Preemption | [10.5281/zenodo.18203897](https://doi.org/10.5281/zenodo.18203897) |
 
+**Summary:** By depositing these documents into the Zenodo Evidentiary Plane, the Author has ensured that no corporate entity can successfully claim "first-to-invent" status regarding Ring -3 AI containment architectures post-2017.
+
+The ultimate proof that Ring 0 and Ring -1 have fallen is found not just in threat intelligence, but in the frantic defensive posturing of the hardware oligopoly. Between March 3 and March 31, 2026, official USPTO Patent Center records documented 22 third-party preissuance submissions across 6 unique patent applications filed by NVIDIA, AMD, and Intel. The OEMs are racing to claim substrate-level territory at Ring -2 and Ring -3 (e.g., Virtualized Roots of Trust, Attestable PCR Extensions). While the oligopoly attempts to patent defensive walls to catch up to the autonomous threat vectors, the Schröder Precedence™ already occupies the only wall that cannot be delegated upward.
 The public corpus establishes the public record for the architecture, the mathematics, and the timeline. The sealed vault remains sealed.
 
 ## Appendix: References
