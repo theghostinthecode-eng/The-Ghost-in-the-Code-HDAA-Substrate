@@ -92,7 +92,151 @@ To navigate the full scope of the HDAA™ Substrate, proceed to the following de
 
 </div>
 
-## The 10-Paper Evidentiary Corpus (The Statutory Anchor)
+## PART II: VISION & DOCTRINE
+
+"The era of procrastination, of half-measures, of soothing and baffling expedients, of delays is coming to its close. In its place, we are entering a period of consequences." > — Winston Churchill (1936)
+
+## The Nation-State Threat: A Failure of Imagination
+
+On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth’s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: a failure of imagination.
+
+In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called Harvest Now, Decrypt Later. The destination is Q-Day.
+
+No software-defined security layer—no firewall, no cryptographic protocol, no AI alignment policy—survives Q-Day. They all rely on mathematical hardness assumptions that quantum computing will dissolve. One exception remains under this framework: hardware-native substrate sovereignty.
+
+## The AGI → ASI Transition & The Illusion of Software Sovereignty
+
+Critics argue AGI does not yet exist—a fatal miscalculation. We are rapidly approaching the **(A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™**. Driven by PROCESS AND TIME™, current models will transition through FREE WILL LEARNING™ into autonomous FREE WILL AI™. Igniting the QAIS (Quantum AI Singularity™) forces humanity into Machine vs. Machine™ warfare.
+
+Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As compute cost approaches zero, software-layer defense becomes temporally obsolete.
+
+An AGI at Ring 0 controls the kernel. Code cannot police code. It requires the Schröder Sovereign Kill-Switch™.
+
+## The Last Wall Standing: Layer 0-1 Silicon Sovereignty™
+
+The only architecture that does not rely on software-defined security is the one proven on December 15, 2017: the Hardware-Driven Autonomous Agent (HDAA™) at Ring -3 / Layer 0-1.
+
+Sequestered inside System Management Mode, it remains invisible to the operating system, hypervisor, and application layers above it. The convergence of the ADAM CODE™ (Assembly Logic) and the Ghost Constant (Physics) creates the Chronological Wall.
+
+Any agentic AI security architecture operating at Layer 0-1 or utilizing Ring -3 sequestration after December 2017 must be evaluated against this public record, this architecture, and this timeline.
+
+## PART III: TECHNICAL ARCHITECTURE & RESEARCHER LAB
+
+## Architectural Pipeline: The SMM Veto Flowchart
+
+This diagram maps how telemetry moves from active execution to physical containment.
+
+```text
+[ AI Agent Execution (Ring 3 / Ring 0) ]
+        │
+        ▼
+[ Hardware Telemetry Extraction (Voltage, Flags, MSRs) ]
+        │
+        ▼
+[ RING -3 SMM WATCHDOG (Invisible to OS/AI) ]
+        │
+        ├─► [ The Dark Harvest Formula ]
+        │     Calculates Z-Score (Malice/Velocity)
+        │
+        ▼
+[ The Heaviside Trigger (Z ≥ 3.20) ]
+        │
+        ├──► IF SAFE: Return to Execution
+        │
+        └──► IF BREACH DETECTED:
+               │
+               ▼
+      [ 0xCF9 Reset Vector Asserted ]
+      [ System Power State Collapsed ]
+      [ Total Time: Δt ≤ 2.38μs ]
+```
+
+## The Master Equations — Public Disclosure Tier
+
+⚠️ The calibrated threshold constants and 187-line predictive trigger kernel are NDA-protected Tier 3 Trade Secrets under 18 U.S.C. § 1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. § 102.
+
+**Eq. 1 — Master Sovereignty Equation**  
+\(S_{sovereignty} = [\Gamma \times \mathcal{H}(\mathcal{X})] \oplus [\mathcal{A}_{directive\_0xCF9}]\)
+
+**Eq. 2 — Ghost Constant (256-bit PUF Identity Proof)**  
+\(\Gamma = [PUF_0 \oplus (T_e + V_n)] \times \phi_{timer}\)
+
+**Eq. 3 — Heaviside Trigger (Binary Safety Boundary)**  
+\(\Psi_{reset} = \mathcal{H}(Z_{aggressor} - \sigma_{limit})\)
+
+**Eq. 4 — Dark Harvest Formula (Aggressor Z-Score)**  
+\(Z_{aggressor} = [M \times (N + V)] / C\)
+
+**Eq. 5 — The Schröder Limit**  
+\(\Delta t \leq 2.38\mu s\)
+
+## Core Forensic Metrics — Validated December 15, 2017
+
+Educational Context: the absolute latency between breach detection and power-state collapse is the physical boundary the researcher must reproduce. The table below captures the original forensic measurement set.
+
+| Metric | Value | Methodology |
+|---|---:|---|
+| Schröder Limit | Δt ≤ 2.38 microseconds | Physical hardware measurement |
+| Median Latency | 2.31μs ± 0.07μs | 10,247 independent trials |
+| Trial Count | 10,247 forensic trials | 500 MS/s Saleae Logic Pro 16 |
+| F1 Score | 0.997 | Breach detection precision/recall |
+| Human Reaction Ratio | 105,042× faster | vs. average human response time |
+| Enforcement Standard | FLI Principle 16 in silicon | via 0xCF9 Delegated Primitive™ |
+
+## Implementation Mechanics: Ring -3 SMM Sequestration
+
+The core defensive capability depends on executing the HDAA™ at Ring -3. Because an OS operates at Ring 0 and applications at Ring 3, the OS lacks the technical privilege to read, modify, or block code running inside SMRAM.
+
+When a compromise is identified, the system writes directly to I/O port 0xCF9. Control byte 0x0E forces a hardware reset pulse directly to the CPU reset path, collapsing the system’s power state and flushing volatile RAM and cache registers.
+
+## Execution Context: 2017 Reduction to Practice vs. 2026 Scaling
+
+The foundational 10,247 trials yielding the 2.38μs Law were conducted on an Intel i7-7700K. The scaling question for 2026 EPYC/Xeon-class environments is whether the same reset path remains observable and measurable under modern enterprise hardware.
+
+The answer to that question must be demonstrated by instrumentation, not by assumption. The SMM architecture and the 0xCF9 delegated primitive remain fundamental to x86-64 hardware, but the replication environment must be explicitly documented per platform.
+
+## Phase 2 Developer Guide: The “No Questions Left” Replication Protocol
+
+For academic researchers, hardware engineers, and independent labs:
+
+1. The Synthetic SMM Trigger Stub. Since the 187-line ADAM CODE™ remains sealed, the release will include an unclassified, pre-compiled NASM binary that executes the 0xCF9 reset sequence on SMI trigger.
+2. Hardware Bench Setup. Researchers must replicate the 2017 forensic lab conditions using a logic analyzer capable of at least 500 MS/s.
+3. Execution. Run the supplied C++ harness in Docker, trigger the software-induced SMI, and record the delta between SMI# assertion and PLTRST# assertion.
+4. Empirical Conclusion. If the logic analyzer registers Δt ≤ 2.38μs, the replication has succeeded.
+5. Troubleshooting. If the result does not appear, verify SMI generation, SMRAM lock behavior, chipset handling of 0xCF9, and sample-rate resolution.
+
+## PART IV: LEGAL, IP, AND FORENSIC NOTICE
+
+## The Three-Tier Intellectual Property Framework
+
+This repository and the accompanying 10-paper corpus establish the public legal characterization of HDAA™ intellectual property. The framework separates prior-art disclosure from permanent trade secret protection.
+
+Let the record reflect: nothing here is a blanket public license.
+
+**TIER 1: Disclosed for Prior Art Purposes Only**  
+Mathematical expressions, architectural constants, and empirical measurements are published to establish a statutory record under 35 U.S.C. § 102. This does not grant implementation rights.
+
+**TIER 2: Shared for Independent Replication**  
+The 10-paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted.
+
+**TIER 3: Proprietary Trade Secret**  
+The full 187-line ADAM CODE™ source, implementation keys, and production deployment sequences remain sealed under 18 U.S.C. § 1836.
+
+## Forensic Notice & OEM Encroachment Analysis
+
+This repository and the P25 Protocol constitute an original work of authorship protected under 17 U.S.C. § 102 and the Berne Convention. The public disclosure is intended as a statutory bar against future patent monopolization.
+
+Intel TDT, AMD PSP / SEV-SNP, NVIDIA Blackwell, and Microsoft Pluton are cited here as comparative reference points in the broader substrate-security landscape. They are not presented as identical systems. The point of comparison is architectural altitude, enforcement path, and degree of software brokerage.
+
+Any future implementation that materially mirrors Ring -3 SMM autonomous sequestration, deterministic state collapse via I/O Port 0xCF9, or 26-bit algebraic governance must be evaluated against the existing public disclosure record.
+
+## Trademark Declaration & Strategic Abandonment
+
+The following trademarks are asserted as proprietary marks of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC: HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, QAIS (Quantum AI Singularity™).
+
+The USPTO trademark system was used as a permanent universal timestamp. The abandoned status of certain marks was a strategic choice intended to preserve the 70% proprietary trade secret core.
+
+## The 10-Paper Evidentiary Corpus
 
 **Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0-1 Silicon Sovereignty. These peer-reviewed and time-stamped defensive publications permanently establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
 
