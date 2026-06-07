@@ -1,6 +1,6 @@
 # PART IV: LEGAL, IP, AND FORENSIC NOTICE
 
-## The Three‑Tier Intellectual Property Framework
+ 
 
 This repository and the accompanying 10‑paper corpus establish the public legal characterization of HDAA™ intellectual property. The framework separates prior‑art disclosure from permanent trade‑secret protection.
 
@@ -53,29 +53,5 @@ For clarity, the specific threat model elements to document in the legal/forensi
 
 These risks are why the repository is strict about timestamps, wording blocks, and artifact retention.
 
-## Part III Metrics Clarified
-
-The metrics listed in Part III are the ones that make the protocol legible to researchers and patent‑facing readers:
-
-- Latency (Δt and median).
-- Trial count (10 247).
-- Sample rate (500 MS/s).
-- F1 score (0.997).
-- Human‑reaction ratio (105 042×).
-- Reset vector timing (0xCF9 path).
-- Threshold boundary (Z ≥ 3.20).
-- Hardware platform reference (Intel i7‑7700K baseline; revalidation required elsewhere).
-
-Any legal, IP, or forensic discussion that references “the experiment” or “the bench” must point back to these same metrics.
-
-## Part I / II / III / IV Layout Rule
-
-Use this layout consistently across README, Guidebook, and future papers:
-
-- **Part I** — Identity, branding, notices, abstract, executive summary, and repository map.
-- **Part II** — Doctrine and threat model.
-- **Part III** — Architecture, equations, metrics, and replication protocol.
-- **Part IV** — Legal/IP framing and the corpus table.
-
-This is how the GitHub repository and the Researcher Guidebook stay locked together as twin public interfaces. 
+  
  
