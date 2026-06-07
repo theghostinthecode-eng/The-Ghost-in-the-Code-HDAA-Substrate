@@ -1,14 +1,15 @@
 # PART II: VISION & DOCTRINE
 
-## The Nation-State Threat: A Failure of Imagination
+## The Nation‑State Threat: A Failure of Imagination
 
-On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth’s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: **a failure of imagination**.
+On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth’s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: a failure of imagination.
 
-In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called **Harvest Now, Decrypt Later**. The destination is **Q‑Day**.  
+In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called Harvest Now, Decrypt Later. The destination is Q‑Day. 
+
+Within that frame, RSA and ECDSA function as the principal cryptographic load-bearing structures of the modern digital system. Once a cryptographically relevant quantum capability reaches the required threshold, software-defined trust assumptions above the silicon floor lose their enforcement value because the secrecy premise beneath identity, transport, authentication, and stored confidentiality is no longer stable.
+
 
 No software-defined security layer—no firewall, no cryptographic protocol, no AI alignment policy—survives Q‑Day. They all rely on mathematical hardness assumptions that cryptographically relevant quantum computing will dissolve. One exception remains under this framework: **hardware‑native substrate sovereignty at Layer 0–1**.
-
-Within that frame, RSA and ECDSA function as the principal cryptographic load-bearing structures of the modern digital system. Once a cryptographically relevant quantum capability reaches the required threshold, software-defined trust assumptions above the silicon floor lose their enforcement value because the secrecy premise beneath identity, transport, authentication, and stored confidentiality is no longer stable. 
 
 The central claim of this repository is therefore architectural rather than rhetorical. If every higher software layer depends on hardness assumptions that can be invalidated externally, then only a control mechanism anchored below those layers remains materially distinct in both jurisdiction and failure mode.  
 
