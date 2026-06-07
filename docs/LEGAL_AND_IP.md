@@ -2,7 +2,7 @@
 
  
 
-This repository and the accompanying 10‑paper corpus establish the public legal characterization of HDAA™ intellectual property. The framework separates prior‑art disclosure from permanent trade‑secret protection. 
+This repository and the accompanying 10‑paper corpus establish the public legal characterization of HDAA™ intellectual property.  The framework separates prior‑art disclosure from permanent trade‑secret protection. 
 
 Let the record reflect: **nothing here is a blanket public license.**
 
