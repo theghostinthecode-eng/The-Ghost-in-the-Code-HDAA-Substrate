@@ -1,50 +1,48 @@
 # PART IV: LEGAL, IP, AND FORENSIC NOTICE
 
-## The Three-Tier Intellectual Property Framework
+## The Three‑Tier Intellectual Property Framework
 
-This repository and the accompanying 10-paper corpus establish the public legal characterization of HDAA™ intellectual property. The framework separates prior-art disclosure from permanent trade secret protection.
+This repository and the accompanying 10‑paper corpus establish the public legal characterization of HDAA™ intellectual property. The framework separates prior‑art disclosure from permanent trade‑secret protection.
 
-Let the record reflect: nothing here is a blanket public license.
+Let the record reflect: **nothing here is a blanket public license.**
 
-**TIER 1: Disclosed for Prior Art Purposes Only**  
-Mathematical expressions, architectural constants, and empirical measurements are published to establish a statutory record under 35 U.S.C. § 102. This does not grant implementation rights.
+**TIER 1: Disclosed for Prior‑Art Purposes Only**  
+Mathematical expressions, architectural constants, tables, and empirical measurements are published to establish a statutory record under 35 U.S.C. § 102. This does not grant implementation rights.
 
 **TIER 2: Shared for Independent Replication**  
-The 10-paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted.
+The 10‑paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted; the ONUS of replication and interpretation rests entirely on the institution.
 
 **TIER 3: Proprietary Trade Secret**  
-The full 187-line ADAM CODE™ source, implementation keys, and production deployment sequences remain sealed under 18 U.S.C. § 1836.
+The full 187‑line ADAM CODE™ source, calibrated trigger constants, implementation keys, and production deployment sequences remain sealed under 18 U.S.C. § 1836 and are **not** contained in this repository.
 
 ## Corpus Placement
 
-The corpus table belongs in **Part IV as the authoritative statutory anchor**, because that is where the legal and evidentiary significance is explained. 
+The corpus table belongs in **Part IV as the authoritative statutory anchor**, because this is where the legal and evidentiary significance is explained and cross‑linked to the trademark chain and reduction‑to‑practice record.
 
-## The 10-Paper Evidentiary Corpus
+## The 10‑Paper Evidentiary Corpus
 
-**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0-1 Silicon Sovereignty. These peer-reviewed and time-stamped defensive publications permanently establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
+**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0–1 Silicon Sovereignty. These time‑stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
 
 | DOCUMENT | TITLE | STATUTORY ROLE | ZENODO DIRECT LINK |
 |---|---|---|---|
-| **MDP V_01** | Master Defensive Publication of Layer 0-1 Silicon Sovereignty | Master Statutory Anchor | [10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911) |
+| **MDP V_01** | Master Defensive Publication of Layer 0‑1 Silicon Sovereignty | Master Statutory Anchor | [10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911) |
 | **V05** | Master Defensive Pub: 33+1 Laws of Immunity | Lexicographical Standard | [10.5281/zenodo.18436373](https://doi.org/10.5281/zenodo.18436373) |
 | **P25** | Substrate Enforcement Protocol: The 0xCF9 Revolution | §112 Bridge & IP Definition | [10.5281/zenodo.18672039](https://doi.org/10.5281/zenodo.18672039) |
 | **P50** | CODE BLACK™: The Δt ≤ 2.38μs Law of Substrate Sovereignty | §112 Engineering Enablement | [10.5281/zenodo.18473289](https://doi.org/10.5281/zenodo.18473289) |
-| **P75** | The ADAM CODE™: Genesis of the Ghost (2005-2017) | Biographical Record | [10.5281/zenodo.18672036](https://doi.org/10.5281/zenodo.18672036) |
+| **P75** | The ADAM CODE™: Genesis of the Ghost (2005–2017) | Biographical Record | [10.5281/zenodo.18672036](https://doi.org/10.5281/zenodo.18672036) |
 | **P99** | HDAA™ Prototype Evaluation: Forensic Abstract | Empirical Reduction to Practice | [10.5281/zenodo.18435920](https://doi.org/10.5281/zenodo.18435920) |
 | **P100** | DARK HARVEST™ ACIP™: Playbook for Weaponized AI | Operational Doctrine | [10.5281/zenodo.18523047](https://doi.org/10.5281/zenodo.18523047) |
 | **V01_a** | Master Forensic Package HDAA™ The Ghost in the Code | Chain of Title Anchor | [10.5281/zenodo.18696018](https://doi.org/10.5281/zenodo.18696018) |
-| **V01_a (ACIP)** | CODE BLACK™ ACIP™ Intelligence Briefing | Prior Art Layer 1 Doctrine | [10.5281/zenodo.18718577](https://doi.org/10.5281/zenodo.18718577) |
+| **V01_a (ACIP)** | CODE BLACK™ ACIP™ Intelligence Briefing | Prior‑Art Layer 1 Doctrine | [10.5281/zenodo.18718577](https://doi.org/10.5281/zenodo.18718577) |
 | **V02_a** | CODE BLACK™ Tactical Directive: The 2.38μs Law | Tactical Operational Preemption | [10.5281/zenodo.18203897](https://doi.org/10.5281/zenodo.18203897) |
 
-**Summary:** By depositing these documents into the Zenodo Evidentiary Plane, the Author has ensured that no corporate entity can successfully claim "first-to-invent" status regarding Ring -3 AI containment architectures post-2017.
+**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author has created a timestamped, DOI‑anchored public record for Layer 0–1 / Ring −3 architectures. Any later substrate‑level AI containment claims must be read against this record.
 
-The ultimate proof that Ring 0 and Ring -1 have fallen is found not just in threat intelligence, but in the frantic defensive posturing of the hardware oligopoly. Between March 3 and March 31, 2026, official USPTO Patent Center records documented 22 third-party preissuance submissions across 6 unique patent applications filed by NVIDIA, AMD, and Intel. The OEMs are racing to claim substrate-level territory at Ring -2 and Ring -3 (e.g., Virtualized Roots of Trust, Attestable PCR Extensions). While the oligopoly attempts to patent defensive walls to catch up to the autonomous threat vectors, the Schröder Precedence™ already occupies the only wall that cannot be delegated upward.
+## Part II Threat Elements (Legal / Forensic View)
 
-## Part II Threat Elements
+For clarity, the specific threat model elements to document in the legal/forensic layer are:
 
-For clarity, the specific threat model elements to document here are:
-
-- Nation-state competition over chronology and prior art.
+- Nation‑state competition over chronology and prior art.
 - Patent encroachment by OEMs.
 - Documentation drift and section deletion.
 - Artifact tampering in CI/CD.
@@ -53,23 +51,31 @@ For clarity, the specific threat model elements to document here are:
 - Misclassification of public versus sealed material.
 - Loss of reproducibility due to missing logs or thresholds.
 
+These risks are why the repository is strict about timestamps, wording blocks, and artifact retention.
+
 ## Part III Metrics Clarified
 
-The metrics listed in Part III are the ones that make the protocol legible to researchers:
-- latency.
-- trial count.
-- sample rate.
-- F1 score.
-- human-reaction ratio.
-- reset vector timing.
-- threshold boundary.
-- hardware platform reference.
+The metrics listed in Part III are the ones that make the protocol legible to researchers and patent‑facing readers:
 
-## Part I/II/III/IV Layout Rule
+- Latency (Δt and median).
+- Trial count (10 247).
+- Sample rate (500 MS/s).
+- F1 score (0.997).
+- Human‑reaction ratio (105 042×).
+- Reset vector timing (0xCF9 path).
+- Threshold boundary (Z ≥ 3.20).
+- Hardware platform reference (Intel i7‑7700K baseline; revalidation required elsewhere).
 
-Use this layout:
-- Part I for identity, branding, notices, abstract, executive summary, and repository map.
-- Part II for doctrine and threat model.
-- Part III for architecture, metrics, and protocol.
-- Part IV for legal/IP and the corpus table.
+Any legal, IP, or forensic discussion that references “the experiment” or “the bench” must point back to these same metrics.
+
+## Part I / II / III / IV Layout Rule
+
+Use this layout consistently across README, Guidebook, and future papers:
+
+- **Part I** — Identity, branding, notices, abstract, executive summary, and repository map.
+- **Part II** — Doctrine and threat model.
+- **Part III** — Architecture, equations, metrics, and replication protocol.
+- **Part IV** — Legal/IP framing and the corpus table.
+
+This is how the GitHub repository and the Researcher Guidebook stay locked together as twin public interfaces. 
  
