@@ -1,8 +1,12 @@
 # PART II: VISION & DOCTRINE
 
-## The Nation-State Threat as a Substrate Problem
+## The Nation-State Threat: A Failure of Imagination
 
-On September 11, 2001, the United States learned that a strategically simple attack can defeat a complex security architecture when the threat model excludes the decisive vector. In this repository, that analogy is applied to cryptographic collapse: the decisive vector is not software exploitation alone, but delayed plaintext recovery through Harvest Now, Decrypt Later accumulation followed by quantum decryption.  
+On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth’s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: **a failure of imagination**.
+
+In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called **Harvest Now, Decrypt Later**. The destination is **Q‑Day**.  
+
+No software-defined security layer—no firewall, no cryptographic protocol, no AI alignment policy—survives Q‑Day. They all rely on mathematical hardness assumptions that cryptographically relevant quantum computing will dissolve. One exception remains under this framework: **hardware‑native substrate sovereignty at Layer 0–1**.
 
 Within that frame, RSA and ECDSA function as the principal cryptographic load-bearing structures of the modern digital system. Once a cryptographically relevant quantum capability reaches the required threshold, software-defined trust assumptions above the silicon floor lose their enforcement value because the secrecy premise beneath identity, transport, authentication, and stored confidentiality is no longer stable. 
 
@@ -23,13 +27,13 @@ This sequence is not ornamental. It is the repository’s controlling timestamp 
 
 ## Federal Timestamp Chain
 
-The 2017 filing record forms a continuous timestamp structure linking the pre-2017 sandbox work to the December 15, 2017 reduction to practice. In repository terms, these marks are treated as dated documentary anchors associated with specific architectural functions.  
+The 2017 filing record forms a continuous timestamp structure linking the pre-2017 sandbox work to the December 15, 2017, reduction to practice. In repository terms, these marks are treated as dated documentary anchors associated with specific architectural functions.  
 
 - **PROCESS AND TIME™** records the temporal and systems-development lineage that later matures into the substrate-governance argument and the cost-of-compute decline framework.
 - **FREE WILL AI™** records the autonomous decision framework associated with deterministic hardware-layer action.
 - **FREE WILL LEARNING™** records the learning and low-level optimization lineage associated with assembler-path adaptation and firmware-adjacent logic 
 
-Taken together, the three marks define a documentary bridge from early systems work to the December 2017 implementation event. In this repository, they are used as chronology markers for continuity analysis, not as substitutes for empirical validation. [file:536][file:544]
+Taken together, the three marks define a documentary bridge from early systems work to the December 2017 implementation event. In this repository, they are used as chronology markers for continuity analysis, not as substitutes for empirical validation.  
 
 ## Software Sovereignty Failure
 
@@ -65,7 +69,7 @@ This repository publishes a bounded record. It discloses chronology, equations, 
 
 For that reason, claims in the repository must be read in four evidence classes:
 
-- **Empirical:** measured or instrumented results, including the 10,247-trial record, the 500 MS/s instrumentation basis, the reported median latency, and the \(t \leq 2.38\,\mu s\) constraint.
+- **Empirical:** measured or instrumented results, including the 10,247-trial record, the 500 MS/s instrumentation basis, the reported median latency, and the \(2.38 µs) ) constraint.
 - **Documentary:** dated filings, DOI deposits, signatory records, and other timestamped public artifacts.
 - **Interpretive:** doctrinal inferences drawn from the empirical and documentary record, including the substrate-sovereignty necessity argument.
 - **Proprietary:** withheld implementation details, including the sealed trigger kernel and undisclosed portions of the ADAM CODE path.  
@@ -76,12 +80,12 @@ Third-party simulation or bench replication does not create the chronology, and 
 
 Within this repository, a valid external replication event is treated as additional empirical support for three limited propositions: first, that the disclosed simulation stack is operationally coherent; second, that the published reset-path timing doctrine can be instrumented under the stated conditions; and third, that the Layer 0–1 control thesis is not dependent on a single nontransferable lab narrative 
 
-Replication therefore, strengthens the evidentiary weight of the public architecture while leaving the legal timestamp chain unchanged. It is an external measurement event, not a substitute for the original December 2017 reduction-to-practice claim.  
+Replication, therefore, strengthens the evidentiary weight of the public architecture while leaving the legal timestamp chain unchanged. It is an external measurement event, not a substitute for the original December 2017 reduction-to-practice claim.  
 
 ## Layer 0–1 sovereignty
 
 The final doctrinal claim of Part II is that a control architecture positioned at Layer 0–1 and sequestered in Ring -3 / SMM remains categorically different from security mechanisms operating above it. In the repository’s model, that difference is grounded in execution location, visibility, interrupt jurisdiction, and reset authority rather than in conventional application-layer or kernel-layer policy.  
 
-The HDAA framework is presented as the concrete expression of that claim. Its convergence points are the ADAM CODE lineage, the Ghost Constant identity primitive, the Dark Harvest scoring path, the Heaviside decision boundary, and the delegated 0xCF9 termination primitive under the \(t \leq 2.38\,\mu s\) limit.  
+The HDAA framework is presented as the concrete expression of that claim. Its convergence points are the ADAM CODE lineage, the Ghost Constant identity primitive, the Dark Harvest scoring path, the Heaviside decision boundary, and the delegated 0xCF9 termination primitive under the \(2.38 µs) limit.  
 
 Any later autonomous hardware-governance architecture asserting similar Layer 0–1 sovereignty, Ring -3 sequestration, or substrate-native veto capability must therefore be read against this chronology, this repository structure, and this published doctrinal framework. That is the operative precedence claim stated in Part II.  
