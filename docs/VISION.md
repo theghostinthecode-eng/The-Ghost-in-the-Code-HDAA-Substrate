@@ -1,5 +1,6 @@
 # PART II: VISION & DOCTRINE
 
+
 ## The Nation‑State Threat: A Failure of Imagination
 
 On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth’s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: a failure of imagination.
