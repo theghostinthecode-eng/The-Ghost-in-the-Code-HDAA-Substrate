@@ -46,8 +46,6 @@ The protocol section keeps metrics explicit and legible to researchers:
 - **Trigger Boundary:** Heaviside threshold at Z ≥ 3.20.
 - **Telemetry Inputs:** Voltage, flags, MSRs, SMI assertion, and PLTRST# timing.
 
-Wherever these values appear—in README, Guidebook, or papers—they must appear exactly in this form.
-
 ## The Master Equations — Public Disclosure Tier
 
 ⚠️ The calibrated threshold constants and 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. § 1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. § 102.
@@ -71,7 +69,7 @@ These five are the only canonical public equations for the architecture.
 
 ## Core Forensic Metrics — Validated December 15, 2017
 
-Educational Context: the absolute latency between breach detection and power‑state collapse is the physical boundary the researcher must attempt to reproduce. The table below captures the original forensic measurement set.
+Educational Context: The absolute latency between breach detection and power‑state collapse is the physical boundary the researcher must attempt to reproduce. The table below captures the original forensic measurement set.
 
 | Metric | Value | Methodology |
 |---|---:|---|
@@ -97,8 +95,6 @@ For academic researchers, hardware engineers, and independent labs:
 3. Run the Dockerized harness and collect SMI# and PLTRST# timestamps.
 4. Compute Δt and verify whether it remains at or below 2.38 μs.
 5. Archive logs, workflow artifacts, and release tags as part of the reproducibility record.
-
-A single successful third‑party replication materially changes how this repository and corpus are read by researchers, OEM executives, patent‑facing readers, and critics.
 
 ## CI/CD Provenance Note
 
