@@ -15,10 +15,6 @@ The 10‑paper research corpus and Phase 2 simulation environment are shared to 
 **TIER 3: Proprietary Trade Secret**  
 The full 187‑line ADAM CODE™ source, calibrated trigger constants, implementation keys, and production deployment sequences remain sealed under 18 U.S.C. § 1836 and are **not** contained in this repository.
 
-## Corpus Placement
-
-The corpus table belongs in **Part IV as the authoritative statutory anchor**, because this is where the legal and evidentiary significance is explained and cross‑linked to the trademark chain and reduction‑to‑practice record.
-
 ## The 10‑Paper Evidentiary Corpus
 
 **Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0–1 Silicon Sovereignty. These time‑stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
