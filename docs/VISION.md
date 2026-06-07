@@ -55,11 +55,11 @@ Accordingly, the repository’s control thesis is narrow and technical: code exe
 
 The operative threat model in Part II includes the following elements. These are the categories through which the remainder of the repository should be interpreted.  
 
-- **Actors:** nation-state operators, supply-chain adversaries, insider threats, autonomous agents, and OEM-adjacent implementation actors.
+- **Actors:** nation-state operators, supply-chain adversaries, insider threats, autonomous agents.
 - **Assets:** substrate control boundaries, SMRAM/SMM isolation, timing evidence, repository provenance, DOI-linked publications, and dated trademark records.
-- **Attack surfaces:** Rings 0–3, firmware update channels, hypervisor boundaries, CI/CD provenance, publication integrity, repository forks, and chronology drift across documents.
-- **Threat classes:** spoofing, tampering, repudiation, disclosure, denial of service, privilege escalation, chronology inversion, and false equivalence between disclosed architecture and sealed implementation.
-- **Trust boundaries:** operating system to firmware, firmware to SMM, public paper to DOI archive, repository artifact to publication record, and disclosed theory to withheld trigger core.
+- **Attack surfaces:** Rings 0–3, firmware update channels, hypervisor boundaries, CI/CD provenance.
+- **Threat classes:** spoofing, tampering, repudiation, disclosure, denial of service, privilege escalation, chronology inversion.
+- **Trust boundaries:** operating system to firmware, firmware to SMM, public paper to DOI archive, repository artifact. 
 - **Failure modes:** broken timestamp continuity, wording drift, section mismatch, inconsistent formulas, invalid figure references, overwritten chronology, and confusion between empirical evidence and doctrinal interpretation.
 - **Mitigations:** signed releases, DOI deposits, fixed chronology, canonical term control, retained artifact lineage, and strict separation of public architecture from sealed trade-secret material. 
 
