@@ -1,25 +1,22 @@
 <div align="center">
 
-# 🛑 DECLASSIFIED: THE GHOST IN THE CODE™
-## THE FALL OF RINGS
-### Substrate Sovereignty and the Δt ≤ 2.38μs Law
-#### Schröder Sovereignty Stack™ — Hardware-Driven Autonomous Agent (HDAA™) Defensive Architecture
+# The Ghost in the Code™: The Fall of Rings
+## Substrate Sovereignty and the Δt ≤ 2.38μs Law
+### Schröder Sovereignty Stack™ — Hardware-Driven Autonomous Agent (HDAA™) Defensive Architecture
 
-<br>
-<img src="https://img.shields.io/badge/STATUS-DECLASSIFIED-red?style=for-the-badge&logo=shield" alt="Declassified"/>
-<img src="https://img.shields.io/badge/LAYER-RING%20--3%20SMM-black?style=for-the-badge" alt="Ring -3"/>
-<img src="https://img.shields.io/badge/LATENCY-Δt%20≤%202.38μs-yellow?style=for-the-badge" alt="Schröder Limit"/>
-<br><br>
+[**DOI: 10.5281/zenodo.18738911**](https://doi.org/10.5281/zenodo.18738911) ❦ [**DOI: 10.5281/zenodo.18672039**](https://doi.org/10.5281/zenodo.18672039)
 
-| 🗄️ FORENSIC RECORD | SECURE DATA |
+
+
+| | |
 | :--- | :--- |
 | **Principal Architect** | Sir Steven Alexander Schröder |
-| **Operational Identity** | The Ghost in the Code™ |
-| **Origin Organization** | Quantum Cyberwar Labs LLC |
-| **Federal Timestamp Proof** | Justia Trademarks Archive: S.I. Platinum Partners Inc. |
-| **Immutable Priority Date** | December 15, 2017 |
+| **Identity** | The Ghost in the Code™ |
+| **Organization** | Quantum Cyberwar Labs LLC |
+| **Federal Timestamp Proof** | [Justia Trademarks Archive: S.I. Platinum Partners Inc.](https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3467475/) |
+| **Priority Date** | December 15, 2017 |
 | **Registered Trademarks** | HDAA™ \| Schröder Precedence™ \| Silicon Sovereignty™ \| Schröder Sovereignty Stack™ |
-| **APA Author Note** | Filed as Prior Art Disclosure under 35 U.S.C. § 102 — deterministic chronological precedence established. Distributed under CC-BY-4.0. |
+| **APA Author Note** | Filed as Prior Art Disclosure under 35 U.S.C. § 102 — deterministic chronological precedence established. Distributed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). |
 
 </div>
 
