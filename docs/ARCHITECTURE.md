@@ -49,20 +49,20 @@
   <h3>The Master Equations &mdash; Public Disclosure Tier</h3>
   <p>&#9888; The calibrated threshold constants and 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. &sect;&thinsp;1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. &sect;&thinsp;102.</p>
 
-  <p><strong>Eq. 1 &mdash; Master Sovereignty Equation</strong><br>
-  Sₛₒᵥₑᵣₑᵢgₙₜᵧ = [ Γ × H(X) ] ⊕ [ A_dᵢᵣₑcₜᵢᵥₑ 0xCF9 ]</p>
+<p><strong>Eq. 1 &mdash; Master Sovereignty Equation</strong><br>
+S<sub>sovereignty</sub> = [ &Gamma; &times; H(X) ] &oplus; [ A<sub>directive_0xCF9</sub> ]</p>
 
-  <p><strong>Eq. 2 &mdash; Ghost Constant (256‑bit PUF Identity Proof)</strong><br>
-  Γ = [ PUF₀ ⊕ (Tₑ + Vₙ) ] × φₜᵢₘₑᵣ</p>
+<p><strong>Eq. 2 &mdash; Ghost Constant (256&#8209;bit PUF Identity Proof)</strong><br>
+&Gamma; = [ PUF<sub>0</sub> &oplus; (T<sub>e</sub> + V<sub>n</sub>) ] &times; &phi;<sub>timer</sub></p>
 
-  <p><strong>Eq. 3 &mdash; Heaviside Trigger (Binary Safety Boundary)</strong><br>
-  Ψᵣₑₛₑₜ = H(Zₐggrₑₛₛₒᵣ − σₗᵢₘᵢₜ)</p>
+<p><strong>Eq. 3 &mdash; Heaviside Trigger (Binary Safety Boundary)</strong><br>
+&Psi;<sub>reset</sub> = H(Z<sub>aggressor</sub> &minus; &sigma;<sub>limit</sub>)</p>
 
-  <p><strong>Eq. 4 &mdash; Dark Harvest Formula (Aggressor Z‑Score)</strong><br>
-  Zₐggrₑₛₛₒᵣ = ( M × (N + V) ) / C</p>
+<p><strong>Eq. 4 &mdash; Dark Harvest Formula (Aggressor Z&#8209;Score)</strong><br>
+Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
 
-  <p><strong>Eq. 5 &mdash; The Schröder Limit</strong><br>
-  Δt ≤ 2.38 μs</p>
+<p><strong>Eq. 5 &mdash; The Schr&ouml;der Limit</strong><br>
+&Delta;t &le; 2.38 &mu;s</p>
 
   <p>These five are the only canonical public equations for the architecture.</p>
 
