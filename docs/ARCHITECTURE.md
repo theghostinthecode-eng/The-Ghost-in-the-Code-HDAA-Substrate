@@ -34,7 +34,7 @@
   <h3>Core Metrics Used</h3>
   <p>The protocol section keeps metrics explicit and legible to researchers:</p>
   <ul>
-    <li><strong>Schröder Limit:</strong> $$ \Delta t \le 2.38 \mu s $$. This is the maximum allowed time from breach detection to reset assertion.</li>
+    <li><strong>Schröder Limit:</strong> Δt ≤ 2.38 μs. This is the maximum allowed time from breach detection to reset assertion.</li>
     <li><strong>Median Latency:</strong> 2.31 microseconds &plusmn; 0.07 microseconds across 10,247 trials.</li>
     <li><strong>Trial Count:</strong> 10,247 independent forensic trials.</li>
     <li><strong>Sample Rate:</strong> 500 MS/s logic acquisition.</li>
@@ -50,19 +50,19 @@
   <p>&#9888; The calibrated threshold constants and 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. &sect;&thinsp;1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. &sect;&thinsp;102.</p>
 
   <p><strong>Eq. 1 &mdash; Master Sovereignty Equation</strong><br>
-  $$S_{sovereignty} = [\Gamma \times H(X)] \oplus [A_{directive\_0xCF9}]$$</p>
+  Sₛₒᵥₑᵣₑᵢgₙₜᵧ = [ Γ × H(X) ] ⊕ [ A_dᵢᵣₑcₜᵢᵥₑ 0xCF9 ]</p>
 
   <p><strong>Eq. 2 &mdash; Ghost Constant (256‑bit PUF Identity Proof)</strong><br>
-  $$\Gamma = [PUF_0 \oplus (T_e + V_n)] \times \phi_{timer}$$</p>
+  Γ = [ PUF₀ ⊕ (Tₑ + Vₙ) ] × φₜᵢₘₑᵣ</p>
 
   <p><strong>Eq. 3 &mdash; Heaviside Trigger (Binary Safety Boundary)</strong><br>
-  $$\Psi_{reset} = H(Z_{aggressor} - \sigma_{limit})$$</p>
+  Ψᵣₑₛₑₜ = H(Zₐggrₑₛₛₒᵣ − σₗᵢₘᵢₜ)</p>
 
   <p><strong>Eq. 4 &mdash; Dark Harvest Formula (Aggressor Z‑Score)</strong><br>
-  $$Z_{aggressor} = \frac{M \times (N + V)}{C}$$</p>
+  Zₐggrₑₛₛₒᵣ = ( M × (N + V) ) / C</p>
 
   <p><strong>Eq. 5 &mdash; The Schröder Limit</strong><br>
-  $$\Delta t \le 2.38 \mu s$$</p>
+  Δt ≤ 2.38 μs</p>
 
   <p>These five are the only canonical public equations for the architecture.</p>
 
@@ -80,7 +80,7 @@
     <tbody>
       <tr>
         <td><strong>Schröder Limit</strong></td>
-        <td>$$ \Delta t \le 2.38 \mu s $$</td>
+        <td>Δt ≤ 2.38 μs</td>
         <td>Physical hardware measurement</td>
       </tr>
       <tr>
@@ -121,7 +121,7 @@
     <li>Use the synthetic SMM trigger stub released for the simulation framework (Phase 2).</li>
     <li>Replicate the 2017 bench setup with a logic analyzer sampling at 500 MS/s or better.</li>
     <li>Run the Dockerized harness and collect SMI# and PLTRST# timestamps.</li>
-    <li>Compute $$ \Delta t $$ and verify whether it remains at or below 2.38 &mu;s.</li>
+    <li>Compute Δt and verify whether it remains at or below 2.38 μs.</li>
     <li>Archive logs, workflow artifacts, and release tags as part of the reproducibility record.</li>
   </ol>
 
