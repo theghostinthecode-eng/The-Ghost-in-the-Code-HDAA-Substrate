@@ -153,6 +153,5 @@ This architectural doctrine, legal framework, and the accompanying evidentiary c
   <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a></b></p>
 </div>
 
-```
-  
+```    
  
