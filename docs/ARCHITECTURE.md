@@ -149,3 +149,9 @@ GitHub Actions should be utilized to capture latency logs, preserve waveforms, a
 
 The purpose of CI/CD here is forensic provenance, not decoration.
 </div>
+
+<br>
+<hr>
+<div align="center">
+  <p><b>Proceed to <a href="./LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a></b></p>
+</div>
