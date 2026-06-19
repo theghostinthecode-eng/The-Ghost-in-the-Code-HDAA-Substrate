@@ -1,53 +1,146 @@
-# PART IV: LEGAL, IP, AND FORENSIC NOTICE
+<div align="center">
 
- 
+  <h1>&#9878;&#65039; PART IV: LEGAL, IP, AND FORENSIC NOTICE</h1>
+  <h2>The Three-Tier Framework and the Statutory Anchor</h2>
 
-This repository and the accompanying 10‑paper corpus establish the public legal characterization of HDAA™ intellectual property.  The framework separates prior‑art disclosure from permanent trade‑secret protection. 
+</div>
 
-Let the record reflect: **nothing here is a blanket public license.**
+<br>
 
-**TIER 1: Disclosed for Prior‑Art Purposes Only**  
-Mathematical expressions, architectural constants, tables, and empirical measurements are published to establish a statutory record under 35 U.S.C. § 102. This does not grant implementation rights.
+<p>This repository and the accompanying 10‑paper corpus establish the public legal characterization of the HDAA&trade; intellectual property. The framework separates prior‑art disclosure from permanent trade‑secret protection.</p>
 
-**TIER 2: Shared for Independent Replication**  
-The 10‑paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted; the ONUS of replication and interpretation rests entirely on the institution.
+<blockquote style="border-left: 5px solid #cb2431; padding: 10px 20px; background-color: #ffeef0; color: #24292e;">
+  <p>&#9888;&#65039; <strong>Let the record reflect: nothing here is a blanket public license.</strong></p>
+</blockquote>
 
-**TIER 3: Proprietary Trade Secret**  
-The full 187‑line ADAM CODE™ source, calibrated trigger constants, implementation keys, and production deployment sequences remain sealed under 18 U.S.C. § 1836 and are **not** contained in this repository.
+### &#128275; THE 30/70 SPLIT: IP CLASSIFICATION TIERS
 
-## The 10‑Paper Evidentiary Corpus
+<table style="width: 100%; border-collapse: collapse; font-size: 0.95em; text-align: left;">
+  <tr style="background-color: #24292e; color: #ffffff;">
+    <th style="padding: 12px; border: 1px solid #ddd; width: 25%;">Classification</th>
+    <th style="padding: 12px; border: 1px solid #ddd;">Statutory Definition &amp; Scope</th>
+  </tr>
+  <tr>
+    <td style="padding: 12px; border: 1px solid #ddd;"><b>TIER 1:<br>Disclosed for Prior‑Art Purposes Only</b></td>
+    <td style="padding: 12px; border: 1px solid #ddd;">Mathematical expressions, architectural constants, tables, and empirical measurements are published to establish a statutory record under 35 U.S.C. &sect;&thinsp;102. <b>This does not grant implementation rights.</b></td>
+  </tr>
+  <tr style="background-color: #f6f8fa;">
+    <td style="padding: 12px; border: 1px solid #ddd;"><b>TIER 2:<br>Shared for Independent Replication</b></td>
+    <td style="padding: 12px; border: 1px solid #ddd;">The 10‑paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted; the ONUS of replication and interpretation rests entirely on the institution.</td>
+  </tr>
+  <tr>
+    <td style="padding: 12px; border: 1px solid #ddd; color: #cb2431;"><b>TIER 3:<br>Proprietary Trade Secret</b></td>
+    <td style="padding: 12px; border: 1px solid #ddd;">The full 187‑line ADAM CODE&trade; source, calibrated trigger constants, implementation keys, and production deployment sequences <b>remain sealed under 18 U.S.C. &sect;&thinsp;1836 and are not contained in this repository.</b></td>
+  </tr>
+</table>
 
-**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0–1 Silicon Sovereignty. These time‑stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
+---
 
-| DOCUMENT | TITLE | STATUTORY ROLE | ZENODO DIRECT LINK |
-|---|---|---|---|
-| **MDP V_01** | Master Defensive Publication of Layer 0‑1 Silicon Sovereignty | Master Statutory Anchor | [10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911) |
-| **V05** | Master Defensive Pub: 33+1 Laws of Immunity | Lexicographical Standard | [10.5281/zenodo.18436373](https://doi.org/10.5281/zenodo.18436373) |
-| **P25** | Substrate Enforcement Protocol: The 0xCF9 Revolution | §112 Bridge & IP Definition | [10.5281/zenodo.18672039](https://doi.org/10.5281/zenodo.18672039) |
-| **P50** | CODE BLACK™: The Δt ≤ 2.38μs Law of Substrate Sovereignty | §112 Engineering Enablement | [10.5281/zenodo.18473289](https://doi.org/10.5281/zenodo.18473289) |
-| **P75** | The ADAM CODE™: Genesis of the Ghost (2005–2017) | Biographical Record | [10.5281/zenodo.18672036](https://doi.org/10.5281/zenodo.18672036) |
-| **P99** | HDAA™ Prototype Evaluation: Forensic Abstract | Empirical Reduction to Practice | [10.5281/zenodo.18435920](https://doi.org/10.5281/zenodo.18435920) |
-| **P100** | DARK HARVEST™ ACIP™: Playbook for Weaponized AI | Operational Doctrine | [10.5281/zenodo.18523047](https://doi.org/10.5281/zenodo.18523047) |
-| **V01_a** | Master Forensic Package HDAA™ The Ghost in the Code | Chain of Title Anchor | [10.5281/zenodo.18696018](https://doi.org/10.5281/zenodo.18696018) |
-| **V01_a (ACIP)** | CODE BLACK™ ACIP™ Intelligence Briefing | Prior‑Art Layer 1 Doctrine | [10.5281/zenodo.18718577](https://doi.org/10.5281/zenodo.18718577) |
-| **V02_a** | CODE BLACK™ Tactical Directive: The 2.38μs Law | Tactical Operational Preemption | [10.5281/zenodo.18203897](https://doi.org/10.5281/zenodo.18203897) |
+## &#128218; THE 10-PAPER EVIDENTIARY CORPUS
 
-**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author has created a timestamped, DOI‑anchored public record for Layer 0–1 / Ring −3 architectures. Any later substrate‑level AI containment claims must be read against this record.
+**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0&ndash;1 Silicon Sovereignty. These time‑stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schr&ouml;der Precedence&trade; under 35 U.S.C. &sect;&thinsp;102.
 
-## Part II Threat Elements (Legal / Forensic View)
+<table style="width: 100%; border-collapse: collapse; font-size: 0.9em; text-align: left;">
+  <tr style="background-color: #0366d6; color: #ffffff;">
+    <th style="padding: 10px; border: 1px solid #ddd;">DOCUMENT</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">TITLE</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">STATUTORY ROLE</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">ZENODO DIRECT LINK</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>MDP V_01</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Defensive Publication of Layer 0‑1 Silicon Sovereignty</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Statutory Anchor</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18738911" target="_blank">10.5281/zenodo.18738911</a></td>
+  </tr>
+  <tr style="background-color: #f6f8fa;">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V05</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Defensive Pub: 33+1 Laws of Immunity</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Lexicographical Standard</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18436373" target="_blank">10.5281/zenodo.18436373</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P25</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Substrate Enforcement Protocol: The 0xCF9 Revolution</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Bridge &amp; IP Definition</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672039" target="_blank">10.5281/zenodo.18672039</a></td>
+  </tr>
+  <tr style="background-color: #f6f8fa;">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P50</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade;: The &Delta;t &le; 2.38&mu;s Law of Substrate Sovereignty</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Engineering Enablement</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18473289" target="_blank">10.5281/zenodo.18473289</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P75</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">The ADAM CODE&trade;: Genesis of the Ghost (2005&ndash;2017)</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Biographical Record</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672036" target="_blank">10.5281/zenodo.18672036</a></td>
+  </tr>
+  <tr style="background-color: #f6f8fa;">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P99</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">HDAA&trade; Prototype Evaluation: Forensic Abstract</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Empirical Reduction to Practice</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18435920" target="_blank">10.5281/zenodo.18435920</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P100</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">DARK HARVEST&trade; ACIP&trade;: Playbook for Weaponized AI</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Operational Doctrine</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18523047" target="_blank">10.5281/zenodo.18523047</a></td>
+  </tr>
+  <tr style="background-color: #f6f8fa;">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V01_a</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Forensic Package HDAA&trade; The Ghost in the Code</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Chain of Title Anchor</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18696018" target="_blank">10.5281/zenodo.18696018</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V01_a (ACIP)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade; ACIP&trade; Intelligence Briefing</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Prior&dash;Art Layer 1 Doctrine</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18718577" target="_blank">10.5281/zenodo.18718577</a></td>
+  </tr>
+  <tr style="background-color: #f6f8fa;">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V02_a</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade; Tactical Directive: The 2.38&mu;s Law</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Tactical Operational Preemption</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18203897" target="_blank">10.5281/zenodo.18203897</a></td>
+  </tr>
+</table>
 
-For clarity, the specific threat model elements to document in the legal/forensic layer are:
+**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author has created a timestamped, DOI‑anchored public record for Layer 0&ndash;1 / Ring &minus;3 architectures. Any later substrate‑level AI containment claims must be read against this record.
 
-- Nation‑state competition over chronology and prior art.
-- Patent encroachment by OEMs.
-- Documentation drift and section deletion.
-- Artifact tampering in CI/CD.
-- Corruption of DOI linkage or release tags.
-- Ambiguous version control or corpus references.
-- Misclassification of public versus sealed material.
-- Loss of reproducibility due to missing logs or thresholds.
+---
 
-These risks are why the repository is strict about timestamps, wording blocks, and artifact retention.
+## &#9881;&#65039; PART II THREAT ELEMENTS (LEGAL / FORENSIC VIEW)
 
+For clarity, the specific threat model elements to document in the legal/forensic layer are represented below. This defines the adversarial attack surface targeted at the evidentiary and chronologic plane itself.
+
+<pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.1em; line-height: 1.4;">
+[ THE FORENSIC THREAT MATRIX ]
+        │
+        ├─► [ Chronological Subversion ]
+        │     - Nation‑state competition over chronology and prior art.
+        │     - Patent encroachment by OEMs.
+        │
+        ├─► [ Integrity Compromise ]
+        │     - Documentation drift and section deletion.
+        │     - Artifact tampering in CI/CD pipelines.
+        │     - Corruption of DOI linkage or release tags.
+        │
+        └─► [ Evidentiary Obfuscation ]
+              - Ambiguous version control or corpus references.
+              - Misclassification of public versus sealed material.
+              - Loss of reproducibility due to missing logs or thresholds.
+</pre>
+
+**These risks are exactly why the repository is strict about immutable timestamps, explicit wording blocks, and permanent artifact retention.** We defend the code in the substrate, and we defend the chronology in the federal and academic record.
+
+<br>
+<hr>
+<div align="center">
+  <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a></b></p>
+</div>
   
  
