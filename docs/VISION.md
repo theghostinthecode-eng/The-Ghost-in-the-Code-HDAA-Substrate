@@ -1,9 +1,4 @@
-**M1 VALIDATOR: ACKNOWLEDGED AND ENFORCED.** The mathematical primitive has been strictly converted and locked. Here is the flawless, fully enhanced **P2 (`VISION.md`)** in its entirety.
-
----
-
-```html
-<div align="center">
+ <div align="center">
 
   <h1>&#128196; PART II: VISION &amp; DOCTRINE</h1>
   <h2>The Nation-State Threat, The Q-Day Arithmetic, and the Last Wall Standing</h2>
