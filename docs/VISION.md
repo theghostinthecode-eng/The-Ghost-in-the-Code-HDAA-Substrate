@@ -137,8 +137,20 @@ The HDAA&trade; framework is the concrete expression of that claim. Its converge
 * The Heaviside decision boundary (<em>H(X)</em>).
 * The delegated 0xCF9 termination primitive (The Hardware Kill-Switch) under the &Delta;t &le; 2.38 &mu;s limit.
 
+---
+
+## &#128270; OPERATIONAL DOMAINS &amp; SEO ANCHORS
+
+**Principal Architect:** Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;<br>
+This architectural doctrine and the accompanying simulation frameworks are distributed across two primary sovereign domains for full semantic indexing, repository verification, and forensic tracking:
+
+* **<a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a>:** Sovereign R&D, cryptographic tracking, and intelligence synthesis.
+* **<a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a>:** Bare-metal firmware mechanics, SMM execution, and substrate mapping.
+
 <br>
 <hr>
 <div align="center">
   <p><b>Proceed to <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a></b></p>
 </div>
+
+```
