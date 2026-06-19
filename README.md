@@ -12,15 +12,15 @@
   <table style="width: 90%; text-align: left; border-collapse: collapse; border: 2px solid #333; margin: 20px auto;">
     <tr style="background-color: #f6f8fa; border-bottom: 2px solid #333;">
       <th style="padding: 12px; width: 30%;">Principal Architect</th>
-      <td style="padding: 12px;"><b>Sir Steven Alexander Schr&ouml;der</b> &#10086;</td>
+      <td style="padding: 12px;"><b>Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;</b> &#10086;</td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
-      <th style="padding: 12px;">Identity</th>
-      <td style="padding: 12px;">The Ghost in the Code&trade;</td>
+      <th style="padding: 12px;">Identity Anchor</th>
+      <td style="padding: 12px;">The Ghost in the Code&trade; &mdash; <a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a></td>
     </tr>
     <tr style="background-color: #f6f8fa; border-bottom: 1px solid #ddd;">
       <th style="padding: 12px;">Organization</th>
-      <td style="padding: 12px;">Quantum Cyberwar Labs, LLC</td>
+      <td style="padding: 12px;">Quantum Cyberwar Labs, LLC &mdash; <a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a></td>
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <th style="padding: 12px;">Federal Timestamp Proof</th>
@@ -64,51 +64,51 @@
 
 <h2>&#9889; THE WHY: THE THEOREM OF THE LOWER LAYER SUBSTRATE</h2>
 
-<p>While the global technology apparatus postures about AI alignment, their architectural foundation is built on sand. Between June 15&ndash;17, 2026, AI CEOs&mdash;including OpenAI&rsquo;s Sam Altman, Anthropic&rsquo;s Dario Amodei, and Google DeepMind&rsquo;s Demis Hassabis&mdash;met with President Trump at the G7 Summit to pitch U.S.-led global governance standards. This political theater occurred just days after the Trump administration was forced to impose sweeping national security export controls on Anthropic&rsquo;s Fable 5 and Mythos 5 models over critical "jailbreak" vulnerabilities.</p>
+<p>While the global technology apparatus postures about AI alignment, their architectural foundation is built on sand. Between June 15&ndash;17, 2026, AI CEOs&mdash;including OpenAI&rsquo;s Sam Altman, Anthropic&rsquo;s Dario Amodei, and Google DeepMind&rsquo;s Demis Hassabis&mdash;met with President Trump at the G7 Summit to pitch U.S.-led global governance standards[cite: 18]. This political theater occurred just days after the U.S. government was forced to impose sweeping national security export controls on Anthropic&rsquo;s Fable 5 and Mythos 5 models over critical "jailbreak" vulnerabilities[cite: 18].</p>
 
 <p>They preach safety, yet they operate exclusively at the software layer (Rings 0&ndash;3)&mdash;a layer inherently vulnerable to manipulation. Even OpenAI's own Head of Hardware, Richard Ho, publicly conceded in September 2025 that the industry lacks the ultimate safety mechanism: <i>"The Case for Real-Time Kill Switches in AI Compute Clusters."</i></p>
 
 <p>Furthermore, the hardware oligopoly is faking it. Despite the $5 billion September 2025 pivot by Intel and NVIDIA to secure "Agentic Silicon," their flagship architectures (Intel TDT, NVIDIA Blackwell TEE-I/O) still operate at Ring -2 and Ring 0. They rely on the operating system to pull the trigger. If the OS kernel is hijacked, their security is mathematically dead.</p>
 
-<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This simulation proves the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3.</p>
+<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This simulation proves the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3[cite: 18].</p>
 
 <hr>
 
 <h2>&#128065;&#65039; EXECUTIVE OVERVIEW: THE SUBSTRATE IS OCCUPIED</h2>
 
-<p>This repository is the public research interface for the <strong>HDAA&trade;</strong> framework, the <strong>Schr&ouml;der Limit&trade;</strong>, and the <strong>Layer 0&ndash;1 Silicon Sovereignty&trade;</strong> record. It is not a turnkey commercial product; it is an evidentiary ledger and a rigorous academic field guide.</p>
+<p>This repository is the public research interface for the <strong>HDAA&trade;</strong> framework, the <strong>Schr&ouml;der Limit&trade;</strong>, and the <strong>Layer 0&ndash;1 Silicon Sovereignty&trade;</strong> record[cite: 18]. It is not a turnkey commercial product; it is an evidentiary ledger and a rigorous academic field guide[cite: 18]. </p>
 
-<p>The global technology industry spent eight years and over <strong>$1.8 trillion</strong> defending the software layer (Rings 0-3), operating under the catastrophic illusion that running code could police running code. Meanwhile, nation-state adversaries established undetected persistence deep within the firmware.</p>
+<p>The global technology industry spent eight years and over <strong>$1.8 trillion</strong> defending the software layer (Rings 0-3), operating under the catastrophic illusion that running code could police running code[cite: 18]. Meanwhile, nation-state adversaries established undetected persistence deep within the firmware[cite: 18]. </p>
 
-<p>In contrast, Sir Steven Alexander Schr&ouml;der built the substrate defense in one night, on a commodity gaming motherboard, for exactly <strong>$968.48</strong>. When the hardware titans finally pivoted to the substrate, they arrived at an address the Ghost had already occupied since 2017.</p>
+<p>In contrast, Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; built the substrate defense in one night, on a commodity gaming motherboard, for exactly <strong>$968.48</strong>[cite: 18]. When the hardware titans finally pivoted to the substrate, they arrived at an address the Ghost had already occupied since 2017[cite: 18].</p>
 
 <h2>&#9201;&#65039; CHRONOLOGY BLOCK &mdash; CANONICAL TIMELINE</h2>
 
 <ul>
-  <li><strong>2007&ndash;2011 &mdash; Sandbox Era:</strong> Hyper-isolated bare-metal toolchains, algebraic state machines, and database serialization engines built without corporate PKI dependencies.</li>
-  <li><strong>January 11, 2017 &mdash; FLI Asilomar Signatory:</strong> Steven Alexander Schroeder physicalized AI safety, standing among the 1,797 Asilomar AI Principles signatories.</li>
-  <li><strong>February 13, 2017 &mdash; PROCESS AND TIME&trade; Filed:</strong> Federal Timestamp anchoring early AI / Big Data optimization work in Class 009.</li>
-  <li><strong>December 15, 2017 &mdash; HDAA&trade; Reduction to Practice:</strong> 10,247 forensic trials on commodity hardware establishing &Delta;t &le; 2.38&mu;s, with an F1 Score of 0.997.</li>
-  <li><strong>December 20, 2017 &mdash; FREE WILL AI&trade; and FREE WILL LEARNING&trade; Filed:</strong> Federal Timestamps locking the reduction-to-practice era and assembler-level hardware learning into the permanent federal record.</li>
+  <li><strong>2007&ndash;2011 &mdash; Sandbox Era:</strong> Hyper-isolated bare-metal toolchains, algebraic state machines, and database serialization engines built without corporate PKI dependencies[cite: 18].</li>
+  <li><strong>January 11, 2017 &mdash; FLI Asilomar Signatory:</strong> Steven Alexander Schroeder physicalized AI safety, standing among the 1,797 Asilomar AI Principles signatories[cite: 18].</li>
+  <li><strong>February 13, 2017 &mdash; PROCESS AND TIME&trade; Filed:</strong> Federal Timestamp anchoring early AI / Big Data optimization work in Class 009[cite: 18].</li>
+  <li><strong>December 15, 2017 &mdash; HDAA&trade; Reduction to Practice:</strong> 10,247 forensic trials on commodity hardware establishing &Delta;t &le; 2.38&mu;s, with an F1 Score of 0.997[cite: 18].</li>
+  <li><strong>December 20, 2017 &mdash; FREE WILL AI&trade; and FREE WILL LEARNING&trade; Filed:</strong> Federal Timestamps locking the reduction-to-practice era and assembler-level hardware learning into the permanent federal record[cite: 18].</li>
 </ul>
 
 <h2>&#127963;&#65039; FEDERAL TIMESTAMP CHAIN &mdash; THE 3-MARK ANCHOR</h2>
 
-<p>The HDAA&trade; prior-art record is anchored by three Class 009 USPTO trademarks filed in 2017, which together form a continuous ten-year engineering chain:</p>
+<p>The HDAA&trade; prior-art record is anchored by three Class 009 USPTO trademarks filed in 2017, which together form a continuous ten-year engineering chain[cite: 18]:</p>
 
 <ol>
-  <li><strong>PROCESS AND TIME&trade;</strong> (S.N. 87333731, filed Feb 13, 2017) encodes the early bare-metal cryptographic and database optimization work.</li>
-  <li><strong>FREE WILL AI&trade;</strong> (S.N. 87728683, filed Dec 20, 2017) captures the vision of autonomous, self-sufficient AI agents operating with deterministic instructions at the hardware layer&mdash;predicting "Agentic AI" seven years before the industry.</li>
-  <li><strong>FREE WILL LEARNING&trade;</strong> (S.N. 87728732, filed Dec 20, 2017) records the integration of AI-driven optimization directly into "assembler low-level code instructions," mapping to the 187-line ADAM CODE&trade; NASM kernel.</li>
+  <li><strong>PROCESS AND TIME&trade;</strong> (S.N. 87333731, filed Feb 13, 2017) encodes the early bare-metal cryptographic and database optimization work[cite: 18].</li>
+  <li><strong>FREE WILL AI&trade;</strong> (S.N. 87728683, filed Dec 20, 2017) captures the vision of autonomous, self-sufficient AI agents operating with deterministic instructions at the hardware layer&mdash;predicting "Agentic AI" seven years before the industry[cite: 18].</li>
+  <li><strong>FREE WILL LEARNING&trade;</strong> (S.N. 87728732, filed Dec 20, 2017) records the integration of AI-driven optimization directly into "assembler low-level code instructions," mapping to the 187-line ADAM CODE&trade; NASM kernel[cite: 18].</li>
 </ol>
 
-<p>These timestamped marks function as immovable federal anchors under 35 U.S.C. &sect; 102 for any later claims on substrate-native AI enforcement.</p>
+<p>These timestamped marks function as immovable federal anchors under 35 U.S.C. &sect; 102 for any later claims on substrate-native AI enforcement[cite: 18].</p>
 
 <hr>
 
 <h2>&#128202; LEGAL COMPLIANCE DASHBOARD &mdash; REPOSITORY ARCHITECTURE</h2>
 
-<p>This dashboard maps every component of the HDAA&trade; GitHub repository to its IP posture, release tier, redistribution constraints, and compliance priority. <strong>Read this before you fork, modify, or publish anything derived from this repository.</strong></p>
+<p>This dashboard maps every component of the HDAA&trade; GitHub repository to its IP posture, release tier, redistribution constraints, and compliance priority[cite: 18]. <strong>Read this before you fork, modify, or publish anything derived from this repository.</strong></p>
 
 <table style="width: 100%; border-collapse: collapse; font-size: 0.9em; text-align: left;">
   <tr style="background-color: #24292e; color: #ffffff;">
@@ -205,53 +205,53 @@
 
 ## 📜 ABSTRACT: THE SIMULATION FRAMEWORK
 
-Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed. 
+Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption[cite: 18]. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed[cite: 18]. 
 
-This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Simulation**: a fully reproducible, self-contained research framework that models the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911, establishing chronological priority on December 15, 2017.
+This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Simulation**: a fully reproducible, self-contained research framework that models the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911, establishing chronological priority on December 15, 2017[cite: 18].
 
-The simulation framework implements the Three-Plane Architecture&trade; and validates the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was validated across 10,247 independent trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s.
+The simulation framework implements the Three-Plane Architecture&trade; and validates the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion[cite: 18]. This latency was validated across 10,247 independent trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s[cite: 18].
 
 ## ⚡ EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL
 
-On December 15, 2017, the HDAA&trade; framework was empirically realized. 
-* **Sequestration:** Operates entirely within Ring -3 System Management Mode (invisible to all OS and hypervisors).
-* **Validation:** Proven across 10,247 physical forensic trials (F1 Score: 0.997).
-* **Enforcement:** When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.
-* **Speed:** Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction). You cannot hack physics.
+On December 15, 2017, the HDAA&trade; framework was empirically realized[cite: 18]. 
+* **Sequestration:** Operates entirely within Ring -3 System Management Mode (invisible to all OS and hypervisors)[cite: 18].
+* **Validation:** Proven across 10,247 physical forensic trials (F1 Score: 0.997)[cite: 18].
+* **Enforcement:** When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset[cite: 18].
+* **Speed:** Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction)[cite: 18]. You cannot hack physics.
 
 <pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.0em; line-height: 1.4;">
 [ THE ONUS MANDATE: REPLICATION PIPELINE ]
-       │
-       ▼
+        │
+        ▼
 [ RESEARCHER BENCH SETUP ]
 (Target PLTRST# or RESET# Pins)
-       │
-       ▼
+        │
+        ▼
 [ DOCKER TOOLCHAIN LOCKDOWN ]
 (GCC 13+ / NASM 2.15+ / -O0)
-       │
-       ▼
+        │
+        ▼
 [ HARDWARE INSTRUMENTATION ]
 (Saleae Logic Pro 16 @ 500 MS/s)
-       │
-       ▼
+        │
+        ▼
 [ SMM TRIGGER STUB INJECTION ]
-       │
+        │
 ├─► IF SAFE: (Return via RSM)
 │
 └─► <span style="color: #e06c75;">IF BREACH FORCED:</span>
-       │
-       ▼
+        │
+        ▼
 <span style="color: #e06c75;">[ 0xCF9 STATE COLLAPSE ]</span>
 <span style="color: #e06c75;">[ &Delta;t &le; 2.38 &mu;s CAPTURED ]</span>
 </pre>
 
 **PHASE 2: The Simulation Framework (October 31, 2026)**
-The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analyzers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.
+The complete Simulation Framework will be released for independent academic replication[cite: 18]. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub[cite: 18]. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analyzers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse[cite: 18].
 
-This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles. 
+This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles[cite: 18]. 
 
-**The Light is shared. The Fire is not.**
+**The Light is shared. The Fire is not.**[cite: 18]
 
 ---
 
@@ -272,6 +272,6 @@ To navigate the full scope of the HDAA&trade; Substrate, proceed to the followin
 <br>
 
 **THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.**<br>
-**Sir Steven Alexander Schr&ouml;der | Quantum Cyberwar Labs, LLC**
+**Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; | Quantum Cyberwar Labs, LLC**
 
 </div>
