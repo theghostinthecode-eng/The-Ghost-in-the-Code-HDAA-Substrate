@@ -8,6 +8,7 @@
 <br>
 
 ## &#128450;&#65039; ARCHITECTURAL PIPELINE: THE SMM VETO FLOWCHART
+
 This diagram maps how telemetry moves from active execution to physical containment under the claimed HDAA&trade; model. This pipeline constitutes the canonical flow of substrate-level sovereignty.
 
 <pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.1em; line-height: 1.4;">
@@ -19,11 +20,11 @@ This diagram maps how telemetry moves from active execution to physical containm
         ▼
 [ RING -3 SMM WATCHDOG (Invisible to OS/AI) ]
         │
-        ├─► [ The Dark Harvest Formula™ ]
+        ├─► [ The Dark Harvest Formula&trade; ]
         │     Calculates Z‑Score (Malice / Velocity)
         │
         ▼
-[ The Heaviside Trigger (Z ≥ 3.20) ]
+[ The Heaviside Trigger (Z &ge; 3.20) ]
         │
         ├──► IF SAFE: Return to Execution
         │
@@ -40,23 +41,29 @@ This diagram maps how telemetry moves from active execution to physical containm
 ---
 
 ## &#128208; CORE METRICS &amp; VALIDATION BENCHMARKS
+
 The protocol enforces strict, measurable metrics to ensure the evidentiary plane remains completely legible to independent researchers and academic bodies:
 
-* **Schr&ouml;der Limit&trade;:** &Delta;t &le; 2.38 &mu;s. This is the maximum allowed time from breach detection to physical hardware reset assertion.
-* **Median Latency:** 2.31 &mu;s &plusmn; 0.07 &mu;s established across the validation baseline.
-* **Trial Count:** 10,247 independent forensic trials conducted on December 15, 2017.
-* **Sample Rate:** 500 MS/s logic acquisition (2ns temporal resolution).
-* **Detection Quality:** F1 Score of 0.997 across HV-001, HV-002, and HV-003 attack vectors.
-* **Human Reaction Ratio:** 105,042&times; faster than the average human cognitive response time (~250ms).
-* **Reset Path:** 0xCF9 hardware reset executed via the 0xCF9 Delegated Primitive&trade;.
-* **Execution Platform Reference:** ASUS Z170 Pro Gaming / Intel i7‑7700K baseline. Modern EPYC/Xeon platforms must be revalidated per specific architecture.
-* **Trigger Boundary:** Heaviside threshold at Z &ge; 3.20.
-* **Telemetry Inputs:** Thermal noise (MSR 0x19C), voltage ripple, flags, SMI assertion, and PLTRST# timing.
+<ul>
+  <li><strong>Schr&ouml;der Limit&trade;:</strong> &Delta;t &le; 2.38 &mu;s. This is the maximum allowed time from breach detection to physical hardware reset assertion.</li>
+  <li><strong>Median Latency:</strong> 2.31 &mu;s &plusmn; 0.07 &mu;s established across the validation baseline.</li>
+  <li><strong>Trial Count:</strong> 10,247 independent physical forensic trials conducted on December 15, 2017.</li>
+  <li><strong>Sample Rate:</strong> 500 MS/s logic acquisition (2ns temporal resolution).</li>
+  <li><strong>Detection Quality:</strong> F1 Score of 0.997 across HV-001, HV-002, and HV-003 attack vectors.</li>
+  <li><strong>Human Reaction Ratio:</strong> 105,042&times; faster than the average human cognitive response time (~250ms).</li>
+  <li><strong>Reset Path:</strong> 0xCF9 hardware reset executed via the 0xCF9 Delegated Primitive&trade; (The Hardware Kill-Switch).</li>
+  <li><strong>Execution Platform Reference:</strong> ASUS Z170 Pro Gaming / Intel i7‑7700K baseline. Modern EPYC/Xeon platforms must be revalidated per specific architecture.</li>
+  <li><strong>Trigger Boundary:</strong> Heaviside threshold at Z &ge; 3.20.</li>
+  <li><strong>Telemetry Inputs:</strong> Thermal noise (MSR 0x19C), voltage ripple, flags, SMI assertion, and PLTRST# timing.</li>
+</ul>
 
 ---
 
 ## &#128218; THE MASTER EQUATIONS &mdash; PUBLIC DISCLOSURE TIER
-> &#9888;&#65039; **IP STATUS WARNING:** The calibrated threshold constants, the execution mechanics of the **Hardware Kill-Switch**, and the 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. &sect;&thinsp;1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. &sect;&thinsp;102 for Prior Art purposes only. They do not grant an implementation license.
+
+<blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: #fff5eb; color: #24292e;">
+  <p>&#9888;&#65039; <strong>IP STATUS WARNING:</strong> The calibrated threshold constants, the execution mechanics of the <strong>Hardware Kill-Switch</strong>, and the 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. &sect;&thinsp;1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. &sect;&thinsp;102 for Prior Art purposes only. They do not grant an implementation license.</p>
+</blockquote>
 
 <p><strong>Eq. 1 &mdash; Master Sovereignty Equation</strong><br>
 S<sub>sovereignty</sub> = [ &Gamma; &times; <em>H(X)</em> ] &oplus; [ A<sub>directive_0xCF9</sub> ]</p>
@@ -77,7 +84,8 @@ Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
 
 ---
 
-## &#128268; FORENSIC METRICS &mdash; VALIDATED DEC 15, 2017
+## &#128268; FORENSIC METRICS &mdash; REDUCTION TO PRACTICE (DEC 15, 2017)
+
 **Educational Context:** The absolute latency between breach detection and power‑state collapse is the physical boundary the researcher must attempt to reproduce. The table below captures the original forensic measurement set.
 
 <table style="width: 100%; border-collapse: collapse; font-size: 0.95em; text-align: left;">
@@ -126,7 +134,7 @@ The core defensive capability of the HDAA&trade; depends on its execution at **R
 
 When the Dark Harvest Formula&trade; calculates a logic friction anomaly that triggers the Heaviside threshold (Z &ge; 3.20), the system writes directly to I/O port `0xCF9`. Control byte `0x0E` (or `0x06` for warm reset) forces a hardware reset pulse directly to the Platform Controller Hub (PCH), asserting the `PLTRST#` line. 
 
-This collapses the system&rsquo;s power state and flushes volatile RAM and cache registers. Under the claimed model, this is the non‑negotiable **Hardware Kill-Switch** veto that software cannot intercept.
+This collapses the system&rsquo;s power state and flushes volatile RAM and cache registers. Under the claimed model, this is the non‑negotiable, non-kinetic hardware veto that software cannot intercept.
 
 ---
 
@@ -148,10 +156,9 @@ GitHub Actions should be utilized to capture latency logs, preserve waveforms, a
 * The **README** carries only the short provenance statement and routes users directly to the workflow files.
 
 The purpose of CI/CD here is forensic provenance, not decoration.
-</div>
 
 <br>
 <hr>
 <div align="center">
   <p><b>Proceed to <a href="./LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a></b></p>
-</div>
+</div> 
