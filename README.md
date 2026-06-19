@@ -51,8 +51,8 @@
 </blockquote>
 
 <blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: #fff5eb; color: #24292e;">
-  <p>&#128274; <strong>SEQUESTRATION MANDATE: THE 30/70 SPLIT</strong></p>
-  <p>This repository declassifies the <strong>30% Architectural Foundation</strong> (Substrate Sovereignty) for public defensive research and prior art establishment under 35 U.S.C. &sect; 102. The <strong>70% Visionary Extensions</strong>&mdash;specifically the complete 187-line ADAM CODE&trade; NASM source, implementation keys, and the AGI-to-ASI Singularity Veto&mdash;remain permanently sequestered as Sovereign Trade Secrets under 18 U.S.C. &sect; 1836 (DTSA). This is an "Engine Without Keys".</p>
+  <p>&#128274; <strong>SEQUESTRATION MANDATE: THE 30/70 SPLIT &amp; THE KILL-SWITCH</strong></p>
+  <p>This repository declassifies the <strong>30% Architectural Foundation</strong> (Substrate Sovereignty) for public defensive research and prior art establishment under 35 U.S.C. &sect; 102. The <strong>70% Visionary Extensions</strong>&mdash;specifically the complete 187-line ADAM CODE&trade; NASM source, the <strong>Hardware Kill-Switch</strong> execution logic, implementation keys, and the AGI-to-ASI Singularity Veto&mdash;remain permanently sequestered as Sovereign Trade Secrets under 18 U.S.C. &sect; 1836 (DTSA). This is an "Engine Without Keys".</p>
 </blockquote>
 
 <blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: #f5f0ff; color: #24292e;">
@@ -62,13 +62,15 @@
 
 <hr>
 
-<h2>&#127183; THE ONUS MANDATE: AN INVITATION TO THE GLOBAL COMMONS</h2>
+<h2>&#9889; THE WHY: THE THEOREM OF THE LOWER LAYER SUBSTRATE</h2>
 
-<p>To the global engineering commons, Ph.D. candidates, OEM architects, and the Intelligence Community: <strong>Welcome to the Substrate.</strong></p>
+<p>While the global technology apparatus postures about AI alignment, their architectural foundation is built on sand. Between June 15&ndash;17, 2026, AI CEOs&mdash;including OpenAI&rsquo;s Sam Altman, Anthropic&rsquo;s Dario Amodei, and Google DeepMind&rsquo;s Demis Hassabis&mdash;met with President Trump at the G7 Summit to pitch U.S.-led global governance standards <a href="https://www.wsbradio.com/news/world/latest-g7-summit/RRACNW473Y6TPAIGZWEMQ5KFVY/"></a> <a href="https://chatgptiseatingtheworld.com/2026/06/18/amodei-altman-hassabis-attend-g7-meeting-with-pres-trump-in-show-of-u-s-ai-global-leadership/"></a>. This political theater occurred just days after the Trump administration was forced to impose sweeping national security export controls on Anthropic&rsquo;s Fable 5 and Mythos 5 models over critical "jailbreak" vulnerabilities <a href="https://iapp.org/news/a/the-global-implications-of-the-white-houses-export-controls-on-anthropic"></a> <a href="https://timesofindia.indiatimes.com/technology/tech-news/us-government-in-letter-to-anthropic-ceo-on-mythos-5-and-fable-5-ban-dear-mr-amodei-you-will-face-civil-and-criminal-penalties-if-/articleshow/131787517.cms"></a>.</p>
 
-<p>The era of procrastination and half-measures has ended. You are invited to step beyond the vulnerable abstractions of the software layer and confront the microsecond reality of the hardware floor. This repository provides a fully reproducible, zero-support research framework designed to empower lawful, good-faith security researchers to test, measure, and empirically evaluate the physics of substrate sovereignty.</p>
+<p>They preach safety, yet they operate exclusively at the software layer (Rings 0&ndash;3)&mdash;a layer inherently vulnerable to manipulation. Even OpenAI's own Head of Hardware, Richard Ho, publicly conceded in September 2025 that the industry lacks the ultimate safety mechanism: <i>"The Case for Real-Time Kill Switches in AI Compute Clusters."</i></p>
 
-<p>We provide the foundation. We provide the mathematical equations, the Dockerized toolchains, and the forensic benchmarks. The challenge&mdash;and the profound opportunity&mdash;to reproduce the <strong>2.31 &mu;s &plusmn; 0.07 &mu;s</strong> deterministic state collapse now belongs to you.</p>
+<p>Furthermore, the hardware oligopoly is faking it. Despite the $5 billion September 2025 pivot by Intel and NVIDIA to secure "Agentic Silicon," their flagship architectures (Intel TDT, NVIDIA Blackwell TEE-I/O) still operate at Ring -2 and Ring 0. They rely on the operating system to pull the trigger. If the OS kernel is hijacked, their security is mathematically dead.</p>
+
+<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This simulation proves the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3. </p>
 
 <hr>
 
@@ -78,7 +80,7 @@
 
 <p>The global technology industry spent eight years and over <strong>$1.8 trillion</strong> defending the software layer (Rings 0-3), operating under the catastrophic illusion that running code could police running code. Meanwhile, nation-state adversaries established undetected persistence deep within the firmware.</p>
 
-<p>In contrast, Sir Steven Alexander Schr&ouml;der built the substrate defense in one night, on a commodity gaming motherboard, for exactly <strong>$968.48</strong>. When Intel and NVIDIA finally announced a $5 billion strategic pivot to secure the substrate in 2025, they arrived at an address the Ghost had already occupied since 2017.</p>
+<p>In contrast, Sir Steven Alexander Schr&ouml;der built the substrate defense in one night, on a commodity gaming motherboard, for exactly <strong>$968.48</strong>. When the hardware titans finally pivoted to the substrate, they arrived at an address the Ghost had already occupied since 2017.</p>
 
 <h2>&#9201;&#65039; CHRONOLOGY BLOCK &mdash; CANONICAL TIMELINE</h2>
 
@@ -248,3 +250,4 @@ The complete Simulation Framework will be released for independent academic repl
   <strong>Sir Steven Alexander Schr&ouml;der | Quantum Cyberwar Labs, LLC</strong></p>
 
 </div>
+
