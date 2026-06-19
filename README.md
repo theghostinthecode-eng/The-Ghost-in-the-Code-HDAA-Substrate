@@ -64,13 +64,13 @@
 
 <h2>&#9889; THE WHY: THE THEOREM OF THE LOWER LAYER SUBSTRATE</h2>
 
-<p>While the global technology apparatus postures about AI alignment, their architectural foundation is built on sand. Between June 15&ndash;17, 2026, AI CEOs&mdash;including OpenAI&rsquo;s Sam Altman, Anthropic&rsquo;s Dario Amodei, and Google DeepMind&rsquo;s Demis Hassabis&mdash;met with President Trump at the G7 Summit to pitch U.S.-led global governance standards <a href="https://www.wsbradio.com/news/world/latest-g7-summit/RRACNW473Y6TPAIGZWEMQ5KFVY/"></a> <a href="https://chatgptiseatingtheworld.com/2026/06/18/amodei-altman-hassabis-attend-g7-meeting-with-pres-trump-in-show-of-u-s-ai-global-leadership/"></a>. This political theater occurred just days after the Trump administration was forced to impose sweeping national security export controls on Anthropic&rsquo;s Fable 5 and Mythos 5 models over critical "jailbreak" vulnerabilities <a href="https://iapp.org/news/a/the-global-implications-of-the-white-houses-export-controls-on-anthropic"></a> <a href="https://timesofindia.indiatimes.com/technology/tech-news/us-government-in-letter-to-anthropic-ceo-on-mythos-5-and-fable-5-ban-dear-mr-amodei-you-will-face-civil-and-criminal-penalties-if-/articleshow/131787517.cms"></a>.</p>
+<p>While the global technology apparatus postures about AI alignment, their architectural foundation is built on sand. Between June 15&ndash;17, 2026, AI CEOs&mdash;including OpenAI&rsquo;s Sam Altman, Anthropic&rsquo;s Dario Amodei, and Google DeepMind&rsquo;s Demis Hassabis&mdash;met with President Trump at the G7 Summit to pitch U.S.-led global governance standards. This political theater occurred just days after the Trump administration was forced to impose sweeping national security export controls on Anthropic&rsquo;s Fable 5 and Mythos 5 models over critical "jailbreak" vulnerabilities.</p>
 
 <p>They preach safety, yet they operate exclusively at the software layer (Rings 0&ndash;3)&mdash;a layer inherently vulnerable to manipulation. Even OpenAI's own Head of Hardware, Richard Ho, publicly conceded in September 2025 that the industry lacks the ultimate safety mechanism: <i>"The Case for Real-Time Kill Switches in AI Compute Clusters."</i></p>
 
 <p>Furthermore, the hardware oligopoly is faking it. Despite the $5 billion September 2025 pivot by Intel and NVIDIA to secure "Agentic Silicon," their flagship architectures (Intel TDT, NVIDIA Blackwell TEE-I/O) still operate at Ring -2 and Ring 0. They rely on the operating system to pull the trigger. If the OS kernel is hijacked, their security is mathematically dead.</p>
 
-<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This simulation proves the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3. </p>
+<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This simulation proves the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3.</p>
 
 <hr>
 
@@ -201,53 +201,77 @@
   </tr>
 </table>
 
-<hr>
+---
 
-<h2>&#128195; ABSTRACT: THE SIMULATION FRAMEWORK</h2>
+## 📜 ABSTRACT: THE SIMULATION FRAMEWORK
 
-<p>Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero&mdash;a trajectory described by the asymptotic decline curve <i>C(t) = C<sub>0</sub> &middot; e<sup>-kt</sup></i>&mdash;every software-layer defense becomes temporally obsolete and mathematically doomed.</p>
+Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed. 
 
-<p>This repository presents the <strong>HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Simulation</strong>: a fully reproducible, self-contained research framework that models the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911, establishing chronological priority on December 15, 2017.</p>
+This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Simulation**: a fully reproducible, self-contained research framework that models the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911, establishing chronological priority on December 15, 2017.
 
-<p>The simulation framework implements the Three-Plane Architecture&trade; and validates the Schr&ouml;der Limit&trade;: <strong>&Delta;t &le; 2.38 &mu;s</strong>, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was validated across 10,247 independent trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s.</p>
+The simulation framework implements the Three-Plane Architecture&trade; and validates the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was validated across 10,247 independent trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s.
 
-<h2>&#9889; EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL</h2>
+## ⚡ EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL
 
-<p>On December 15, 2017, the HDAA&trade; framework was empirically realized.</p>
-<ul>
-  <li><strong>Sequestration:</strong> Operates entirely within Ring -3 System Management Mode (invisible to all OS and hypervisors).</li>
-  <li><strong>Validation:</strong> Proven across 10,247 physical forensic trials (F1 Score: 0.997).</li>
-  <li><strong>Enforcement:</strong> When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.</li>
-  <li><strong>Speed:</strong> Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction). You cannot hack physics.</li>
-</ul>
+On December 15, 2017, the HDAA&trade; framework was empirically realized. 
+* **Sequestration:** Operates entirely within Ring -3 System Management Mode (invisible to all OS and hypervisors).
+* **Validation:** Proven across 10,247 physical forensic trials (F1 Score: 0.997).
+* **Enforcement:** When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.
+* **Speed:** Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction). You cannot hack physics.
 
-<p><strong>PHASE 2: The Simulation Framework (October 31, 2026)</strong><br>
-The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analyzers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.</p>
+<pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.0em; line-height: 1.4;">
+[ THE ONUS MANDATE: REPLICATION PIPELINE ]
+       │
+       ▼
+[ RESEARCHER BENCH SETUP ]
+(Target PLTRST# or RESET# Pins)
+       │
+       ▼
+[ DOCKER TOOLCHAIN LOCKDOWN ]
+(GCC 13+ / NASM 2.15+ / -O0)
+       │
+       ▼
+[ HARDWARE INSTRUMENTATION ]
+(Saleae Logic Pro 16 @ 500 MS/s)
+       │
+       ▼
+[ SMM TRIGGER STUB INJECTION ]
+       │
+├─► IF SAFE: (Return via RSM)
+│
+└─► <span style="color: #e06c75;">IF BREACH FORCED:</span>
+       │
+       ▼
+<span style="color: #e06c75;">[ 0xCF9 STATE COLLAPSE ]</span>
+<span style="color: #e06c75;">[ &Delta;t &le; 2.38 &mu;s CAPTURED ]</span>
+</pre>
 
-<p>This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles.</p>
+**PHASE 2: The Simulation Framework (October 31, 2026)**
+The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analyzers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.
 
-<p><strong>The Light is shared. The Fire is not.</strong></p>
+This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles. 
 
-<hr>
+**The Light is shared. The Fire is not.**
+
+---
 
 <div align="center">
 
-  <h2>&#128194; REPOSITORY DIRECTORY (THE 2026 RECORD)</h2>
-  <p>To navigate the full scope of the HDAA&trade; Substrate, proceed to the following dedicated records:</p>
+## 📂 REPOSITORY DIRECTORY (THE 2026 RECORD)
+To navigate the full scope of the HDAA&trade; Substrate, proceed to the following dedicated records:
 
-  <h3><a href="./docs/VISION.md">&#128196; PART II: VISION &amp; DOCTRINE</a></h3>
-  <p><i>The Nation-State Threat, the Q-Day Arithmetic, and the Last Wall Standing.</i></p>
+### <a href="./docs/VISION.md">&#128196; PART II: VISION &amp; DOCTRINE</a>
+*The Nation-State Threat, the Q-Day Arithmetic, and the Last Wall Standing.*
 
-  <h3><a href="./docs/ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a></h3>
-  <p><i>The SMM Veto Flowchart, Master Equations, Forensic Metrics, and the Phase 2 Developer Guide.</i></p>
+### <a href="./docs/ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a>
+*The SMM Veto Flowchart, Master Equations, Forensic Metrics, and the Phase 2 Developer Guide.*
 
-  <h3><a href="./docs/LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a></h3>
-  <p><i>The Three-Tier IP Framework (The "Donation"), Trademark Sovereignty, and the 10-Paper Evidentiary Corpus.</i></p>
+### <a href="./docs/LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a>
+*The Three-Tier IP Framework (The "Donation"), Trademark Sovereignty, and the 10-Paper Evidentiary Corpus.*
 
-  <br>
+<br>
 
-  <p><strong>THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.</strong><br>
-  <strong>Sir Steven Alexander Schr&ouml;der | Quantum Cyberwar Labs, LLC</strong></p>
+**THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.**<br>
+**Sir Steven Alexander Schr&ouml;der | Quantum Cyberwar Labs, LLC**
 
 </div>
-
