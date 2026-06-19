@@ -109,7 +109,7 @@
   </tr>
 </table>
 
-**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author has created a timestamped, DOI‑anchored public record for Layer 0&ndash;1 / Ring &minus;3 architectures. Any later substrate‑level AI containment claims must be read against this record.
+**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author (Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;) has created a timestamped, DOI‑anchored public record for Layer 0&ndash;1 / Ring &minus;3 architectures. Any later substrate‑level AI containment claims must be read against this record.
 
 ---
 
@@ -137,10 +137,22 @@ For clarity, the specific threat model elements to document in the legal/forensi
 
 **These risks are exactly why the repository is strict about immutable timestamps, explicit wording blocks, and permanent artifact retention.** We defend the code in the substrate, and we defend the chronology in the federal and academic record.
 
+---
+
+## &#128270; OPERATIONAL DOMAINS &amp; SEO ANCHORS
+
+**Principal Architect:** Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;<br>
+This architectural doctrine, legal framework, and the accompanying evidentiary corpus are distributed across two primary sovereign domains for full semantic indexing, repository verification, and forensic tracking:
+
+* **<a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a>:** Sovereign R&D, cryptographic tracking, and intelligence synthesis.
+* **<a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a>:** Bare-metal firmware mechanics, SMM execution, and substrate mapping.
+
 <br>
 <hr>
 <div align="center">
   <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a></b></p>
 </div>
+
+```
   
  
