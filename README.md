@@ -5,8 +5,8 @@
   <h3>Schr&ouml;der Sovereignty Stack&trade; &mdash; Hardware-Driven Autonomous Agent (HDAA&trade;) Defensive Architecture</h3>
 
   <p>
-    <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>DOI: 10.5281/zenodo.18738911</b></a> &nbsp; &#10086; &nbsp; 
-    <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>DOI: 10.5281/zenodo.18672039</b></a>
+    <b>Master Anchor DOI (MDP V_01):</b> <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
+    <b>Substrate Bridge DOI (P25):</b> <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>10.5281/zenodo.18672039</b></a>
   </p>
 
   <table style="width: 90%; text-align: left; border-collapse: collapse; border: 2px solid #333; margin: 20px auto;">
@@ -276,4 +276,3 @@ To navigate the full scope of the HDAA&trade; Substrate, proceed to the followin
 
 </div>
 
-```
