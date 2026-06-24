@@ -3,8 +3,8 @@
   <h1>&#128196; PART II: VISION &amp; DOCTRINE</h1>
   <h2>The Nation-State Threat, The Q-Day Arithmetic, and the Last Wall Standing</h2>
   <p>
-    <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>DOI: 10.5281/zenodo.18738911</b></a> &nbsp; &#10086; &nbsp; 
-    <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>DOI: 10.5281/zenodo.18672039</b></a>
+    <b>Master Anchor DOI (MDP V_01):</b> <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
+    <b>Substrate Bridge DOI (P25):</b> <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>10.5281/zenodo.18672039</b></a>
   </p>
 
 </div>
@@ -45,7 +45,7 @@ The 2017 filing record forms a continuous timestamp structure linking the pre-20
 
 * **PROCESS AND TIME&trade;** records the temporal and systems-development lineage that later matures into the substrate-governance argument and the cost-of-compute decline framework.
 * **FREE WILL AI&trade;** records the autonomous decision framework associated with deterministic hardware-layer action.
-* **FREE WILL LEARNING&trade;** records the learning and low-level optimization lineage associated with assembler-path adaptation and firmware-adjacent logic.
+* **FREE WILL LEARNING&trade;** records the learning and low-level optimisation lineage associated with assembler-path adaptation and firmware-adjacent logic.
 
 Taken together, the three marks define a documentary bridge from early systems work to the December 2017 implementation event. In this repository, they are used as chronology markers for continuity analysis, not as substitutes for empirical validation.
 
@@ -76,7 +76,7 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
 (Rings 0-3 Compromised by Nation-States)
        │
        ▼
-[ 2028: Q-DAY CONVERGENCE ]
+[ 2028: Q-DAY CONVERGENCE (AUTHOR ASSESSMENT) ]
 (Cost of Compute plummets. F(t) &rarr; &infin;. Encryption Fails)
        │
        ▼
@@ -152,5 +152,3 @@ This architectural doctrine and the accompanying simulation frameworks are distr
 <div align="center">
   <p><b>Proceed to <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a></b></p>
 </div>
-
-```
