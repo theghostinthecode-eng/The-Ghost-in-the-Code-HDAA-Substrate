@@ -60,6 +60,11 @@
   <p>Statutory Health Privilege (37 CFR &sect;1.43) Formally Invoked. The forensic record is the Author&rsquo;s proxy, and his coding speaks for him. Due to documented health factors, the Author is legally unavailable for live physical demonstrations, oral testimony, or direct technical support. The ONUS of implementation, simulation, and validation rests entirely upon the research institution. <strong>The code speaks for itself.</strong></p>
 </blockquote>
 
+<blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: #eef4ff; color: #24292e;">
+  <p>&#128270; <strong>CANONICAL CLARIFICATION: ON THE WORD &ldquo;SIMULATION&rdquo;</strong></p>
+  <p>In this corpus, &ldquo;simulation&rdquo; means the validation of a <strong>working prototype</strong>, not a theoretical model. The discipline is iterative and dates to <strong>2007</strong>. During the 2007&ndash;2011 sandbox window, three baseline <strong>ML workloads</strong> were prototyped and proven by simulation on raw x86: <strong>Asymmetric Field Arithmetic</strong> (ECC point-addition/doubling over prime fields), <strong>High-Density Database Serialization</strong> (multi-threaded, cache-isolated state commits), and <strong>Real-Time Inference Telemetry</strong> (statistical prediction and heuristic loops optimising data structures below the OS scheduler). The public trademark&mdash;<strong>PROCESS AND TIME&trade;</strong> (USPTO S.N. 87333731, IC 009, February 13, 2017)&mdash;deliberately states only the generic boundary; the working definition, purpose, and method are disclosed for ONUS replication in Papers P14 / P14a. This foundation was re-validated across changing hardware, firmware, and OS conditions through 2017. Every reference to &ldquo;simulation&rdquo; therefore reads as <strong>&ldquo;prototype, proven via simulation.&rdquo;</strong> <strong>The truth matters.</strong></p>
+</blockquote>
+
 <hr>
 
 <h2>&#9889; THE WHY: THE THEOREM OF THE LOWER LAYER SUBSTRATE</h2>
@@ -70,7 +75,7 @@
 
 <p>Furthermore, the hardware oligopoly is faking it. Despite the $5 billion September 2025 pivot by Intel and NVIDIA to secure "Agentic Silicon," their flagship architectures (Intel TDT, NVIDIA Blackwell TEE-I/O) still operate at Ring -2 and Ring 0. They rely on the operating system to pull the trigger. If the OS kernel is hijacked, their security is mathematically dead.</p>
 
-<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This simulation proves the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3.</p>
+<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This working <strong>prototype</strong>&mdash;reduced to practice on December 15, 2017 and proven across 10,247 forensic trials via simulation&mdash;establishes the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3.</p>
 
 <hr>
 
@@ -203,13 +208,13 @@
 
 ---
 
-## 📜 ABSTRACT: THE SIMULATION FRAMEWORK
+## 📜 ABSTRACT: THE PROTOTYPE &amp; ITS SIMULATION FRAMEWORK
 
 Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed. 
 
-This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Simulation**: a fully reproducible, self-contained research framework that models the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911, establishing chronological priority on December 15, 2017.
+This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype** and its accompanying simulation framework: a working prototype reduced to practice on December 15, 2017, together with a fully reproducible, self-contained research framework that allows independent labs to reproduce the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. The prototype establishes chronological priority on December 15, 2017.
 
-The simulation framework implements the Three-Plane Architecture&trade; and validates the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was validated across 10,247 independent trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s.
+The prototype embodies the Three-Plane Architecture&trade; and was proven to hold the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was established across 10,247 independent forensic trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s. The simulation framework lets independent labs reproduce that result.
 
 ## ⚡ EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL
 
@@ -247,7 +252,7 @@ On December 15, 2017, the HDAA&trade; framework was empirically realized.
 </pre>
 
 **PHASE 2: The Simulation Framework (October 31, 2026)**
-The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analyzers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.
+The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analysers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.
 
 This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles. 
 
