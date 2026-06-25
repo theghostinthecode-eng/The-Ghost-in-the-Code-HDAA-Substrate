@@ -61,25 +61,31 @@ The protocol enforces strict, measurable metrics to ensure the evidentiary plane
 
 ## &#128218; THE MASTER EQUATIONS &mdash; PUBLIC DISCLOSURE TIER
 
-<blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: #fff5eb; color: #24292e;">
+<blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: rgba(227,98,9,0.08);">
   <p>&#9888;&#65039; <strong>IP STATUS WARNING:</strong> The calibrated threshold constants, the execution mechanics of the <strong>Hardware Kill-Switch</strong>, and the 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. &sect;&thinsp;1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. &sect;&thinsp;102 for Prior Art purposes only. They do not grant an implementation license.</p>
 </blockquote>
 
-<p><strong>Eq. 1 &mdash; Master Sovereignty Equation</strong><br>
-S<sub>sovereignty</sub> = [ &Gamma; &times; <em>H(X)</em> ] &oplus; [ A<sub>directive_0xCF9</sub> ]</p>
+**Eq. 1 — Master Sovereignty Equation**
 
-<p><strong>Eq. 2 &mdash; Ghost Constant (256&#8209;bit PUF Identity Proof)</strong><br>
-&Gamma; = [ PUF<sub>0</sub> &oplus; (T<sub>e</sub> + V<sub>n</sub>) ] &times; &phi;<sub>timer</sub></p>
+$$S_{\text{sovereignty}} = \left[\, \Gamma \times H(X) \,\right] \oplus \left[\, A_{\text{directive\_0xCF9}} \,\right]$$
 
-<p><strong>Eq. 3 &mdash; Heaviside Trigger (Binary Safety Boundary)</strong><br>
-&Psi;<sub>reset</sub> = <em>H</em>(Z<sub>aggressor</sub> &minus; &sigma;<sub>limit</sub>)<br>
-<span style="font-size: 0.92em;">where &sigma;<sub>limit</sub> = 3.20 (the calibrated Heaviside threshold; Z<sub>aggressor</sub> &ge; 3.20 asserts reset)</span></p>
+**Eq. 2 — Ghost Constant (256-bit PUF Identity Proof)**
 
-<p><strong>Eq. 4 &mdash; Dark Harvest Formula&trade; (Aggressor Z&#8209;Score)</strong><br>
-Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
+$$\Gamma = \left[\, \text{PUF}_0 \oplus (T_e + V_n) \,\right] \times \phi_{\text{timer}}$$
 
-<p><strong>Eq. 5 &mdash; The Schr&ouml;der Limit&trade;</strong><br>
-&Delta;t &le; 2.38 &mu;s</p>
+**Eq. 3 — Heaviside Trigger (Binary Safety Boundary)**
+
+$$\Psi_{\text{reset}} = H\!\left(Z_{\text{aggressor}} - \sigma_{\text{limit}}\right) \qquad \text{where } \sigma_{\text{limit}} = 3.20$$
+
+The calibrated Heaviside threshold; $Z_{\text{aggressor}} \geq 3.20$ asserts reset.
+
+**Eq. 4 — Dark Harvest Formula™ (Aggressor Z-Score)**
+
+$$Z_{\text{aggressor}} = \frac{M \times (N + V)}{C}$$
+
+**Eq. 5 — The Schröder Limit™**
+
+$$\Delta t \leq 2.38\,\mu s$$
 
 <p><i>These five are the only canonical public equations for the architecture.</i></p>
 
@@ -100,7 +106,7 @@ Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
     <td style="padding: 12px; border: 1px solid #ddd;"><b>&Delta;t &le; 2.38 &mu;s</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">Absolute physical ceiling. Never exceeded across validation set.</td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 12px; border: 1px solid #ddd;"><b>Median Latency</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;"><b>2.31 &mu;s &plusmn; 0.07 &mu;s</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">High-load statistical median across 10,247 independent trials.</td>
@@ -110,7 +116,7 @@ Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
     <td style="padding: 12px; border: 1px solid #ddd;"><b>10,247 forensic trials</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">Captured via 500 MS/s Saleae Logic Pro 16.</td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 12px; border: 1px solid #ddd;"><b>F1 Score</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;"><b>0.997</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">Breach detection precision/recall across 3 threat profiles.</td>
@@ -120,7 +126,7 @@ Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
     <td style="padding: 12px; border: 1px solid #ddd;"><b>105,042&times; faster</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">vs. average human response time (250ms). Machine vs. Machine&trade; velocity.</td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 12px; border: 1px solid #ddd;"><b>Enforcement Standard</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;"><b>FLI Principle 16 in silicon</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">Human control rendered via the 0xCF9 Delegated Primitive&trade; (Hardware Kill-Switch).</td>
@@ -140,6 +146,10 @@ This collapses the system&rsquo;s power state and flushes volatile RAM and cache
 ---
 
 ## &#129302; RESEARCHER REPLICATION PROTOCOL
+
+<blockquote style="border-left: 4px solid #1f6feb; padding: 10px 18px; background: rgba(31,111,235,0.08);">
+  <p>&#128270; <strong>SCOPE OF REPLICATION &mdash; READ FIRST.</strong> Independent replication validates the <strong>physical reset law</strong>&mdash;the &Delta;t &le; 2.38&nbsp;&mu;s latency from a forced breach signal to 0xCF9 state collapse&mdash;<strong>not</strong> the proprietary breach-detection intelligence. The Dark Harvest Formula&trade; scoring logic and the 187-line ADAM CODE&trade; kernel remain sealed (Tier 3, 18 U.S.C. &sect;&thinsp;1836). Labs measure the instrumented hardware limit using the supplied synthetic trigger stub; they do not reproduce, and are not asked to reproduce, the sealed detection core. The physics is reproducible; the intelligence is sovereign.</p>
+</blockquote>
 
 For academic researchers, hardware engineers, and independent forensic labs accepting the ONUS Mandate:
 
