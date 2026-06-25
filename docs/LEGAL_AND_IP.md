@@ -9,7 +9,7 @@
 
 <p>This repository and the accompanying 10‑paper corpus establish the public legal characterization of the HDAA&trade; intellectual property. The framework separates prior‑art disclosure from permanent trade‑secret protection.</p>
 
-<blockquote style="border-left: 5px solid #cb2431; padding: 10px 20px; background-color: #ffeef0; color: #24292e;">
+<blockquote style="border-left: 5px solid #cb2431; padding: 10px 20px; background-color: rgba(203,36,49,0.08);">
   <p>&#9888;&#65039; <strong>Let the record reflect: nothing here is a blanket public license.</strong></p>
 </blockquote>
 
@@ -24,7 +24,7 @@
     <td style="padding: 12px; border: 1px solid #ddd;"><b>TIER 1:<br>Disclosed for Prior‑Art Purposes Only</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">Mathematical expressions, architectural constants, tables, and empirical measurements are published to establish a statutory record under 35 U.S.C. &sect;&thinsp;102. <b>This does not grant implementation rights.</b></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 12px; border: 1px solid #ddd;"><b>TIER 2:<br>Shared for Independent Replication</b></td>
     <td style="padding: 12px; border: 1px solid #ddd;">The 10‑paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted; the ONUS of replication and interpretation rests entirely on the institution.</td>
   </tr>
@@ -53,7 +53,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Master Statutory Anchor</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18738911" target="_blank">10.5281/zenodo.18738911</a></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>V05</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Master Defensive Pub: 33+1 Laws of Immunity</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Lexicographical Standard</td>
@@ -65,7 +65,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Bridge &amp; IP Definition</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672039" target="_blank">10.5281/zenodo.18672039</a></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>P50</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade;: The &Delta;t &le; 2.38&mu;s Law of Substrate Sovereignty</td>
     <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Engineering Enablement</td>
@@ -77,7 +77,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Biographical Record</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672036" target="_blank">10.5281/zenodo.18672036</a></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>P99</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">HDAA&trade; Prototype Evaluation: Forensic Abstract</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Empirical Reduction to Practice</td>
@@ -89,7 +89,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Operational Doctrine</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18523047" target="_blank">10.5281/zenodo.18523047</a></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>V01_a</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Master Forensic Package HDAA&trade; The Ghost in the Code</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Chain of Title Anchor</td>
@@ -101,7 +101,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Prior&dash;Art Layer 1 Doctrine</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18718577" target="_blank">10.5281/zenodo.18718577</a></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>V02_a</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade; Tactical Directive: The 2.38&mu;s Law</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Tactical Operational Preemption</td>
