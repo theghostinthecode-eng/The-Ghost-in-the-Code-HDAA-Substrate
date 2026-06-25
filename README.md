@@ -10,7 +10,7 @@
   </p>
 
   <table style="width: 90%; text-align: left; border-collapse: collapse; border: 2px solid #333; margin: 20px auto;">
-    <tr style="background-color: #f6f8fa; border-bottom: 2px solid #333;">
+    <tr style="background-color: rgba(127,127,127,0.06); border-bottom: 2px solid #333;">
       <th style="padding: 12px; width: 30%;">Principal Architect</th>
       <td style="padding: 12px;"><b>Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;</b> &#10086;</td>
     </tr>
@@ -18,7 +18,7 @@
       <th style="padding: 12px;">Identity Anchor</th>
       <td style="padding: 12px;">The Ghost in the Code&trade; &mdash; <a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a></td>
     </tr>
-    <tr style="background-color: #f6f8fa; border-bottom: 1px solid #ddd;">
+    <tr style="background-color: rgba(127,127,127,0.06); border-bottom: 1px solid #ddd;">
       <th style="padding: 12px;">Organization</th>
       <td style="padding: 12px;">Quantum Cyberwar Labs, LLC &mdash; <a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a></td>
     </tr>
@@ -26,7 +26,7 @@
       <th style="padding: 12px;">Federal Timestamp Proof</th>
       <td style="padding: 12px;"><a href="https://trademarks.justia.com/owners/s-i-platinum-partners-inc-3467475/" target="_blank">Justia Trademarks Archive: S.I. Platinum Partners Inc.</a></td>
     </tr>
-    <tr style="background-color: #f6f8fa; border-bottom: 1px solid #ddd;">
+    <tr style="background-color: rgba(127,127,127,0.06); border-bottom: 1px solid #ddd;">
       <th style="padding: 12px;">Priority Date</th>
       <td style="padding: 12px;">December 15, 2017 (Reduction to Practice)</td>
     </tr>
@@ -34,7 +34,7 @@
       <th style="padding: 12px;">Registered Trademarks</th>
       <td style="padding: 12px;">HDAA&trade; | Schr&ouml;der Precedence&trade; | Silicon Sovereignty&trade; | Schr&ouml;der Sovereignty Stack&trade;</td>
     </tr>
-    <tr style="background-color: #f6f8fa;">
+    <tr style="background-color: rgba(127,127,127,0.06);">
       <th style="padding: 12px;">Author Note</th>
       <td style="padding: 12px;">Filed as Prior Art Disclosure under 35 U.S.C. &sect; 102 &mdash; deterministic chronological precedence established. Distributed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY-4.0</a>.</td>
     </tr>
@@ -44,23 +44,23 @@
 
 <br>
 
-<blockquote style="border-left: 5px solid #d73a49; padding: 10px 20px; background-color: #fffbdd; color: #24292e;">
+<blockquote style="border-left: 5px solid #d73a49; padding: 10px 20px; background-color: rgba(215,58,73,0.08);">
   <p>&#9888;&#65039; <strong>STRATEGIC DEPLOYMENT NOTICE &mdash; PHASE 1 ARCHITECTURAL DISCLOSURE</strong></p>
   <p>This repository serves as the Master SEO Pillar and Architectural Blueprint for the <strong>Schr&ouml;der Precedence&trade;</strong> (Priority Date: December 15, 2017).</p>
   <p><strong>PHASE 2 (The Simulation Framework):</strong> The complete error-resistant, ONUS-enforced compilation environment&mdash;including the Dockerfile, Makefile, C++ harness, and unclassified NASM execution stubs&mdash;will be officially deployed by <strong>October 31, 2026</strong>. Until that date, the 10-paper Master Defensive Publication corpus remains the definitive statutory record.</p>
 </blockquote>
 
-<blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: #fff5eb; color: #24292e;">
+<blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: rgba(227,98,9,0.08);">
   <p>&#128274; <strong>SEQUESTRATION MANDATE: THE 30/70 SPLIT &amp; THE KILL-SWITCH</strong></p>
   <p>This repository declassifies the <strong>30% Architectural Foundation</strong> (Substrate Sovereignty) for public defensive research and prior art establishment under 35 U.S.C. &sect; 102. The <strong>70% Visionary Extensions</strong>&mdash;specifically the complete 187-line ADAM CODE&trade; NASM source, the <strong>Hardware Kill-Switch</strong> execution logic, implementation keys, and the AGI-to-ASI Singularity Veto&mdash;remain permanently sequestered as Sovereign Trade Secrets under 18 U.S.C. &sect; 1836 (DTSA). This is an "Engine Without Keys".</p>
 </blockquote>
 
-<blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: #f5f0ff; color: #24292e;">
+<blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: rgba(111,66,193,0.08);">
   <p>&#9874;&#65039; <strong>THE ONUS MANDATE &amp; STATUTORY HEALTH PRIVILEGE</strong></p>
   <p>Statutory Health Privilege (37 CFR &sect;1.43) Formally Invoked. The forensic record is the Author&rsquo;s proxy, and his coding speaks for him. Due to documented health factors, the Author is legally unavailable for live physical demonstrations, oral testimony, or direct technical support. The ONUS of implementation, simulation, and validation rests entirely upon the research institution. <strong>The code speaks for itself.</strong></p>
 </blockquote>
 
-<blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: #eef4ff; color: #24292e;">
+<blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: rgba(31,111,235,0.08);">
   <p>&#128270; <strong>CANONICAL CLARIFICATION: ON THE WORD &ldquo;SIMULATION&rdquo;</strong></p>
   <p>In this corpus, &ldquo;simulation&rdquo; means the validation of a <strong>working prototype</strong>, not a theoretical model. The discipline is iterative and dates to <strong>2007</strong>. During the 2007&ndash;2011 sandbox window, three baseline <strong>ML workloads</strong> were prototyped and proven by simulation on raw x86: <strong>Asymmetric Field Arithmetic</strong> (ECC point-addition/doubling over prime fields), <strong>High-Density Database Serialization</strong> (multi-threaded, cache-isolated state commits), and <strong>Real-Time Inference Telemetry</strong> (statistical prediction and heuristic loops optimising data structures below the OS scheduler). The public trademark&mdash;<strong>PROCESS AND TIME&trade;</strong> (USPTO S.N. 87333731, IC 009, February 13, 2017)&mdash;deliberately states only the generic boundary; the working definition, purpose, and method are disclosed for ONUS replication in Papers P14 / P14a. This foundation was re-validated across changing hardware, firmware, and OS conditions through 2017. Every reference to &ldquo;simulation&rdquo; therefore reads as <strong>&ldquo;prototype, proven via simulation.&rdquo;</strong> <strong>The truth matters.</strong></p>
 </blockquote>
@@ -132,7 +132,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Public redistribution with full notice block intact; must not overclaim deployment readiness.</td>
     <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Active review</b></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>RESEARCHER_CHARTER.md</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Responsibility, boundary conditions, and safe-harbor scope.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 / Tier 2 boundary</td>
@@ -148,7 +148,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Redistribute with copyright/notice block; toolchain only &mdash; no proprietary firmware content.</td>
     <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Active review</b></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>Makefile</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Deterministic one-command build orchestration.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 &mdash; Public</td>
@@ -164,7 +164,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Educational/research use only; redistribution depends on repository license; simulation only &mdash; not production.</td>
     <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Active review</b></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>src_nasm_substrate/</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Unclassified Tier 1 assembly stubs &mdash; 30% architectural disclosure; public skeleton of enforcement.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 / Tier 2 &mdash; Partial public</td>
@@ -180,7 +180,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Integrity-preserving redistribution only; no modification; exclude secrets and unauthorized machine data.</td>
     <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>HIGH PRIORITY</b></td>
   </tr>
-  <tr style="background-color: #f6f8fa;">
+  <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>figures/</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Figures 1&ndash;6 &mdash; trademark-bearing visual architecture diagrams.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Trademark-bearing assets &mdash; Public</td>
@@ -196,7 +196,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Depends on individual publication terms; no unauthorized reproduction; must sync with master paper.</td>
     <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>HIGH PRIORITY</b></td>
   </tr>
-  <tr style="background-color: #ffeef0; border: 2px solid #cb2431;">
+  <tr style="background-color: rgba(203,36,49,0.08); border: 2px solid #cb2431;">
     <td style="padding: 10px; color: #cb2431;"><b>ADAM CODE&trade; core</b></td>
     <td style="padding: 10px; color: #cb2431;">187-line sealed NASM x86 assembly algorithmic core &mdash; trade secret.</td>
     <td style="padding: 10px; color: #cb2431;">Tier 3 &mdash; PERMANENTLY SEALED under 18 U.S.C. &sect;1836</td>
@@ -253,6 +253,8 @@ On December 15, 2017, the HDAA&trade; framework was empirically realized.
 
 **PHASE 2: The Simulation Framework (October 31, 2026)**
 The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analysers to the PLTRST# pin, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.
+
+> Scope of replication, stated plainly: independent labs validate the **physical reset law** &mdash; the &Delta;t &le; 2.38&nbsp;&mu;s latency from a forced breach signal to 0xCF9 state collapse &mdash; **not** the proprietary breach-detection intelligence. The Dark Harvest Formula&trade; scoring and the ADAM CODE&trade; kernel remain sealed (Tier 3, 18 U.S.C. &sect;&thinsp;1836). The physics is reproducible; the intelligence is sovereign.
 
 This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles. 
 
