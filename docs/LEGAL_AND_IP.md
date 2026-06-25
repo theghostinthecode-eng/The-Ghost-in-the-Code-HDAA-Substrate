@@ -1,19 +1,13 @@
 <div align="center">
-
   <h1>&#9878;&#65039; PART IV: LEGAL, IP, AND FORENSIC NOTICE</h1>
   <h2>The Three-Tier Framework and the Statutory Anchor</h2>
-
 </div>
-
 <br>
-
 <p>This repository and the accompanying 10‑paper corpus establish the public legal characterization of the HDAA&trade; intellectual property. The framework separates prior‑art disclosure from permanent trade‑secret protection.</p>
-
 <blockquote style="border-left: 5px solid #cb2431; padding: 10px 20px; background-color: #ffeef0; color: #24292e;">
   <p>&#9888;&#65039; <strong>Let the record reflect: nothing here is a blanket public license.</strong></p>
 </blockquote>
-
-### &#128275; THE 30/70 SPLIT: IP CLASSIFICATION TIERS
+🔓 THE 30/70 SPLIT: IP CLASSIFICATION TIERS
 
 <table style="width: 100%; border-collapse: collapse; font-size: 0.95em; text-align: left;">
   <tr style="background-color: #24292e; color: #ffffff;">
@@ -34,11 +28,9 @@
   </tr>
 </table>
 
----
+📚 THE 10-PAPER EVIDENTIARY CORPUS
 
-## &#128218; THE 10-PAPER EVIDENTIARY CORPUS
-
-**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0&ndash;1 Silicon Sovereignty. These time‑stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schr&ouml;der Precedence&trade; under 35 U.S.C. &sect;&thinsp;102.
+Educational Context: The following corpus represents the definitive statutory anchor for Layer 0–1 Silicon Sovereignty. These time‑stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schröder Precedence™ under 35 U.S.C. § 102.
 
 <table style="width: 100%; border-collapse: collapse; font-size: 0.9em; text-align: left;">
   <tr style="background-color: #0366d6; color: #ffffff;">
@@ -108,12 +100,10 @@
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18203897" target="_blank">10.5281/zenodo.18203897</a></td>
   </tr>
 </table>
+Summary: By depositing these documents into the Zenodo evidentiary plane, the Author (Sir Steven Alexander Schröder | The Ghost in the Code™) has created a timestamped, DOI‑anchored public record for Layer 0–1 / Ring −3 architectures. Any later substrate‑level AI containment claims must be read against this record.
 
-**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author (Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;) has created a timestamped, DOI‑anchored public record for Layer 0&ndash;1 / Ring &minus;3 architectures. Any later substrate‑level AI containment claims must be read against this record.
 
----
-
-## &#9881;&#65039; PART II THREAT ELEMENTS (LEGAL / FORENSIC VIEW)
+⚙️ PART II THREAT ELEMENTS (LEGAL / FORENSIC VIEW)
 
 For clarity, the specific threat model elements to document in the legal/forensic layer are represented below. This defines the adversarial attack surface targeted at the evidentiary and chronologic plane itself.
 
@@ -134,24 +124,21 @@ For clarity, the specific threat model elements to document in the legal/forensi
               - Misclassification of public versus sealed material.
               - Loss of reproducibility due to missing logs or thresholds.
 </pre>
+These risks are exactly why the repository is strict about immutable timestamps, explicit wording blocks, and permanent artifact retention. We defend the code in the substrate, and we defend the chronology in the federal and academic record.
 
-**These risks are exactly why the repository is strict about immutable timestamps, explicit wording blocks, and permanent artifact retention.** We defend the code in the substrate, and we defend the chronology in the federal and academic record.
 
----
+🔎 OPERATIONAL DOMAINS & SEO ANCHORS
 
-## &#128270; OPERATIONAL DOMAINS &amp; SEO ANCHORS
-
-**Principal Architect:** Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;<br>
+Principal Architect: Sir Steven Alexander Schröder | The Ghost in the Code™<br>
 This architectural doctrine, legal framework, and the accompanying evidentiary corpus are distributed across two primary sovereign domains for full semantic indexing, repository verification, and forensic tracking:
 
-* **<a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a>:** Sovereign R&D, cryptographic tracking, and intelligence synthesis.
-* **<a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a>:** Bare-metal firmware mechanics, SMM execution, and substrate mapping.
+
+<a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a>: Sovereign R&D, cryptographic tracking, and intelligence synthesis.
+<a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a>: Bare-metal firmware mechanics, SMM execution, and substrate mapping.
+
 
 <br>
 <hr>
 <div align="center">
   <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a></b></p>
 </div>
-
-```    
- 
