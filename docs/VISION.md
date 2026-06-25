@@ -77,7 +77,7 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
        │
        ▼
 [ 2028: Q-DAY CONVERGENCE (AUTHOR ASSESSMENT) ]
-(Cost of Compute plummets. F(t) &rarr; &infin;. Encryption Fails)
+(Cost of computing plummets. F(t) &rarr; &infin;. Encryption Fails)
        │
        ▼
 [ 2030-2035: AGI EMERGENCE (PROJECTED) ]
@@ -152,4 +152,3 @@ This architectural doctrine and the accompanying simulation frameworks are distr
 <div align="center">
   <p><b>Proceed to <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a></b></p>
 </div>
- 
