@@ -11,7 +11,7 @@
 
 <br>
 
-<blockquote style="border-left: 5px solid #d73a49; padding: 10px 20px; background-color: #fffbdd; color: #24292e;">
+<blockquote style="border-left: 5px solid #d73a49; padding: 10px 20px; background-color: rgba(215,58,73,0.08);">
   <p><i>"On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth&rsquo;s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: <b>a failure of imagination.</b>"</i></p>
 </blockquote>
 
@@ -77,7 +77,7 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
        │
        ▼
 [ 2028: Q-DAY CONVERGENCE (AUTHOR ASSESSMENT) ]
-(Cost of computing plummets. F(t) &rarr; &infin;. Encryption Fails)
+(Cost of Compute plummets. F(t) &rarr; &infin;. Encryption Fails)
        │
        ▼
 [ 2030-2035: AGI EMERGENCE (PROJECTED) ]
