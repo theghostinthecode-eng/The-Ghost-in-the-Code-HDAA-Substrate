@@ -1,11 +1,15 @@
  <div id="part-iii-technical-architecture" align="center">
+
   <h1>&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</h1>
   <h2>Substrate Validation and the Phase 2 Simulation Framework</h2>
-</div>
-<br>
-🗂️ ARCHITECTURAL PIPELINE: THE SMM VETO FLOWCHART
 
-This diagram maps how telemetry moves from active execution to physical containment under the claimed HDAA™ model. This pipeline constitutes the canonical flow of substrate-level sovereignty.
+</div>
+
+<br>
+
+## &#128450;&#65039; ARCHITECTURAL PIPELINE: THE SMM VETO FLOWCHART
+
+This diagram maps how telemetry moves from active execution to physical containment under the claimed HDAA&trade; model. This pipeline constitutes the canonical flow of substrate-level sovereignty.
 
 <pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.1em; line-height: 1.4;">
 [ AI Agent Execution (Ring 3 / Ring 0) ]
@@ -31,9 +35,12 @@ This diagram maps how telemetry moves from active execution to physical containm
       <span style="color: #e06c75;">[ System Power State Collapsed ]</span>
       <span style="color: #e06c75;">[ Total Time: &Delta;t &le; 2.38 &mu;s ]</span>
 </pre>
+
 <p><i>This pipeline should appear in this form wherever the repository or Guidebook describes the enforcement sequence. No variant wording, no alternate arrows: one canonical flow.</i></p>
 
-📐 CORE METRICS & VALIDATION BENCHMARKS
+---
+
+## &#128208; CORE METRICS &amp; VALIDATION BENCHMARKS
 
 The protocol enforces strict, measurable metrics to ensure the evidentiary plane remains completely legible to independent researchers and academic bodies:
 
@@ -50,27 +57,37 @@ The protocol enforces strict, measurable metrics to ensure the evidentiary plane
   <li><strong>Telemetry Inputs:</strong> Thermal noise (MSR 0x19C), voltage ripple, flags, SMI assertion, and PLTRST# timing.</li>
 </ul>
 
-📚 THE MASTER EQUATIONS — PUBLIC DISCLOSURE TIER
+---
+
+## &#128218; THE MASTER EQUATIONS &mdash; PUBLIC DISCLOSURE TIER
 
 <blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: #fff5eb; color: #24292e;">
   <p>&#9888;&#65039; <strong>IP STATUS WARNING:</strong> The calibrated threshold constants, the execution mechanics of the <strong>Hardware Kill-Switch</strong>, and the 187‑line predictive trigger kernel are NDA‑protected Tier 3 Trade Secrets under 18 U.S.C. &sect;&thinsp;1836. The equations below constitute the statutory public disclosure record under 35 U.S.C. &sect;&thinsp;102 for Prior Art purposes only. They do not grant an implementation license.</p>
 </blockquote>
+
 <p><strong>Eq. 1 &mdash; Master Sovereignty Equation</strong><br>
 S<sub>sovereignty</sub> = [ &Gamma; &times; <em>H(X)</em> ] &oplus; [ A<sub>directive_0xCF9</sub> ]</p>
+
 <p><strong>Eq. 2 &mdash; Ghost Constant (256&#8209;bit PUF Identity Proof)</strong><br>
 &Gamma; = [ PUF<sub>0</sub> &oplus; (T<sub>e</sub> + V<sub>n</sub>) ] &times; &phi;<sub>timer</sub></p>
+
 <p><strong>Eq. 3 &mdash; Heaviside Trigger (Binary Safety Boundary)</strong><br>
 &Psi;<sub>reset</sub> = <em>H</em>(Z<sub>aggressor</sub> &minus; &sigma;<sub>limit</sub>)<br>
 <span style="font-size: 0.92em;">where &sigma;<sub>limit</sub> = 3.20 (the calibrated Heaviside threshold; Z<sub>aggressor</sub> &ge; 3.20 asserts reset)</span></p>
+
 <p><strong>Eq. 4 &mdash; Dark Harvest Formula&trade; (Aggressor Z&#8209;Score)</strong><br>
 Z<sub>aggressor</sub> = [ M &times; (N + V) ] / C</p>
+
 <p><strong>Eq. 5 &mdash; The Schr&ouml;der Limit&trade;</strong><br>
 &Delta;t &le; 2.38 &mu;s</p>
+
 <p><i>These five are the only canonical public equations for the architecture.</i></p>
 
-🔌 FORENSIC METRICS — REDUCTION TO PRACTICE (DEC 15, 2017)
+---
 
-Educational Context: The absolute latency between breach detection and power‑state collapse is the physical boundary the researcher must attempt to reproduce. The table below captures the original forensic measurement set.
+## &#128268; FORENSIC METRICS &mdash; REDUCTION TO PRACTICE (DEC 15, 2017)
+
+**Educational Context:** The absolute latency between breach detection and power‑state collapse is the physical boundary the researcher must attempt to reproduce. The table below captures the original forensic measurement set.
 
 <table style="width: 100%; border-collapse: collapse; font-size: 0.95em; text-align: left;">
   <tr style="background-color: #24292e; color: #ffffff;">
@@ -110,37 +127,34 @@ Educational Context: The absolute latency between breach detection and power‑s
   </tr>
 </table>
 
-⚙️ IMPLEMENTATION MECHANICS: RING -3 SMM SEQUESTRATION
+---
 
-The core defensive capability of the HDAA™ depends on its execution at Ring −3 (System Management Mode). Because an Operating System operates at Ring 0, and hypervisors operate at Ring -1, they categorically lack the technical privilege to read, modify, or block code running inside the isolated SMRAM TSEG.
+## &#9881;&#65039; IMPLEMENTATION MECHANICS: RING -3 SMM SEQUESTRATION
 
-When the Dark Harvest Formula™ calculates a logic friction anomaly that triggers the Heaviside threshold (Z ≥ 3.20), the system writes directly to I/O port 0xCF9. Control byte 0x0E (or 0x06 for warm reset) forces a hardware reset pulse directly to the Platform Controller Hub (PCH), asserting the PLTRST# line.
+The core defensive capability of the HDAA&trade; depends on its execution at **Ring &minus;3 (System Management Mode)**. Because an Operating System operates at Ring 0, and hypervisors operate at Ring -1, they categorically lack the technical privilege to read, modify, or block code running inside the isolated SMRAM TSEG.
 
-This collapses the system’s power state and flushes volatile RAM and cache registers. Under the claimed model, this is the non‑negotiable, non-kinetic hardware veto that software cannot intercept.
+When the Dark Harvest Formula&trade; calculates a logic friction anomaly that triggers the Heaviside threshold (Z &ge; 3.20), the system writes directly to I/O port `0xCF9`. Control byte `0x0E` (or `0x06` for warm reset) forces a hardware reset pulse directly to the Platform Controller Hub (PCH), asserting the `PLTRST#` line. 
 
+This collapses the system&rsquo;s power state and flushes volatile RAM and cache registers. Under the claimed model, this is the non‑negotiable, non-kinetic hardware veto that software cannot intercept.
 
-🤖 RESEARCHER REPLICATION PROTOCOL
+---
+
+## &#129302; RESEARCHER REPLICATION PROTOCOL
 
 For academic researchers, hardware engineers, and independent forensic labs accepting the ONUS Mandate:
 
+1.  **Clone the Environment:** Pull the Phase 2 Docker container to enforce GCC/NASM toolchain consistency and `‑O0` timing locks.
+2.  **Inject the Stub:** Use the synthetic, unclassified SMM trigger stub provided for the simulation framework to emulate the Ring -3 trigger response.
+3.  **Physical Bench Setup:** Replicate the 2017 bench configuration. Ground a logic analyser capable of sampling at 500 MS/s (e.g., Saleae Logic Pro 16) to the motherboard.
+4.  **Hook the Lines:** Connect `CH0` to the `SMI#` interrupt line (falling edge) and `CH1` to the `PLTRST#` assertion pin.
+5.  **Execute &amp; Measure:** Run the Dockerized C++ harness (`--force-breach`) and collect the `SMI#` and `PLTRST#` timestamps.
+6.  **Verify the Law:** Compute &Delta;t and verify whether the physical state collapse remains bound by the Schr&ouml;der Limit&trade; (&Delta;t &le; 2.38 &mu;s).
+7.  **Archive Evidence:** Archive the output logs, waveform artifacts, and release tags as part of the formal reproducibility record.
 
-Clone the Environment: Pull the Phase 2 Docker container to enforce GCC/NASM toolchain consistency and ‑O0 timing locks.
-Inject the Stub: Use the synthetic, unclassified SMM trigger stub provided for the simulation framework to emulate the Ring -3 trigger response.
-Physical Bench Setup: Replicate the 2017 bench configuration. Ground a logic analyser capable of sampling at 500 MS/s (e.g., Saleae Logic Pro 16) to the motherboard.
-Hook the Lines: Connect CH0 to the SMI# interrupt line (falling edge) and CH1 to the PLTRST# assertion pin.
-Execute & Measure: Run the Dockerized C++ harness (--force-breach) and collect the SMI# and PLTRST# timestamps.
-Verify the Law: Compute Δt and verify whether the physical state collapse remains bound by the Schröder Limit™ (Δt ≤ 2.38 μs).
-Archive Evidence: Archive the output logs, waveform artifacts, and release tags as part of the formal reproducibility record.
-
-
-CI/CD Provenance Note
-
+### CI/CD Provenance Note
 GitHub Actions should be utilised to capture latency logs, preserve waveforms, and attach them to release tags so the repository retains an auditable, immutable chronology of validation runs.
-
-
-The Documentation Corpus / Guidebook carries the full workflow rationale, legal framing, and statutory bar assertions.
-The README carries only the short provenance statement and routes users directly to the workflow files.
-
+* The **Documentation Corpus / Guidebook** carries the full workflow rationale, legal framing, and statutory bar assertions.
+* The **README** carries only the short provenance statement and routes users directly to the workflow files.
 
 The purpose of CI/CD here is forensic provenance, not decoration.
 
