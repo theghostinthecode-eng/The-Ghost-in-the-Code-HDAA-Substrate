@@ -95,14 +95,14 @@ The real-time enforcement loop, bounded by the 2.38&mu;s Microsecond Law&trade;.
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     T["Hardware Telemetry<br>thermal MSR 0x19C - voltage ripple - SMI - PLTRST"]
-    GAMMA["Ghost Constant Gamma™<br>Gamma = PUF0 XOR Te+Vn times phi-timer<br>regenerates fresh 256-bit identity each cycle"]
+    GAMMA["Ghost Constant Gamma™<br>Gamma = PUF0 XOR Te+Vn<br>times phi-timer<br>regenerates fresh<br>256-bit identity each cycle"]
     DH["Dark Harvest Formula™ - Z-score<br>calibrated constants SEALED"]
-    HV{"Heaviside Trigger<br>Z_aggressor >= sigma_limit 3.20 ?"}
+    HV{"Heaviside Trigger<br>Z_aggressor >= sigma_limit<br>3.20"}
     RET["Return to execution RSM"]
     KILL["0xCF9 Reset Vector asserted<br>0x0E cold / 0x06 warm - PLTRST"]
     COLLAPSE["Non-kinetic silicon state collapse<br>delta-t <= 2.38us Microsecond Law™"]
     ADAM["ADAM CODE™ 187-line NASM<br>SEALED - Tier 3 - 18 USC 1836"]
-    GOV["11+6+9 Governance Matrix™ - 26-bit word<br>11-bit IP offset 2048 SMRAM positions<br>6-bit FSM 64 states - 9-bit entropy 512 levels"]
+    GOV["11+6+9 Governance Matrix™<br>26-bit word<br>11-bit IP offset<br>2048 SMRAM positions<br>6-bit FSM 64 states<br>9-bit entropy 512 levels"]
 
     T --> GAMMA
     GAMMA --> DH
@@ -136,7 +136,7 @@ Where HDAA&trade; sits in the field of substrate governance.
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     B2["BRONZE - Software Sovereign<br>AI governed by software it can rewrite"]
-    S2["SILVER - Hardware-Anchored<br>Hardware root of trust - no Ring -3 autonomy"]
+    S2["SILVER - Hardware-Anchored<br>Hardware root of trust<br>no Ring -3 autonomy"]
     G2["GOLD - Substrate Sovereign / Ring -3<br>HDAA™ - the only documented occupant<br>achieved Dec 15 2017"]
 
     B2 --> S2
@@ -155,4 +155,4 @@ flowchart TD
 <hr>
 <div align="center">
   <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a> &nbsp;|&nbsp; <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE</a></b></p>
-</div>
+</div> 
