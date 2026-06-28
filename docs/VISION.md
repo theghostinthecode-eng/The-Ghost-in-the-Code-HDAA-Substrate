@@ -151,4 +151,4 @@ This architectural doctrine and the accompanying simulation frameworks are distr
 <hr>
 <div align="center">
   <p><b>Proceed to <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a></b></p>
-</div>
+</div> 
