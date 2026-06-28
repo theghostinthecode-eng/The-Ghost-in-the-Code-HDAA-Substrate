@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
   <h1>The Ghost in the Code&trade;: The Fall of Rings</h1>
   <h2>Substrate Sovereignty and the &Delta;t &le; 2.38&mu;s Law</h2>
@@ -286,4 +286,4 @@ To navigate the full scope of the HDAA&trade; Substrate, proceed to the followin
 **THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.**<br>
 **Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; | Quantum Cyberwar Labs, LLC**
 
-</div>
+</div>](https://github.com/theghostinthecode-eng/The-Ghost-in-the-Code-HDAA-Substrate)
