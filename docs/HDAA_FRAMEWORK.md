@@ -24,10 +24,10 @@ The three 2017 USPTO marks and the HDAA&trade; components each one maps to (P11 
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
-    PT["PROCESS AND TIME™<br/>S.N. 87333731 - Feb 13 2017<br/>IC 009 - DB-optimisation of ML workloads"]
-    FWA["FREE WILL AI™<br/>S.N. 87728683 - Dec 20 2017<br/>Autonomous agency / intentionality"]
-    FWL["FREE WILL LEARNING™<br/>S.N. 87728732 - Dec 20 2017<br/>Assembler-level recursive optimisation"]
-    FOUND["2007-2011 Foundation<br/>3 ML workloads - prototyped via simulation"]
+    PT["PROCESS AND TIME™<br/>S.N. 87333731 - Feb 13 2017<br/>IC 009 - DB-optimisation<br/>of ML workloads"]
+    FWA["FREE WILL AI™<br/>S.N. 87728683 - Dec 20 2017<br/>Autonomous agency /<br/>intentionality"]
+    FWL["FREE WILL LEARNING™<br/>S.N. 87728732 - Dec 20 2017<br/>Assembler-level<br/>recursive optimisation"]
+    FOUND["2007-2011 Foundation<br/>3 ML workloads<br/>prototyped via simulation"]
     HDAA["HDAA™ FRAMEWORK<br/>Reduced to practice Dec 15 2017"]
     C1["ADAM CODE™ core<br/>187-line NASM - SEALED"]
     C2["0xCF9 Delegated Primitive™<br/>Hardware Kill-Switch"]
@@ -67,7 +67,7 @@ flowchart TD
     R0["Ring 0 - OS Kernel"]
     Rm1["Ring -1 - Hypervisor"]
     Rm2["Ring -2 - UEFI / Firmware"]
-    Rm3["Ring -3 - System Management Mode SMM<br/>HDAA™ GOVERNANCE LAYER<br/>SMRAM TSEG - invisible to all layers above"]
+    Rm3["Ring -3 - System Management<br/>Mode (SMM)<br/>HDAA™ GOVERNANCE LAYER<br/>SMRAM TSEG - invisible<br/>to all layers above"]
     SEAL["D_LCK bit set - SMRAM locked<br/>until hard power cycle"]
 
     R3 --> R0
