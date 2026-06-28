@@ -24,15 +24,15 @@ The three 2017 USPTO marks and the HDAA&trade; components each one maps to (P11 
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
-    PT["PROCESS AND TIME™<br/>S.N. 87333731 - Feb 13 2017<br/>IC 009 - DB-optimisation<br/>of ML workloads"]
-    FWA["FREE WILL AI™<br/>S.N. 87728683 - Dec 20 2017<br/>Autonomous agency /<br/>intentionality"]
-    FWL["FREE WILL LEARNING™<br/>S.N. 87728732 - Dec 20 2017<br/>Assembler-level<br/>recursive optimisation"]
-    FOUND["2007-2011 Foundation<br/>3 ML workloads<br/>prototyped via simulation"]
-    HDAA["HDAA™ FRAMEWORK<br/>Reduced to practice Dec 15 2017"]
-    C1["ADAM CODE™ core<br/>187-line NASM - SEALED"]
-    C2["0xCF9 Delegated Primitive™<br/>Hardware Kill-Switch"]
-    C3["Ghost Constant Gamma™<br/>256-bit PUF identity"]
-    C4["Dark Harvest Formula™<br/>Z-score engine - sealed constants"]
+    PT["PROCESS AND TIME™<br>S.N. 87333731 - Feb 13 2017<br>IC 009<br>DB-optimisation<br>of ML workloads"]
+    FWA["FREE WILL AI™<br>S.N. 87728683 - Dec 20 2017<br>Autonomous agency /<br>intentionality"]
+    FWL["FREE WILL LEARNING™<br>S.N. 87728732 - Dec 20 2017<br>Assembler-level<br>recursive optimisation"]
+    FOUND["2007-2011 Foundation<br>3 ML workloads<br>prototyped<br>via simulation"]
+    HDAA["HDAA™ FRAMEWORK<br>Reduced to practice Dec 15 2017"]
+    C1["ADAM CODE™ core<br>187-line NASM - SEALED"]
+    C2["0xCF9 Delegated Primitive™<br>Hardware Kill-Switch"]
+    C3["Ghost Constant Gamma™<br>256-bit PUF identity"]
+    C4["Dark Harvest Formula™<br>Z-score engine - sealed constants"]
 
     PT --> FOUND
     FOUND --> HDAA
@@ -67,8 +67,8 @@ flowchart TD
     R0["Ring 0 - OS Kernel"]
     Rm1["Ring -1 - Hypervisor"]
     Rm2["Ring -2 - UEFI / Firmware"]
-    Rm3["Ring -3 - System Management<br/>Mode (SMM)<br/>HDAA™ GOVERNANCE LAYER<br/>SMRAM TSEG - invisible<br/>to all layers above"]
-    SEAL["D_LCK bit set - SMRAM locked<br/>until hard power cycle"]
+    Rm3["Ring -3 - System Management<br>Mode (SMM)<br>HDAA™ GOVERNANCE LAYER<br>SMRAM TSEG<br>invisible to all<br>layers above"]
+    SEAL["D_LCK bit set - SMRAM locked<br>until hard power cycle"]
 
     R3 --> R0
     R0 --> Rm1
@@ -94,15 +94,15 @@ The real-time enforcement loop, bounded by the 2.38&mu;s Microsecond Law&trade;.
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
-    T["Hardware Telemetry<br/>thermal MSR 0x19C - voltage ripple - SMI - PLTRST"]
-    GAMMA["Ghost Constant Gamma™<br/>Gamma = PUF0 XOR Te+Vn times phi-timer<br/>regenerates fresh 256-bit identity each cycle"]
-    DH["Dark Harvest Formula™ - Z-score<br/>calibrated constants SEALED"]
-    HV{"Heaviside Trigger<br/>Z_aggressor >= sigma_limit 3.20 ?"}
+    T["Hardware Telemetry<br>thermal MSR 0x19C - voltage ripple - SMI - PLTRST"]
+    GAMMA["Ghost Constant Gamma™<br>Gamma = PUF0 XOR Te+Vn times phi-timer<br>regenerates fresh 256-bit identity each cycle"]
+    DH["Dark Harvest Formula™ - Z-score<br>calibrated constants SEALED"]
+    HV{"Heaviside Trigger<br>Z_aggressor >= sigma_limit 3.20 ?"}
     RET["Return to execution RSM"]
-    KILL["0xCF9 Reset Vector asserted<br/>0x0E cold / 0x06 warm - PLTRST"]
-    COLLAPSE["Non-kinetic silicon state collapse<br/>delta-t <= 2.38us Microsecond Law™"]
-    ADAM["ADAM CODE™ 187-line NASM<br/>SEALED - Tier 3 - 18 USC 1836"]
-    GOV["11+6+9 Governance Matrix™ - 26-bit word<br/>11-bit IP offset 2048 SMRAM positions<br/>6-bit FSM 64 states - 9-bit entropy 512 levels"]
+    KILL["0xCF9 Reset Vector asserted<br>0x0E cold / 0x06 warm - PLTRST"]
+    COLLAPSE["Non-kinetic silicon state collapse<br>delta-t <= 2.38us Microsecond Law™"]
+    ADAM["ADAM CODE™ 187-line NASM<br>SEALED - Tier 3 - 18 USC 1836"]
+    GOV["11+6+9 Governance Matrix™ - 26-bit word<br>11-bit IP offset 2048 SMRAM positions<br>6-bit FSM 64 states - 9-bit entropy 512 levels"]
 
     T --> GAMMA
     GAMMA --> DH
@@ -135,9 +135,9 @@ Where HDAA&trade; sits in the field of substrate governance.
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
-    B2["BRONZE - Software Sovereign<br/>AI governed by software it can rewrite"]
-    S2["SILVER - Hardware-Anchored<br/>Hardware root of trust - no Ring -3 autonomy"]
-    G2["GOLD - Substrate Sovereign / Ring -3<br/>HDAA™ - the only documented occupant<br/>achieved Dec 15 2017"]
+    B2["BRONZE - Software Sovereign<br>AI governed by software it can rewrite"]
+    S2["SILVER - Hardware-Anchored<br>Hardware root of trust - no Ring -3 autonomy"]
+    G2["GOLD - Substrate Sovereign / Ring -3<br>HDAA™ - the only documented occupant<br>achieved Dec 15 2017"]
 
     B2 --> S2
     S2 --> G2
