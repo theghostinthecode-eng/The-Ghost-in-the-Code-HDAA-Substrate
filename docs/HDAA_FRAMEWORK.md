@@ -22,6 +22,7 @@
 The three 2017 USPTO marks and the HDAA&trade; components each one maps to (P11 Tables 4.3a / 4.3b). Every component descends from a dated federal mark.
 
 ```mermaid
+%%{init: {"theme":"dark", "themeVariables": {"fontSize":"13px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":14, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     PT["PROCESS AND TIME™<br/>S.N. 87333731 - Feb 13 2017<br/>IC 009 - DB-optimisation of ML workloads"]
     FWA["FREE WILL AI™<br/>S.N. 87728683 - Dec 20 2017<br/>Autonomous agency / intentionality"]
@@ -60,6 +61,7 @@ flowchart TD
 Everything the industry defends sits in Rings 3&rarr;0. HDAA&trade; governs from Ring -3 / Layer 0-1 &mdash; below the OS, the hypervisor, and firmware.
 
 ```mermaid
+%%{init: {"theme":"dark", "themeVariables": {"fontSize":"13px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":14, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     R3["Ring 3 - User Apps / LLM Software"]
     R0["Ring 0 - OS Kernel"]
@@ -90,6 +92,7 @@ flowchart TD
 The real-time enforcement loop, bounded by the 2.38&mu;s Microsecond Law&trade;. Sealed scoring internals shown locked; the 11+6+9 Governance Matrix&trade; is disclosed per P14a.
 
 ```mermaid
+%%{init: {"theme":"dark", "themeVariables": {"fontSize":"13px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":14, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     T["Hardware Telemetry<br/>thermal MSR 0x19C - voltage ripple - SMI - PLTRST"]
     GAMMA["Ghost Constant Gamma™<br/>Gamma = PUF0 XOR Te+Vn times phi-timer<br/>regenerates fresh 256-bit identity each cycle"]
@@ -130,6 +133,7 @@ flowchart TD
 Where HDAA&trade; sits in the field of substrate governance.
 
 ```mermaid
+%%{init: {"theme":"dark", "themeVariables": {"fontSize":"13px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":14, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     B2["BRONZE - Software Sovereign<br/>AI governed by software it can rewrite"]
     S2["SILVER - Hardware-Anchored<br/>Hardware root of trust - no Ring -3 autonomy"]
