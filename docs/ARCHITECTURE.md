@@ -1,4 +1,4 @@
- <div id="part-iii-technical-architecture" align="center">
+<div id="part-iii-technical-architecture" align="center">
 
   <h1>&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</h1>
   <h2>Substrate Validation and the Phase 2 Simulation Framework</h2>
@@ -38,6 +38,10 @@ This diagram maps how telemetry moves from active execution to physical containm
 
 <p><i>This pipeline should appear in this form wherever the repository or Guidebook describes the enforcement sequence. No variant wording, no alternate arrows: one canonical flow.</i></p>
 
+<blockquote style="border-left: 4px solid #1f6feb; padding: 10px 18px; background: rgba(31,111,235,0.08);">
+  <p>&#129518; <strong>The complete four-tier architecture</strong> &mdash; Trademark Lineage, Ring Stack, Execution Flow, and the Three-Tier Sovereignty Stack&trade; &mdash; is mapped in <a href="./HDAA_FRAMEWORK.md"><strong>THE HDAA&trade; FRAMEWORK &mdash; COMPLETE HIERARCHICAL MAP</strong></a>. The flowchart above is the execution-flow tier of that master map.</p>
+</blockquote>
+
 ---
 
 ## &#128208; CORE METRICS &amp; VALIDATION BENCHMARKS
@@ -67,7 +71,7 @@ The protocol enforces strict, measurable metrics to ensure the evidentiary plane
 
 **Eq. 1 — Master Sovereignty Equation**
 
-$$S_{\text{sovereignty}} = \left[\, \Gamma \times H(X) \,\right] \oplus \left[\, A_{\text{directive\_0xCF9}} \,\right]$$
+$$S_{\text{sovereignty}} = \big[\, \Gamma \times H(X) \,\big] \oplus \big[\, A_{\text{directive-0xCF9}} \,\big]$$
 
 **Eq. 2 — Ghost Constant (256-bit PUF Identity Proof)**
 
@@ -172,4 +176,4 @@ The purpose of CI/CD here is forensic provenance, not decoration.
 <hr>
 <div align="center">
   <p><b>Proceed to <a href="./LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a></b></p>
-</div>
+</div> 
