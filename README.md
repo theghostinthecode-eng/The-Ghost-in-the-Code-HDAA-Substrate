@@ -52,7 +52,7 @@
 
 <blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: rgba(227,98,9,0.08);">
   <p>&#128274; <strong>SEQUESTRATION MANDATE: THE 30/70 SPLIT &amp; THE KILL-SWITCH</strong></p>
-  <p>This repository declassifies the <strong>30% Architectural Foundation</strong> (Substrate Sovereignty) for public defensive research and prior art establishment under 35 U.S.C. &sect; 102. The <strong>70% Visionary Extensions</strong>&mdash;specifically the complete 187-line ADAM CODE&trade; NASM source, the <strong>Hardware Kill-Switch</strong> execution logic, implementation keys, and the AGI-to-ASI Singularity Veto&mdash;remain permanently sequestered as Sovereign Trade Secrets under 18 U.S.C. &sect; 1836 (DTSA). This is an "Engine Without Keys".</p>
+  <p>This repository makes unclassified the <strong>30% Architectural Foundation</strong> (Substrate Sovereignty) for public defensive research and prior art establishment under 35 U.S.C. &sect; 102. The <strong>70% Visionary Extensions</strong>&mdash;specifically the complete 187-line ADAM CODE&trade; NASM source, the <strong>Hardware Kill-Switch</strong> execution logic, implementation keys, and the AGI-to-ASI Singularity Veto&mdash;remain permanently sequestered as Sovereign Trade Secrets under 18 U.S.C. &sect; 1836 (DTSA). This is an "Engine Without Keys".</p>
 </blockquote>
 
 <blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: rgba(111,66,193,0.08);">
@@ -82,6 +82,8 @@
 <h2>&#128065;&#65039; EXECUTIVE OVERVIEW: THE SUBSTRATE IS OCCUPIED</h2>
 
 <p>This repository is the public research interface for the <strong>HDAA&trade;</strong> framework, the <strong>Schr&ouml;der Limit&trade;</strong>, and the <strong>Layer 0&ndash;1 Silicon Sovereignty&trade;</strong> record. It is not a turnkey commercial product; it is an evidentiary ledger and a rigorous academic field guide.</p>
+
+<p><em>The complete mathematical architecture &mdash; the five canonical equations (rendered in LaTeX) and the four-tier framework map &mdash; is set out in <a href="./docs/ARCHITECTURE.md">Part III: Technical Architecture</a> and <a href="./docs/HDAA_FRAMEWORK.md">the HDAA&trade; Framework Map</a>.</em></p>
 
 <p>The global technology industry spent eight years and over <strong>$1.8 trillion</strong> defending the software layer (Rings 0-3), operating under the catastrophic illusion that running code could police running code. Meanwhile, nation-state adversaries established undetected persistence deep within the firmware.</p>
 
@@ -173,11 +175,11 @@
     <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>HIGH PRIORITY</b></td>
   </tr>
   <tr>
-    <td style="padding: 10px; border: 1px solid #ddd;"><b>telemetry_data/</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">10,247-trial validation logs and Saleae Logic Pro 16 waveform baselines from Dec 15, 2017.</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">Evidentiary layer &mdash; Public / Curated</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">Preserve full provenance, trial-count integrity, and timestamp accuracy.</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">Integrity-preserving redistribution only; no modification; exclude secrets and unauthorized machine data.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>forensic_metrics (corpus-disclosed)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">The Dec 15, 2017 results &mdash; 10,247 trials, &Delta;t &le; 2.38&nbsp;&mu;s, F1 0.997, 500 MS/s instrumentation &mdash; are disclosed in the Master Defensive Publication corpus (P14 / P14a). Raw logs and waveform captures are <strong>not redistributed</strong>; the published metrics are the citable record.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Evidentiary layer &mdash; Corpus-disclosed</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Cite the corpus DOIs; reproduce independently under ONUS. No raw-capture redistribution is provided or owed.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Metrics are fixed in the corpus record; researchers reproduce them on their own bench. The ONUS of measurement rests with the institution.</td>
     <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>HIGH PRIORITY</b></td>
   </tr>
   <tr style="background-color: rgba(127,127,127,0.06);">
@@ -275,6 +277,9 @@ To navigate the full scope of the HDAA&trade; Substrate, proceed to the followin
 
 ### <a href="./docs/LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a>
 *The Three-Tier IP Framework (The "Donation"), Trademark Sovereignty, and the 10-Paper Evidentiary Corpus.*
+
+### <a href="./docs/HDAA_FRAMEWORK.md">&#129518; THE HDAA&trade; FRAMEWORK &mdash; COMPLETE HIERARCHICAL MAP</a>
+*Four-tier visual architecture: Trademark Lineage, Ring Stack, Execution Flow, and the Three-Tier Sovereignty Stack&trade; &mdash; with the 30/70 sealed boundary drawn into the diagram itself.*
 
 <br>
 
