@@ -1,3 +1,14 @@
+<!-- ============================================================
+     DOCUMENT VERSION CONTROL
+     Part V — The HDAA Framework Hierarchical Map
+     Version: P05.v07   |   Date: 1 July 2026
+     Corpus: Schröder Sovereignty Stack™ — GitHub Master Set
+     Anchor DOI: 10.5281/zenodo.18738911
+     DO NOT overwrite prior versions — increment v07 → v08 on next change.
+     ============================================================ -->
+
+<sub><b>Part V — The HDAA Framework Hierarchical Map · Version P05.v07 · 1 July 2026</b></sub>
+
 <div align="center">
 
   <h1>&#129518; THE HDAA&trade; FRAMEWORK &mdash; COMPLETE HIERARCHICAL MAP</h1>
@@ -11,13 +22,19 @@
 
 <br>
 
-<blockquote style="border-left: 4px solid #1f6feb; padding: 10px 18px; background: rgba(31,111,235,0.08);">
-  <p>&#128270; <strong>HOW TO READ THIS MAP.</strong> Four tiers descend from legal origin to physical enforcement. <strong>Green</strong> nodes are Tier 1 &mdash; disclosed for prior-art purposes and independently replicable. <strong>Red / locked</strong> nodes are Tier 3 &mdash; sealed trade secrets under 18 U.S.C. &sect;&thinsp;1836, shown as locked boxes whose contents are never disclosed. <strong>Amber</strong> denotes a public formula with sealed calibration constants. The diagram itself enforces the 30/70 boundary: what is shown is the architecture; what is locked is the sovereign core.</p>
-</blockquote>
+<div style="border-left: 6px solid #cb2431; padding: 14px 22px; color: inherit;">
+  <p>&#127919; <strong>THE REPLICATION MISSION &mdash; NOTHING MORE, NOTHING LESS.</strong></p>
+  <p>Researchers are asked to prove exactly <strong>one</strong> thing: the <strong>physical reset law</strong> &mdash; that a write to I/O port <code>0xCF9</code> from SMM (Ring &minus;2) collapses the platform power state in <strong>&Delta;t &le; 2.38&mu;s</strong>. That is the entire objective. Reproducing this single bounded law &mdash; one logged waveform showing sub-2.38&mu;s collapse on your own bench &mdash; confirms that the <strong>December 15, 2017</strong> prototype and its simulation were real. No sealed intelligence is required to validate it. The mechanism is legible and reproducible; the calibrated core that decides <em>when</em> the veto fires remains sovereign. <strong>Prove the reset law. That is the mission.</strong></p>
+</div>
 
-<blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: rgba(31,111,235,0.08);">
+
+<div style="border-left: 4px solid #1f6feb; padding: 10px 18px; color: inherit;">
+  <p>&#128270; <strong>HOW TO READ THIS MAP.</strong> Four tiers descend from legal origin to physical enforcement. <strong>Green</strong> nodes are Tier 1 &mdash; disclosed for prior-art purposes and independently replicable. <strong>Red / locked</strong> nodes are Tier 3 &mdash; sealed trade secrets under 18 U.S.C. &sect;&thinsp;1836, shown as locked boxes whose contents are never disclosed. <strong>Amber</strong> denotes a public formula with sealed calibration constants. The diagram itself enforces the 30/70 boundary: what is shown is the architecture; what is locked is the sovereign core.</p>
+</div>
+
+<div style="border-left: 5px solid #1f6feb; padding: 10px 20px; color: inherit;">
   <p>&#9881;&#65039; <strong>CONTROLLING NOMENCLATURE.</strong> The x86 privilege planes are Ring 3 (user), Ring 0 (kernel), Ring &minus;1 (hypervisor), <strong>Ring &minus;2 (System Management Mode / SMM)</strong> &mdash; owning SMRAM, the SMI entry path, and I/O port 0xCF9 &mdash; and <strong>Ring &minus;3 (the Management Engine / PSP co-processor)</strong>. All reduction-to-practice enforcement in this map is realised at <strong>Ring &minus;2 (SMM)</strong>; Ring &minus;3 (ME/PSP) is the declared forward frontier. The registered mark <strong>Substrate Sovereignty (Ring &minus;3 / SMM)&trade;</strong> names the unified plane spanning both.</p>
-</blockquote>
+</div>
 
 ---
 
@@ -26,7 +43,7 @@
 The three 2017 USPTO marks and the HDAA&trade; components each one maps to (P11 Tables 4.3a / 4.3b). Every component descends from a dated federal mark.
 
 ```mermaid
-%%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
+%%{init: {"theme":"dark","themeVariables": {"fontSize":"11px"},"flowchart": {"nodeSpacing":55,"rankSpacing":60,"padding":18,"useMaxWidth":true,"htmlLabels":true,"wrap":true}}}%%
 flowchart TD
     PT["PROCESS AND TIME&trade;<br>S.N. 87333731 - Feb 13 2017<br>IC 009<br>DB-optimisation<br>of ML workloads"]
     FWA["FREE WILL AI&trade;<br>S.N. 87728683 - Dec 20 2017<br>Autonomous agency /<br>intentionality"]
@@ -65,7 +82,7 @@ flowchart TD
 Everything the industry defends sits in Rings 3&rarr;0. HDAA&trade; governs from <strong>Ring &minus;2 (SMM) / Layer 0-1</strong> &mdash; below the OS and the hypervisor &mdash; under the <strong>Substrate Sovereignty (Ring &minus;3 / SMM)&trade;</strong> mark, with the Ring &minus;3 co-processor plane (ME / PSP) as the declared forward frontier.
 
 ```mermaid
-%%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
+%%{init: {"theme":"dark","themeVariables": {"fontSize":"11px"},"flowchart": {"nodeSpacing":55,"rankSpacing":60,"padding":18,"useMaxWidth":true,"htmlLabels":true,"wrap":true}}}%%
 flowchart TD
     R3["Ring 3 - User Apps / LLM Software"]
     R0["Ring 0 - OS Kernel"]
@@ -100,7 +117,7 @@ flowchart TD
 The real-time enforcement loop, bounded by the &Delta;t &le; 2.38&mu;s Microsecond Law&trade;. Sealed scoring internals shown locked; the 11+6+9 Governance Matrix&trade; is disclosed per P14b.01.
 
 ```mermaid
-%%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
+%%{init: {"theme":"dark","themeVariables": {"fontSize":"11px"},"flowchart": {"nodeSpacing":55,"rankSpacing":60,"padding":18,"useMaxWidth":true,"htmlLabels":true,"wrap":true}}}%%
 flowchart TD
     T["Hardware Telemetry<br>thermal MSR 0x19C - voltage ripple - SMI - PLTRST"]
     GAMMA["Ghost Constant Gamma&trade;<br>Gamma = PUF0 XOR Te+Vn<br>times phi-timer<br>regenerates fresh<br>256-bit identity each cycle"]
@@ -143,7 +160,7 @@ flowchart TD
 Where HDAA&trade; sits in the field of substrate governance.
 
 ```mermaid
-%%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
+%%{init: {"theme":"dark","themeVariables": {"fontSize":"11px"},"flowchart": {"nodeSpacing":55,"rankSpacing":60,"padding":18,"useMaxWidth":true,"htmlLabels":true,"wrap":true}}}%%
 flowchart TD
     B2["BRONZE - Software Sovereign<br>AI governed by software it can rewrite"]
     S2["SILVER - Hardware-Anchored<br>Hardware root of trust<br>no Ring -2 (SMM) autonomy"]
