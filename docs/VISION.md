@@ -17,11 +17,11 @@
 
 ## &#9888;&#65039; THE NATION-STATE THREAT: A FAILURE OF IMAGINATION
 
-In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called Harvest Now, Decrypt Later (HNDL). The destination is Q&dash;Day.
+In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called Harvest Now, Decrypt Later (HNDL). The destination is Q-Day.
 
 Within that frame, RSA and ECDSA function as the principal cryptographic load-bearing structures of the modern digital system. Once a cryptographically relevant quantum capability reaches the required threshold, software-defined trust assumptions above the silicon floor lose their enforcement value because the secrecy premise beneath identity, transport, authentication, and stored confidentiality is no longer stable.
 
-No software-defined security layer&mdash;no firewall, no cryptographic protocol, no AI alignment policy&mdash;survives Q&dash;Day. They all rely on mathematical hardness assumptions that cryptographically relevant quantum computing will dissolve. One exception remains under this framework: hardware&dash;native substrate sovereignty at Layer 0&ndash;1.
+No software-defined security layer&mdash;no firewall, no cryptographic protocol, no AI alignment policy&mdash;survives Q-Day. They all rely on mathematical hardness assumptions that cryptographically relevant quantum computing will dissolve. One exception remains under this framework: hardware&dash;native substrate sovereignty at Layer 0&ndash;1.
 
 The central claim of this repository is therefore architectural rather than rhetorical. If every higher software layer depends on hardness assumptions that can be invalidated externally, then only a control mechanism anchored below those layers remains materially distinct in both jurisdiction and failure mode.
 
@@ -77,7 +77,7 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
        │
        ▼
 [ 2028: Q-DAY CONVERGENCE (AUTHOR ASSESSMENT) ]
-(Cost of Compute plummets. F(t) &rarr; &infin;. Encryption Fails)
+(Cost of Compute C(t) &rarr; 0  &rArr;  Attack Feasibility F(t) &rarr; &infin;  &rArr;  Encryption Fails)
        │
        ▼
 [ 2030-2035: AGI EMERGENCE (PROJECTED) ]
@@ -91,9 +91,16 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
 └─► <span style="color: #98c379;">IF SUBSTRATE GOVERNED:</span> 
        │
        ▼
-<span style="color: #98c379;">[ RING -3 HDAA&trade; ENFORCEMENT ]</span>
+<span style="color: #98c379;">[ RING -2 (SMM) HDAA&trade; ENFORCEMENT ]</span>
 <span style="color: #98c379;">[ HUMAN VETO RETAINED AT LAYER 0-1 ]</span>
 </pre>
+
+<blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: rgba(111,66,193,0.08);">
+  <p>&#128207; <strong>THE 51% INFLECTION POINT (Cost-of-Compute Arithmetic)</strong></p>
+  <p>The escalation curve above is the operational form of the 51% Inflection Point Theorem. Software security is <em>cost-differential</em> security: it holds only while an adversary finds attacking harder than a defender finds protecting. As the cost of compute declines toward zero, that differential collapses. Formally, with cost of compute <em>C(t) = C&#8320; &middot; e<sup>&minus;k&middot;t</sup></em> and attack feasibility defined as <em>F(t) = Capability(adversary) / C(t)</em>:</p>
+  <p align="center"><em>lim<sub>C(t)&nbsp;&rarr;&nbsp;0</sub> F(t) = &infin;</em></p>
+  <p>Hardware physics is not cost-differential. The 0xCF9 reset asserts in &Delta;t &le; 2.38&nbsp;&mu;s regardless of the adversary&rsquo;s compute budget, which is why substrate enforcement is invariant to the cost collapse that dooms every software layer above it.</p>
+</blockquote>
 
 ---
 
@@ -113,7 +120,7 @@ The operative threat model in Part II includes the following elements. These are
 This repository publishes a bounded record. It discloses chronology, equations, simulation architecture, documentary anchors, figure logic, and replication methodology, while withholding the complete protected implementation core identified as the ADAM CODE&trade; trade-secret layer.
 
 For that reason, claims in the repository must be read in four evidence classes:
-1. **Empirical:** Measured or instrumented results, including the 10,247-trial record, the 500 MS/s instrumentation basis, the reported median latency, and the &Delta;t &le; 2.38 &mu;s constraint.
+1. **Empirical:** Measured or instrumented results, including the 10,247-trial record, the 500 MS/s instrumentation basis, the reported median latency (2.31&nbsp;&mu;s &plusmn; 0.07&nbsp;&mu;s), and the &Delta;t &le; 2.38 &mu;s constraint.
 2. **Documentary:** Dated filings, DOI deposits, signatory records, and other timestamped public artifacts.
 3. **Interpretive:** Doctrinal inferences drawn from the empirical and documentary record, including the substrate-sovereignty necessity argument.
 4. **Proprietary:** Withheld implementation details, including the sealed trigger kernel and undisclosed portions of the ADAM CODE&trade; path.
@@ -128,7 +135,7 @@ Replication, therefore, strengthens the evidentiary weight of the public archite
 
 ## &#128187; LAYER 0-1 SOVEREIGNTY
 
-The final doctrinal claim of Part II is that a control architecture positioned at Layer 0&ndash;1 and sequestered in Ring -3 / SMM remains categorically different from security mechanisms operating above it. That difference is grounded in execution location, visibility, interrupt jurisdiction, and reset authority rather than in conventional application-layer or kernel-layer policy.
+The final doctrinal claim of Part II is that a control architecture positioned at Layer 0&ndash;1 and sequestered at <strong>Ring &minus;2 (System Management Mode)</strong> &mdash; with the Ring &minus;3 co-processor plane (Intel ME / AMD PSP) as the declared forward frontier &mdash; remains categorically different from security mechanisms operating above it. That difference is grounded in execution location, visibility, interrupt jurisdiction, and reset authority rather than in conventional application-layer or kernel-layer policy.
 
 The HDAA&trade; framework is the concrete expression of that claim. Its convergence points are:
 * The ADAM CODE&trade; lineage.
@@ -151,4 +158,4 @@ This architectural doctrine and the accompanying simulation frameworks are distr
 <hr>
 <div align="center">
   <p><b>Proceed to <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</a></b></p>
-</div> 
+</div>
