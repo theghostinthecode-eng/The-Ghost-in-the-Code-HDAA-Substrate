@@ -69,13 +69,11 @@
 
 <h2>&#9889; THE WHY: THE THEOREM OF THE LOWER LAYER SUBSTRATE</h2>
 
-<p>While the global technology apparatus postures about AI alignment, their architectural foundation is built on sand. Between June 15&ndash;17, 2026, AI CEOs&mdash;including OpenAI&rsquo;s Sam Altman, Anthropic&rsquo;s Dario Amodei, and Google DeepMind&rsquo;s Demis Hassabis&mdash;met with President Trump at the G7 Summit to pitch U.S.-led global governance standards. This political theater occurred just days after the Trump administration was forced to impose sweeping national security export controls on Anthropic&rsquo;s Fable 5 and Mythos 5 models over critical "jailbreak" vulnerabilities.</p>
+<p>While the global technology apparatus postures about AI alignment, its architectural foundation is built on sand. The industry preaches safety, yet it operates almost exclusively at the software layer (Rings 0&ndash;3) &mdash; a layer inherently vulnerable to manipulation. OpenAI&rsquo;s own head of hardware, Richard Ho, conceded the point publicly at the AI Infra Summit in Santa Clara (September 2025): safety today is built in software, on the assumption that the hardware is secure and that you can always pull the plug &mdash; and he argued that real-time kill switches, silicon telemetry, and secure execution paths must instead be built directly into the hardware.</p>
 
-<p>They preach safety, yet they operate exclusively at the software layer (Rings 0&ndash;3)&mdash;a layer inherently vulnerable to manipulation. Even OpenAI's own Head of Hardware, Richard Ho, publicly conceded in September 2025 that the industry lacks the ultimate safety mechanism: <i>"The Case for Real-Time Kill Switches in AI Compute Clusters."</i></p>
+<p>The hardware oligopoly is only now turning toward the substrate. NVIDIA finalized a $5&nbsp;billion strategic equity investment in Intel (FTC-cleared December 2025) for x86 and advanced-packaging co-design, and both vendors are pushing agentic-silicon security &mdash; NVIDIA Confidential Computing on Hopper/Blackwell, Intel TDX/TDT. But these mechanisms still root their enforcement at Ring&nbsp;0 and, at deepest, the hypervisor/TEE plane (Ring&nbsp;&minus;1). They depend on the operating system to pull the trigger. If the OS kernel is hijacked, that security is mathematically dead.</p>
 
-<p>Furthermore, the hardware oligopoly is faking it. Despite the $5 billion September 2025 pivot by Intel and NVIDIA to secure "Agentic Silicon," their flagship architectures (Intel TDT, NVIDIA Blackwell TEE-I/O) still operate at Ring -2 and Ring 0. They rely on the operating system to pull the trigger. If the OS kernel is hijacked, their security is mathematically dead.</p>
-
-<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This working <strong>prototype</strong>&mdash;reduced to practice on December 15, 2017 and proven across 10,247 forensic trials via simulation&mdash;establishes the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at Ring -3.</p>
+<p><strong>This is exactly why this repository is being donated to the global commons.</strong> This working <strong>prototype</strong> &mdash; reduced to practice on December 15, 2017 and proven across 10,247 forensic trials via simulation &mdash; establishes the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at the substrate floor &mdash; <strong>Ring&nbsp;&minus;2 (System Management Mode)</strong>, the deepest execution context reachable by native host x86-64 assembly, with the Ring&nbsp;&minus;3 co-processor plane (Intel ME / AMD PSP) as the declared forward frontier.</p>
 
 <hr>
 
@@ -144,7 +142,7 @@
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>Dockerfile</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">Reproducible build environment &mdash; pins Ubuntu 22.04 LTS, GCC 13+, NASM 2.15+.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Reproducible build environment &mdash; pins Ubuntu 22.04 LTS, GCC 13+, NASM 2.16+.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 &mdash; Public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">No trademark misuse in comments or annotations.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Redistribute with copyright/notice block; toolchain only &mdash; no proprietary firmware content.</td>
@@ -212,16 +210,16 @@
 
 ## 📜 ABSTRACT: THE PROTOTYPE &amp; ITS SIMULATION FRAMEWORK
 
-Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed. 
+Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed.
 
-This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype** and its accompanying simulation framework: a working prototype reduced to practice on December 15, 2017, together with a fully reproducible, self-contained research framework that allows independent labs to reproduce the Ring -3 System Management Mode (SMM) enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. The prototype establishes chronological priority on December 15, 2017.
+This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype** and its accompanying simulation framework: a working prototype reduced to practice on December 15, 2017, together with a fully reproducible, self-contained research framework that allows independent labs to reproduce the **Ring &minus;2 System Management Mode (SMM)** enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. The prototype establishes chronological priority on December 15, 2017.
 
-The prototype embodies the Three-Plane Architecture&trade; and was proven to hold the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was established across 10,247 independent forensic trials at 500 MS/s, yielding a median of 2.31 &mu;s &plusmn; 0.07 &mu;s. The simulation framework lets independent labs reproduce that result.
+The prototype embodies the Three-Plane Architecture&trade; and was proven to hold the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was established across 10,247 independent forensic trials at 500 MS/s, yielding a median of **2.31 &mu;s &plusmn; 0.07 &mu;s** (median plus one standard deviation equals the 2.38 &mu;s ceiling). The simulation framework lets independent labs reproduce that result.
 
 ## ⚡ EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL
 
-On December 15, 2017, the HDAA&trade; framework was empirically realized. 
-* **Sequestration:** Operates entirely within Ring -3 System Management Mode (invisible to all OS and hypervisors).
+On December 15, 2017, the HDAA&trade; framework was empirically realized.
+* **Sequestration:** Operates entirely within **Ring &minus;2 System Management Mode** (invisible to all OS and hypervisors), with the Ring &minus;3 co-processor plane as the declared forward frontier.
 * **Validation:** Proven across 10,247 physical forensic trials (F1 Score: 0.997).
 * **Enforcement:** When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.
 * **Speed:** Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction). You cannot hack physics.
@@ -235,7 +233,7 @@ On December 15, 2017, the HDAA&trade; framework was empirically realized.
        │
        ▼
 [ DOCKER TOOLCHAIN LOCKDOWN ]
-(GCC 13+ / NASM 2.15+ / -O0)
+(GCC 13+ / NASM 2.16+ / -O0)
        │
        ▼
 [ HARDWARE INSTRUMENTATION ]
@@ -258,7 +256,7 @@ The complete Simulation Framework will be released for independent academic repl
 
 > Scope of replication, stated plainly: independent labs validate the **physical reset law** &mdash; the &Delta;t &le; 2.38&nbsp;&mu;s latency from a forced breach signal to 0xCF9 state collapse &mdash; **not** the proprietary breach-detection intelligence. The Dark Harvest Formula&trade; scoring and the ADAM CODE&trade; kernel remain sealed (Tier 3, 18 U.S.C. &sect;&thinsp;1836). The physics is reproducible; the intelligence is sovereign.
 
-This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles. 
+This disclosure is a donation, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles.
 
 **The Light is shared. The Fire is not.**
 
