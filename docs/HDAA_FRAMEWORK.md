@@ -15,6 +15,10 @@
   <p>&#128270; <strong>HOW TO READ THIS MAP.</strong> Four tiers descend from legal origin to physical enforcement. <strong>Green</strong> nodes are Tier 1 &mdash; disclosed for prior-art purposes and independently replicable. <strong>Red / locked</strong> nodes are Tier 3 &mdash; sealed trade secrets under 18 U.S.C. &sect;&thinsp;1836, shown as locked boxes whose contents are never disclosed. <strong>Amber</strong> denotes a public formula with sealed calibration constants. The diagram itself enforces the 30/70 boundary: what is shown is the architecture; what is locked is the sovereign core.</p>
 </blockquote>
 
+<blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: rgba(31,111,235,0.08);">
+  <p>&#9881;&#65039; <strong>CONTROLLING NOMENCLATURE.</strong> The x86 privilege planes are Ring 3 (user), Ring 0 (kernel), Ring &minus;1 (hypervisor), <strong>Ring &minus;2 (System Management Mode / SMM)</strong> &mdash; owning SMRAM, the SMI entry path, and I/O port 0xCF9 &mdash; and <strong>Ring &minus;3 (the Management Engine / PSP co-processor)</strong>. All reduction-to-practice enforcement in this map is realised at <strong>Ring &minus;2 (SMM)</strong>; Ring &minus;3 (ME/PSP) is the declared forward frontier. The registered mark <strong>Substrate Sovereignty (Ring &minus;3 / SMM)&trade;</strong> names the unified plane spanning both.</p>
+</blockquote>
+
 ---
 
 ## &#127991;&#65039; TIER 1 — TRADEMARK LINEAGE (THE FEDERAL TIMESTAMP CHAIN)
@@ -24,15 +28,15 @@ The three 2017 USPTO marks and the HDAA&trade; components each one maps to (P11 
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
-    PT["PROCESS AND TIME™<br>S.N. 87333731 - Feb 13 2017<br>IC 009<br>DB-optimisation<br>of ML workloads"]
-    FWA["FREE WILL AI™<br>S.N. 87728683 - Dec 20 2017<br>Autonomous agency /<br>intentionality"]
-    FWL["FREE WILL LEARNING™<br>S.N. 87728732 - Dec 20 2017<br>Assembler-level<br>recursive optimisation"]
+    PT["PROCESS AND TIME&trade;<br>S.N. 87333731 - Feb 13 2017<br>IC 009<br>DB-optimisation<br>of ML workloads"]
+    FWA["FREE WILL AI&trade;<br>S.N. 87728683 - Dec 20 2017<br>Autonomous agency /<br>intentionality"]
+    FWL["FREE WILL LEARNING&trade;<br>S.N. 87728732 - Dec 20 2017<br>Assembler-level<br>recursive optimisation"]
     FOUND["2007-2011 Foundation<br>3 ML workloads<br>prototyped<br>via simulation"]
-    HDAA["HDAA™ FRAMEWORK<br>Reduced to practice Dec 15 2017"]
-    C1["ADAM CODE™ core<br>187-line NASM - SEALED"]
-    C2["0xCF9 Delegated Primitive™<br>Hardware Kill-Switch"]
-    C3["Ghost Constant Gamma™<br>256-bit PUF identity"]
-    C4["Dark Harvest Formula™<br>Z-score engine - sealed constants"]
+    HDAA["HDAA&trade; FRAMEWORK<br>Reduced to practice Dec 15 2017"]
+    C1["ADAM CODE&trade; core<br>187-line NASM - SEALED"]
+    C2["0xCF9 Delegated Primitive&trade;<br>Hardware Kill-Switch"]
+    C3["Ghost Constant Gamma&trade;<br>256-bit PUF identity"]
+    C4["Dark Harvest Formula&trade;<br>Z-score engine - sealed constants"]
 
     PT --> FOUND
     FOUND --> HDAA
@@ -58,7 +62,7 @@ flowchart TD
 
 ## &#9881;&#65039; TIER 2 — RING / LAYER STACK (WHERE GOVERNANCE LIVES)
 
-Everything the industry defends sits in Rings 3&rarr;0. HDAA&trade; governs from Ring -3 / Layer 0-1 &mdash; below the OS, the hypervisor, and firmware.
+Everything the industry defends sits in Rings 3&rarr;0. HDAA&trade; governs from <strong>Ring &minus;2 (SMM) / Layer 0-1</strong> &mdash; below the OS and the hypervisor &mdash; under the <strong>Substrate Sovereignty (Ring &minus;3 / SMM)&trade;</strong> mark, with the Ring &minus;3 co-processor plane (ME / PSP) as the declared forward frontier.
 
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
@@ -66,43 +70,47 @@ flowchart TD
     R3["Ring 3 - User Apps / LLM Software"]
     R0["Ring 0 - OS Kernel"]
     Rm1["Ring -1 - Hypervisor"]
-    Rm2["Ring -2 - UEFI / Firmware"]
-    Rm3["Ring -3 - System Management<br>Mode (SMM)<br>HDAA™ GOVERNANCE LAYER<br>SMRAM TSEG<br>invisible to all<br>layers above"]
+    Rm2["Ring -2 - System Management<br>Mode (SMM)<br>HDAA&trade; GOVERNANCE LAYER<br>SMRAM TSEG<br>invisible to all<br>layers above"]
+    Rm3["Ring -3 - Management Engine /<br>PSP co-processor<br>(declared forward frontier)"]
     SEAL["D_LCK bit set - SMRAM locked<br>until hard power cycle"]
 
     R3 --> R0
     R0 --> Rm1
     Rm1 --> Rm2
-    Rm2 --> Rm3
-    Rm3 --> SEAL
+    Rm2 --> SEAL
+    Rm2 -.->|"forward frontier"| Rm3
 
     classDef vuln fill:#1a0c0c,stroke:#e74c3c,stroke-width:1.5px,color:#ffd0d0;
     classDef gov fill:#0a1f14,stroke:#2ecc71,stroke-width:3px,color:#d6ffe6;
+    classDef frontier fill:#0a1a2a,stroke:#6fb7ff,stroke-width:2px,color:#cfe8ff;
     classDef open fill:#0c2417,stroke:#2ecc71,stroke-width:2px,color:#d6ffe6;
 
-    class R3,R0,Rm1,Rm2 vuln;
-    class Rm3 gov;
+    class R3,R0,Rm1 vuln;
+    class Rm2 gov;
+    class Rm3 frontier;
     class SEAL open;
 ```
+
+<p><i>Note: the operating system executes at Ring 0 and hypervisors at Ring &minus;1; both are structurally above the SMM governance layer and therefore visible to it. The UEFI/firmware boot services are a Ring &minus;2 execution context; the HDAA&trade; watchdog runs in the sequestered SMRAM half of that plane, invisible to and non-interruptible by every layer above.</i></p>
 
 ---
 
 ## &#128268; TIER 3 — EXECUTION FLOW (TELEMETRY &rarr; VETO &rarr; COLLAPSE)
 
-The real-time enforcement loop, bounded by the 2.38&mu;s Microsecond Law&trade;. Sealed scoring internals shown locked; the 11+6+9 Governance Matrix&trade; is disclosed per P14a.
+The real-time enforcement loop, bounded by the &Delta;t &le; 2.38&mu;s Microsecond Law&trade;. Sealed scoring internals shown locked; the 11+6+9 Governance Matrix&trade; is disclosed per P14b.01.
 
 ```mermaid
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     T["Hardware Telemetry<br>thermal MSR 0x19C - voltage ripple - SMI - PLTRST"]
-    GAMMA["Ghost Constant Gamma™<br>Gamma = PUF0 XOR Te+Vn<br>times phi-timer<br>regenerates fresh<br>256-bit identity each cycle"]
-    DH["Dark Harvest Formula™ - Z-score<br>calibrated constants SEALED"]
+    GAMMA["Ghost Constant Gamma&trade;<br>Gamma = PUF0 XOR Te+Vn<br>times phi-timer<br>regenerates fresh<br>256-bit identity each cycle"]
+    DH["Dark Harvest Formula&trade; - Z-score<br>calibrated constants SEALED"]
     HV{"Heaviside Trigger<br>Z_aggressor >= sigma_limit<br>3.20"}
     RET["Return to execution RSM"]
     KILL["0xCF9 Reset Vector asserted<br>0x0E cold / 0x06 warm - PLTRST"]
-    COLLAPSE["Non-kinetic silicon state collapse<br>delta-t <= 2.38us Microsecond Law™"]
-    ADAM["ADAM CODE™ 187-line NASM<br>SEALED - Tier 3 - 18 USC 1836"]
-    GOV["11+6+9 Governance Matrix™<br>26-bit word<br>11-bit IP offset<br>2048 SMRAM positions<br>6-bit FSM 64 states<br>9-bit entropy 512 levels"]
+    COLLAPSE["Non-kinetic silicon state collapse<br>delta-t <= 2.38us Microsecond Law&trade;"]
+    ADAM["ADAM CODE&trade; 187-line NASM<br>SEALED - Tier 3 - 18 USC 1836"]
+    GOV["11+6+9 Governance Matrix&trade;<br>26-bit word<br>11-bit IP offset<br>2048 SMRAM positions<br>6-bit FSM 64 states<br>9-bit entropy 512 levels"]
 
     T --> GAMMA
     GAMMA --> DH
@@ -126,6 +134,8 @@ flowchart TD
     class COLLAPSE collapse;
 ```
 
+<p><i>The 11+6+9 Governance Matrix&trade; is a 26-bit control word: an 11-bit IP offset (2048 addressable SMRAM positions), a 6-bit finite-state-machine field (64 states), and a 9-bit entropy field (512 levels). It is disclosed per P14b.01; the Dark Harvest Formula&trade; calibration constants that drive the Heaviside boundary remain sealed.</i></p>
+
 ---
 
 ## &#127942; TIER 4 — THREE-TIER SOVEREIGNTY STACK&trade; (POSITIONING)
@@ -136,8 +146,8 @@ Where HDAA&trade; sits in the field of substrate governance.
 %%{init: {"theme":"dark", "themeVariables": {"fontSize":"11px"}, "flowchart": {"nodeSpacing":55, "rankSpacing":60, "padding":18, "useMaxWidth":true, "htmlLabels":true, "wrap":true}}}%%
 flowchart TD
     B2["BRONZE - Software Sovereign<br>AI governed by software it can rewrite"]
-    S2["SILVER - Hardware-Anchored<br>Hardware root of trust<br>no Ring -3 autonomy"]
-    G2["GOLD - Substrate Sovereign / Ring -3<br>HDAA™ - the only documented occupant<br>achieved Dec 15 2017"]
+    S2["SILVER - Hardware-Anchored<br>Hardware root of trust<br>no Ring -2 (SMM) autonomy"]
+    G2["GOLD - Substrate Sovereign / Ring -2 (SMM)<br>HDAA&trade; - the only documented occupant<br>achieved Dec 15 2017"]
 
     B2 --> S2
     S2 --> G2
@@ -154,5 +164,6 @@ flowchart TD
 <br>
 <hr>
 <div align="center">
-  <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a> &nbsp;|&nbsp; <a href="./ARCHITECTURE.md">&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE</a></b></p>
-</div> 
+  <p><b>Return to <a href="../README.md">&#127968; PART I: MASTER PILLAR (README)</a></b></p>
+  <p><a href="./ARCHITECTURE.md">&#9881;&#65039; Part III</a> &nbsp;|&nbsp; <a href="./LEGAL_AND_IP.md">&#9878;&#65039; Part IV</a></p>
+</div>
