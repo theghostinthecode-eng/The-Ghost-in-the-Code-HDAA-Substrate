@@ -1,3 +1,14 @@
+<!-- ============================================================
+     DOCUMENT VERSION CONTROL
+     Part III — Technical Architecture & Researcher Lab
+     Version: P03.v07   |   Date: 1 July 2026
+     Corpus: Schröder Sovereignty Stack™ — GitHub Master Set
+     Anchor DOI: 10.5281/zenodo.18738911
+     DO NOT overwrite prior versions — increment v07 → v08 on next change.
+     ============================================================ -->
+
+<sub><b>Part III — Technical Architecture & Researcher Lab · Version P03.v07 · 1 July 2026</b></sub>
+
 <div align="center">
 
   <h1>&#9881;&#65039; PART III: TECHNICAL ARCHITECTURE &amp; RESEARCHER LAB</h1>
@@ -11,10 +22,16 @@
 
 <br>
 
-<blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: rgba(31,111,235,0.08);">
+<div style="border-left: 6px solid #cb2431; padding: 14px 22px; color: inherit;">
+  <p>&#127919; <strong>THE REPLICATION MISSION &mdash; NOTHING MORE, NOTHING LESS.</strong></p>
+  <p>Researchers are asked to prove exactly <strong>one</strong> thing: the <strong>physical reset law</strong> &mdash; that a write to I/O port <code>0xCF9</code> from SMM (Ring &minus;2) collapses the platform power state in <strong>&Delta;t &le; 2.38&mu;s</strong>. That is the entire objective. Reproducing this single bounded law &mdash; one logged waveform showing sub-2.38&mu;s collapse on your own bench &mdash; confirms that the <strong>December 15, 2017</strong> prototype and its simulation were real. No sealed intelligence is required to validate it. The mechanism is legible and reproducible; the calibrated core that decides <em>when</em> the veto fires remains sovereign. <strong>Prove the reset law. That is the mission.</strong></p>
+</div>
+
+
+<div style="border-left: 5px solid #1f6feb; padding: 10px 20px; color: inherit;">
   <p>&#9881;&#65039; <strong>CONTROLLING ARCHITECTURAL NOMENCLATURE</strong></p>
   <p>This document uses the registered mark <strong>Substrate Sovereignty (Ring &minus;3 / SMM)&trade;</strong>. The x86 privilege model is Ring 3 (user), Ring 0 (kernel), Ring &minus;1 (hypervisor), <strong>Ring &minus;2 (System Management Mode / SMM)</strong> &mdash; the deepest execution context reachable by native host x86-64 assembly, owning SMRAM, the SMI entry path, and I/O port 0xCF9 &mdash; and <strong>Ring &minus;3 (the Management Engine / PSP co-processor)</strong>. The compound mark &ldquo;(Ring &minus;3 / SMM)&rdquo; names the unified enforcement plane spanning both. All reduction-to-practice enforcement described here &mdash; the 187-line ADAM CODE&trade;, the 0xCF9 reset vector, SMRAM sequestration, and the &Delta;t &le; 2.38&nbsp;&mu;s law &mdash; is realised at the <strong>SMM (Ring &minus;2)</strong> half of this plane. Ring &minus;3 (ME/PSP) is the declared forward frontier of the same mark. The privilege labels &minus;1 / &minus;2 / &minus;3 are established terms of art for privilege planes more privileged than the kernel, not additional formal x86 rings.</p>
-</blockquote>
+</div>
 
 ---
 
