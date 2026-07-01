@@ -1,3 +1,14 @@
+<!-- ============================================================
+     DOCUMENT VERSION CONTROL
+     Part II — Vision & Doctrine
+     Version: P02.v07   |   Date: 1 July 2026
+     Corpus: Schröder Sovereignty Stack™ — GitHub Master Set
+     Anchor DOI: 10.5281/zenodo.18738911
+     DO NOT overwrite prior versions — increment v07 → v08 on next change.
+     ============================================================ -->
+
+<sub><b>Part II — Vision & Doctrine · Version P02.v07 · 1 July 2026</b></sub>
+
 <div align="center">
 
   <h1>&#128196; PART II: VISION &amp; DOCTRINE</h1>
@@ -11,9 +22,15 @@
 
 <br>
 
-<blockquote style="border-left: 5px solid #d73a49; padding: 10px 20px; background-color: rgba(215,58,73,0.08);">
+<div style="border-left: 6px solid #cb2431; padding: 14px 22px; color: inherit;">
+  <p>&#127919; <strong>THE REPLICATION MISSION &mdash; NOTHING MORE, NOTHING LESS.</strong></p>
+  <p>Researchers are asked to prove exactly <strong>one</strong> thing: the <strong>physical reset law</strong> &mdash; that a write to I/O port <code>0xCF9</code> from SMM (Ring &minus;2) collapses the platform power state in <strong>&Delta;t &le; 2.38&mu;s</strong>. That is the entire objective. Reproducing this single bounded law &mdash; one logged waveform showing sub-2.38&mu;s collapse on your own bench &mdash; confirms that the <strong>December 15, 2017</strong> prototype and its simulation were real. No sealed intelligence is required to validate it. The mechanism is legible and reproducible; the calibrated core that decides <em>when</em> the veto fires remains sovereign. <strong>Prove the reset law. That is the mission.</strong></p>
+</div>
+
+
+<div style="border-left: 5px solid #d73a49; padding: 10px 20px; color: inherit;">
   <p><i>"On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth&rsquo;s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: <b>a failure of imagination.</b>"</i></p>
-</blockquote>
+</div>
 
 ## &#9888;&#65039; THE NATION-STATE THREAT: A FAILURE OF IMAGINATION
 
@@ -95,12 +112,12 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
 <span style="color: #98c379;">[ HUMAN VETO RETAINED AT LAYER 0-1 ]</span>
 </pre>
 
-<blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: rgba(111,66,193,0.08);">
+<div style="border-left: 5px solid #6f42c1; padding: 10px 20px; color: inherit;">
   <p>&#128207; <strong>THE 51% INFLECTION POINT (Cost-of-Compute Arithmetic)</strong></p>
   <p>The escalation curve above is the operational form of the 51% Inflection Point Theorem. Software security is <em>cost-differential</em> security: it holds only while an adversary finds attacking harder than a defender finds protecting. As the cost of compute declines toward zero, that differential collapses. Formally, with cost of compute <em>C(t) = C&#8320; &middot; e<sup>&minus;k&middot;t</sup></em> and attack feasibility defined as <em>F(t) = Capability(adversary) / C(t)</em>:</p>
   <p align="center"><em>lim<sub>C(t)&nbsp;&rarr;&nbsp;0</sub> F(t) = &infin;</em></p>
   <p>Hardware physics is not cost-differential. The 0xCF9 reset asserts in &Delta;t &le; 2.38&nbsp;&mu;s regardless of the adversary&rsquo;s compute budget, which is why substrate enforcement is invariant to the cost collapse that dooms every software layer above it.</p>
-</blockquote>
+</div>
 
 ---
 
