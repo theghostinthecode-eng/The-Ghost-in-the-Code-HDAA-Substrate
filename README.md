@@ -62,7 +62,7 @@
 
 <blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: rgba(31,111,235,0.08);">
   <p>&#128270; <strong>CANONICAL CLARIFICATION: ON THE WORD &ldquo;SIMULATION&rdquo;</strong></p>
-  <p>In this corpus, &ldquo;simulation&rdquo; means the validation of a <strong>working prototype</strong>, not a theoretical model. The discipline is iterative and dates to <strong>2007</strong>. During the 2007&ndash;2011 sandbox window, three baseline <strong>ML workloads</strong> were prototyped and proven by simulation on raw x86: <strong>Asymmetric Field Arithmetic</strong> (ECC point-addition/doubling over prime fields), <strong>High-Density Database Serialization</strong> (multi-threaded, cache-isolated state commits), and <strong>Real-Time Inference Telemetry</strong> (statistical prediction and heuristic loops optimising data structures below the OS scheduler). The public trademark&mdash;<strong>PROCESS AND TIME&trade;</strong> (USPTO S.N. 87333731, IC 009, February 13, 2017)&mdash;deliberately states only the generic boundary; the working definition, purpose, and method are disclosed for ONUS replication in Papers P14 / P14a. This foundation was re-validated across changing hardware, firmware, and OS conditions through 2017. Every reference to &ldquo;simulation&rdquo; therefore reads as <strong>&ldquo;prototype, proven via simulation.&rdquo;</strong> <strong>The truth matters.</strong></p>
+  <p>In this corpus, &ldquo;simulation&rdquo; means the validation of a <strong>working prototype</strong>, not a theoretical model. The discipline is iterative and dates to <strong>2007</strong>. During the 2007&ndash;2011 sandbox window, three baseline <strong>ML workloads</strong> were prototyped and proven by simulation on raw x86: <strong>Asymmetric Field Arithmetic</strong> (ECC point-addition/doubling over prime fields), <strong>High-Density Database Serialization</strong> (multi-threaded, cache-isolated state commits), and <strong>Real-Time Inference Telemetry</strong> (statistical prediction and heuristic loops optimising data structures below the OS scheduler). The public trademark&mdash;<strong>PROCESS AND TIME&trade;</strong> (USPTO S.N. 87333731, IC 009, February 13, 2017)&mdash;deliberately states only the generic boundary; the working definition, purpose, and method are disclosed for ONUS replication in Papers P14.02 / P14b.01. This foundation was re-validated across changing hardware, firmware, and OS conditions through 2017. Every reference to &ldquo;simulation&rdquo; therefore reads as <strong>&ldquo;prototype, proven via simulation.&rdquo;</strong> <strong>The truth matters.</strong></p>
 </blockquote>
 
 <hr>
@@ -174,7 +174,7 @@
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>forensic_metrics (corpus-disclosed)</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">The Dec 15, 2017 results &mdash; 10,247 trials, &Delta;t &le; 2.38&nbsp;&mu;s, F1 0.997, 500 MS/s instrumentation &mdash; are disclosed in the Master Defensive Publication corpus (P14 / P14a). Raw logs and waveform captures are <strong>not redistributed</strong>; the published metrics are the citable record.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">The Dec 15, 2017 results &mdash; 10,247 trials, &Delta;t &le; 2.38&nbsp;&mu;s, F1 0.997, 500 MS/s instrumentation &mdash; are disclosed in the Master Defensive Publication corpus (P14.02 / P14b.01). Raw logs and waveform captures are <strong>not redistributed</strong>; the published metrics are the citable record.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Evidentiary layer &mdash; Corpus-disclosed</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Cite the corpus DOIs; reproduce independently under ONUS. No raw-capture redistribution is provided or owed.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Metrics are fixed in the corpus record; researchers reproduce them on their own bench. The ONUS of measurement rests with the institution.</td>
@@ -190,7 +190,7 @@
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>docs_corpus/</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">Evidentiary paper chain &mdash; P14, P25, P50, P75, P99, P100 and MDP series.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Evidentiary paper chain &mdash; P14.02, P25, P50, P75, P99, P100 and MDP series.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Publication corpus &mdash; Public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Preserve full chronology, all marks, and complete author attribution.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Depends on individual publication terms; no unauthorized reproduction; must sync with master paper.</td>
@@ -284,4 +284,4 @@ To navigate the full scope of the HDAA&trade; Substrate, proceed to the followin
 **THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.**<br>
 **Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; | Quantum Cyberwar Labs, LLC**
 
-</div>
+</div> 
