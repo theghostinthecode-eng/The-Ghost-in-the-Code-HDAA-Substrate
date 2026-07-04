@@ -144,21 +144,4 @@ The full simulation framework deploys **October 31, 2026**. Because the 187-line
 * NASM 2.16+
 * GNU linker (NASM `.o` + C++ `.o` &rarr; single binary via a plain Makefile)
 
-> **Why `-O0`:** the simulation models timing behaviour at the microsecond boundary (&Delta;t &le; 2.38 &mu;s). Compiler optimisation would reorder or collapse the logic that demonstrates this constraint. Optimisation must remain disabled.
-
-**Replication pipeline:**
-1. **Bench setup** &mdash; target the PLTRST# or RESET# pin; attach the Saleae Logic Pro 16 at 500 MS/s.
-2. **Toolchain lockdown** &mdash; build the Docker image to pin GCC 13+ / NASM 2.16+ / `-O0`.
-3. **Stub injection** &mdash; load the Synthetic SMM Trigger Stub into the SMM entry path.
-4. **Forced breach** &mdash; drive the stub to the breach branch; observe the 0xCF9 assertion.
-5. **Measurement** &mdash; capture the latency from breach signal to reset assertion; confirm &Delta;t &le; 2.38 &mu;s.
-
-> Scope of replication, stated plainly: independent labs validate the **physical reset law** &mdash; the &Delta;t &le; 2.38&nbsp;&mu;s latency from a forced breach signal to 0xCF9 state collapse &mdash; **not** the proprietary breach-detection intelligence. The Dark Harvest Formula&trade; weighting and the ADAM CODE&trade; kernel remain sealed (Tier 3, 18 U.S.C. &sect;&thinsp;1836). **The physics is reproducible; the intelligence is sovereign.**
-
-<br>
-<hr>
-<div align="center">
-  <p><b>Proceed to <a href="./LEGAL_AND_IP.md">&#9878;&#65039; PART IV: LEGAL, IP &amp; FORENSIC NOTICE</a></b></p>
-  <p><b>THE SUBSTRATE IS OCCUPIED.</b><br>
-  Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; | Quantum Cyberwar Labs, LLC</p>
-</div>
+> **Why `-O0`:** the simulation models timing behaviour at the microsecond boundary (&Delta;t &le; 2.38 &mu;s). Compiler optimisation would reorder or collapse the logic that demonstrates this constraint. Optimisation
