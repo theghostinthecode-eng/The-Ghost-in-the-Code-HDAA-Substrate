@@ -5,8 +5,8 @@
   <h1>&#129518; THE HDAA&trade; FRAMEWORK &mdash; COMPLETE HIERARCHICAL MAP</h1>
   <h2>Four-Tier Architecture: Trademark Lineage &middot; Ring Stack &middot; Execution Flow &middot; Sovereignty Stack</h2>
   <p>
-    <b>Master Anchor DOI (MDP V_01):</b> <a href="[https://doi.org/10.5281/zenodo.18738911](https://doi.org/10.5281/zenodo.18738911)" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
-    <b>Substrate Bridge DOI (P25):</b> <a href="[https://doi.org/10.5281/zenodo.18672039](https://doi.org/10.5281/zenodo.18672039)" target="_blank"><b>10.5281/zenodo.18672039</b></a>
+    <b>Master Anchor DOI (MDP V_01):</b> <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
+    <b>Substrate Bridge DOI (P25):</b> <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>10.5281/zenodo.18672039</b></a>
   </p>
 
 </div>
