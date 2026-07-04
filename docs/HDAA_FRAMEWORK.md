@@ -175,3 +175,7 @@ flowchart TD
   <p><b>Return to <a href="../README.md">&#127968; PART I: MASTER PILLAR (README)</a></b></p>
   <p><a href="./ARCHITECTURE.md">&#9881;&#65039; Part III</a> &nbsp;|&nbsp; <a href="./LEGAL_AND_IP.md">&#9878;&#65039; Part IV</a></p>
 </div>
+<br>
+
+**TRADEMARK:** The following trademarks are the exclusive property of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC, asserted under 15 U.S.C. §1051 et seq. (Lanham Act) and applicable common law:
+HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, 187 The Schröder 187 NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schroder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM) ™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.
