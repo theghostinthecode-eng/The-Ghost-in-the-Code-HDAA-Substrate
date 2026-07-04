@@ -1,12 +1,3 @@
-<!-- ============================================================
-     DOCUMENT VERSION CONTROL
-     Part II — Vision & Doctrine
-     Version: P02.v07   |   Date: 1 July 2026
-     Corpus: Schröder Sovereignty Stack™ — GitHub Master Set
-     Anchor DOI: 10.5281/zenodo.18738911
-     DO NOT overwrite prior versions — increment v07 → v08 on next change.
-     ============================================================ -->
-
 <sub><b>Part II — Vision & Doctrine · Version P02.v07 · 1 July 2026</b></sub>
 
 <div align="center">
