@@ -41,4 +41,136 @@
     <td style="padding: 12px; border: 1px solid #ddd;">The 10&#8209;paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted; the ONUS of replication and interpretation rests entirely on the institution.</td>
   </tr>
   <tr>
+    <td style="padding: 12px; border: 1px solid #ddd; color: #cb2431;"><b>TIER 3:<br>Proprietary Trade Secret</b></td>
+    <td style="padding: 12px; border: 1px solid #ddd;">The full 187&#8209;line ADAM CODE&trade; source, calibrated trigger constants, implementation keys, and production deployment sequences <b>remain sealed under 18 U.S.C. &sect;&thinsp;1836 and are not contained in this repository.</b></td>
+  </tr>
+</table>
+
+---
+
+## &#128218; THE 10-PAPER EVIDENTIARY CORPUS
+
+**Educational Context:** The following corpus represents the definitive statutory anchor for Layer 0&ndash;1 Silicon Sovereignty. These time&#8209;stamped defensive publications establish the architectural, operational, and mathematical foundations of the Schr&ouml;der Precedence&trade; under 35 U.S.C. &sect;&thinsp;102.
+
+<table style="width: 100%; border-collapse: collapse; font-size: 0.9em; text-align: left;">
+  <tr style="background-color: #0366d6; color: #ffffff;">
+    <th style="padding: 10px; border: 1px solid #ddd;">DOCUMENT</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">TITLE</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">STATUTORY ROLE</th>
+    <th style="padding: 10px; border: 1px solid #ddd;">ZENODO DIRECT LINK</th>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>MDP V_01</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Defensive Publication of Layer 0&#8209;1 Silicon Sovereignty</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Statutory Anchor</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18738911" target="_blank">10.5281/zenodo.18738911</a></td>
+  </tr>
+  <tr style="">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V05</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Defensive Pub: 33+1 Laws of Immunity</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Lexicographical Standard</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18436373" target="_blank">10.5281/zenodo.18436373</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P25</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Substrate Enforcement Protocol: The 0xCF9 Revolution</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Bridge &amp; IP Definition</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672039" target="_blank">10.5281/zenodo.18672039</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P50</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade;: The &Delta;t &le; 2.38&mu;s Law of Substrate Sovereignty</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Engineering Enablement</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18473289" target="_blank">10.5281/zenodo.18473289</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P75</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">The ADAM CODE&trade;: Genesis of the Ghost (2005&ndash;2017)</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Biographical Record</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672036" target="_blank">10.5281/zenodo.18672036</a></td>
+  </tr>
+  <tr style="">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P99</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">HDAA&trade; Prototype Evaluation: Forensic Abstract</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Empirical Reduction to Practice</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18435920" target="_blank">10.5281/zenodo.18435920</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>P100</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">DARK HARVEST&trade; ACIP&trade;: Playbook for Weaponized AI</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Operational Doctrine</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18523047" target="_blank">10.5281/zenodo.18523047</a></td>
+  </tr>
+  <tr style="">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V01_a</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Master Forensic Package HDAA&trade; The Ghost in the Code</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Chain of Title Anchor</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18696018" target="_blank">10.5281/zenodo.18696018</a></td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V01_b</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade; ACIP&trade; Intelligence Briefing</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Prior&#8209;Art Layer 1 Doctrine</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18718577" target="_blank">10.5281/zenodo.18718577</a></td>
+  </tr>
+  <tr style="">
+    <td style="padding: 10px; border: 1px solid #ddd;"><b>V02_a</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade; Tactical Directive: The 2.38&mu;s Law</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">Tactical Operational Preemption</td>
+    <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18203897" target="_blank">10.5281/zenodo.18203897</a></td>
+  </tr>
+</table>
+
+<div style="border-left: 4px solid #1f6feb; padding: 8px 18px; color: inherit;">
+  <p>&#128220; <strong>Note on P75 dating (2005&ndash;2017).</strong> The 2005 anchor marks the <em>intellectual genesis</em> of the paradigm &mdash; the influence of Kurzweil&rsquo;s <em>The Singularity Is Near</em> (2005) on the substrate-governance thesis &mdash; not the start of implementation. Development work proper begins in the 2007&ndash;2011 PROCESS AND TIME&trade; sandbox era (ML-optimisation workloads, documented in P14.02), followed by the 2011&ndash;2017 HDAA&trade; expansion culminating in the December 15, 2017 reduction to practice. The three windows measure distinct things: <strong>2005</strong> (paradigm influence), <strong>2007&ndash;2011</strong> (sandbox prototyping), <strong>2011&ndash;2017</strong> (framework maturation).</p>
+</div>
+
+**Summary:** By depositing these documents into the Zenodo evidentiary plane, the Author (Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;) has created a timestamped, DOI&#8209;anchored public record for Layer 0&ndash;1 / Ring &minus;2 (SMM) substrate architectures &mdash; published under the registered <strong>Substrate Sovereignty (Ring &minus;3 / SMM)&trade;</strong> mark, whose enforcement is realised at Ring &minus;2 (SMM) with the Ring &minus;3 co-processor plane as the declared forward frontier. Any later substrate&#8209;level AI containment claims must be read against this record.
+
+---
+
+## &#9881;&#65039; PART II THREAT ELEMENTS (LEGAL / FORENSIC VIEW)
+
+For clarity, the specific threat model elements to document in the legal/forensic layer are represented below. This defines the adversarial attack surface targeted at the evidentiary and chronologic plane itself.
+
+<pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.0em; line-height: 1.4;">
+[ THE FORENSIC THREAT MATRIX ]
+        │
+        ├─► [ Chronological Subversion ]
+        │     - Nation&#8209;state competition over chronology and prior art.
+        │     - Patent encroachment by OEMs.
+        │
+        ├─► [ Integrity Compromise ]
+        │     - Documentation drift and section deletion.
+        │     - Artifact tampering in CI/CD pipelines.
+        │     - Corruption of DOI linkage or release tags.
+        │
+        └─► [ Evidentiary Obfuscation ]
+              - Ambiguous version control or corpus references.
+              - Misclassification of public versus sealed material.
+              - Loss of reproducibility due to missing logs or thresholds.
+</pre>
+
+**These risks are exactly why the repository is strict about immutable timestamps, explicit wording blocks, and permanent artifact retention.** We defend the code in the substrate, and we defend the chronology in the federal and academic record.
+
+---
+
+## &#128270; OPERATIONAL DOMAINS &amp; SEO ANCHORS
+
+**Principal Architect:** Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;<br>
+This architectural doctrine, legal framework, and the accompanying evidentiary corpus are distributed across two primary sovereign domains for full semantic indexing, repository verification, and forensic tracking:
+
+* **<a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a>:** Sovereign R&D, cryptographic tracking, and intelligence synthesis.
+* **<a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a>:** Bare-metal firmware mechanics, SMM execution, and substrate mapping.
+
+<br>
+<hr>
+<div align="center">
+  <p><b>Return to <a href="../README.md">&#127968; Master Pillar (README)</a></b></p>
+  <p><b>Proceed to <a href="./HDAA_FRAMEWORK.md">&#129518; PART V: THE HDAA&trade; FRAMEWORK &mdash; COMPLETE HIERARCHICAL MAP</a></b></p>
+</div>
+<br>
+
+**TRADEMARK:** The following trademarks are the exclusive property of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC, asserted under 15 U.S.C. §1051 et seq. (Lanham Act) and applicable common law:
+HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, 187 The Schröder 187 NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schroder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM) ™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.
     <td style="padding: 12
