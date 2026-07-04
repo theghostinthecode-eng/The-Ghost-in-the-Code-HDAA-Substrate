@@ -212,14 +212,14 @@
 
 Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed.
 
-This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype** and its accompanying simulation framework: a working prototype reduced to practice on December 15, 2017, together with a fully reproducible, self-contained research framework that allows independent labs to reproduce the **Ring &minus;2 System Management Mode (SMM)** enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. The prototype establishes chronological priority on December 15, 2017.
+This repository presents the **HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype** and its accompanying simulation framework: a working prototype reduced to practice on December 15, 2017, together with a fully reproducible, self-contained research framework that allows independent labs to reproduce the **Ring &minus;2 (System Management Mode)** enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. The prototype establishes chronological priority on December 15, 2017.
 
 The prototype embodies the Three-Plane Architecture&trade; and was proven to hold the Schr&ouml;der Limit&trade;: **&Delta;t &le; 2.38 &mu;s**, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency was established across 10,247 independent forensic trials at 500 MS/s, yielding a median of **2.31 &mu;s &plusmn; 0.07 &mu;s** (median plus one standard deviation equals the 2.38 &mu;s ceiling). The simulation framework lets independent labs reproduce that result.
 
 ## ⚡ EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL
 
 On December 15, 2017, the HDAA&trade; framework was empirically realized.
-* **Sequestration:** Operates entirely within **Ring &minus;2 System Management Mode** (invisible to all OS and hypervisors), with the Ring &minus;3 co-processor plane as the declared forward frontier.
+* **Sequestration:** Operates entirely within **Ring &minus;2 (System Management Mode)** (invisible to all OS and hypervisors), with the Ring &minus;3 co-processor plane as the declared forward frontier.
 * **Validation:** Proven across 10,247 physical forensic trials (F1 Score: 0.997).
 * **Enforcement:** When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.
 * **Speed:** Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction). You cannot hack physics.
@@ -284,4 +284,8 @@ To navigate the full scope of the HDAA&trade; Substrate, proceed to the followin
 **THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.**<br>
 **Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; | Quantum Cyberwar Labs, LLC**
 
-</div> 
+</div>
+<br>
+
+**TRADEMARK:** The following trademarks are the exclusive property of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC, asserted under 15 U.S.C. §1051 et seq. (Lanham Act) and applicable common law:
+HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -2 SMM Sequestration™, 0xCF9 Reset Vector™, 187 The Schröder 187 NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schroder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM) ™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.
