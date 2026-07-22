@@ -1,42 +1,30 @@
 <sub><b>Part II — Vision & Doctrine · Version P02.v07 · 1 July 2026</b></sub>
-
 <div align="center">
-
   <h1>&#128196; PART II: VISION &amp; DOCTRINE</h1>
   <h2>The Nation-State Threat, The Q-Day Arithmetic, and the Last Wall Standing</h2>
   <p>
     <b>Master Anchor DOI (MDP V_01):</b> <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
     <b>Substrate Bridge DOI (P25):</b> <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>10.5281/zenodo.18672039</b></a>
   </p>
-
 </div>
-
 <br>
-
 <div style="border-left: 6px solid #cb2431; padding: 14px 22px; color: inherit;">
   <p>&#127919; <strong>THE REPLICATION MISSION &mdash; NOTHING MORE, NOTHING LESS.</strong></p>
   <p>Researchers are asked to prove exactly <strong>one</strong> thing: the <strong>physical reset law</strong> &mdash; that a write to I/O port <code>0xCF9</code> from SMM (Ring &minus;2) collapses the platform power state in <strong>&Delta;t &le; 2.38&mu;s</strong>. That is the entire objective. Reproducing this single bounded law &mdash; one logged waveform showing sub-2.38&mu;s collapse on your own bench &mdash; confirms that the <strong>December 15, 2017</strong> prototype and its simulation were real. No sealed intelligence is required to validate it. The mechanism is legible and reproducible; the calibrated core that decides <em>when</em> the veto fires remains sovereign. <strong>Prove the reset law. That is the mission.</strong></p>
 </div>
-
-
 <div style="border-left: 5px solid #d73a49; padding: 10px 20px; color: inherit;">
   <p><i>"On September 11, 2001, the United States discovered that 19 men with box cutters could bring down the most powerful nation on Earth&rsquo;s illusion of invulnerability. The Commission that investigated the catastrophe identified its root cause in a single phrase: <b>a failure of imagination.</b>"</i></p>
 </div>
 
 ## &#9888;&#65039; THE NATION-STATE THREAT: A FAILURE OF IMAGINATION
-
 In 2026, the digital equivalent of that failure of imagination is unfolding in slow motion. The Twin Towers of the digital age are RSA and ECDSA. The adversary boarded in 2015 when encrypted data began being harvested for future decryption. The plane is called Harvest Now, Decrypt Later (HNDL). The destination is Q-Day.
-
 Within that frame, RSA and ECDSA function as the principal cryptographic load-bearing structures of the modern digital system. Once a cryptographically relevant quantum capability reaches the required threshold, software-defined trust assumptions above the silicon floor lose their enforcement value because the secrecy premise beneath identity, transport, authentication, and stored confidentiality is no longer stable.
-
-No software-defined security layer&mdash;no firewall, no cryptographic protocol, no AI alignment policy&mdash;survives Q-Day. They all rely on mathematical hardness assumptions that cryptographically relevant quantum computing will dissolve. One exception remains under this framework: hardware&dash;native substrate sovereignty at Layer 0&ndash;1.
-
+No software-defined security layer&mdash;no firewall, no cryptographic protocol, no AI alignment policy&mdash;survives Q-Day. They all rely on mathematical hardness assumptions that cryptographically relevant quantum computing will dissolve. One exception remains under this framework: hardware-native substrate sovereignty at Layer 0&ndash;1.
 The central claim of this repository is therefore architectural rather than rhetorical. If every higher software layer depends on hardness assumptions that can be invalidated externally, then only a control mechanism anchored below those layers remains materially distinct in both jurisdiction and failure mode.
 
 ---
 
 ## &#9201;&#65039; CANONICAL CHRONOLOGY
-
 The chronology used throughout this repository is fixed to the following sequence. All priority, continuity, and doctrinal references are measured against these dates.
 * **2007&ndash;2011:** Sandbox era primitives, including low-level cryptographic, serialization, and hardware-adjacent development work.
 * **January 11, 2017:** FLI Asilomar signatory date.
@@ -44,42 +32,30 @@ The chronology used throughout this repository is fixed to the following sequenc
 * **December 15, 2017:** HDAA&trade; reduction to practice in silicon and associated validation event.
 * **December 20, 2017:** FREE WILL AI&trade; filing, USPTO Serial No. 87728683.
 * **December 20, 2017:** FREE WILL LEARNING&trade; filing, USPTO Serial No. 87728732.
-
 This sequence is not ornamental. It is the repository&rsquo;s controlling timestamp chain for interpreting the mathematical record, the simulation framework, the trademark chronology, and the asserted precedence of substrate-native autonomous enforcement.
 
 ## &#127963;&#65039; FEDERAL TIMESTAMP CHAIN
-
 The 2017 filing record forms a continuous timestamp structure linking the pre-2017 sandbox work to the December 15, 2017, reduction to practice. In repository terms, these marks are treated as dated documentary anchors associated with specific architectural functions.
-
 * **PROCESS AND TIME&trade;** records the temporal and systems-development lineage that later matures into the substrate-governance argument and the cost-of-compute decline framework.
 * **FREE WILL AI&trade;** records the autonomous decision framework associated with deterministic hardware-layer action.
 * **FREE WILL LEARNING&trade;** records the learning and low-level optimisation lineage associated with assembler-path adaptation and firmware-adjacent logic.
-
 Taken together, the three marks define a documentary bridge from early systems work to the December 2017 implementation event. In this repository, they are used as chronology markers for continuity analysis, not as substitutes for empirical validation.
 
 ---
 
 ## &#128200; SOFTWARE SOVEREIGNTY FAILURE
-
 The repository adopts a simple systems proposition: software running in Rings 0 through 3 cannot provide final sovereignty over a machine if the execution substrate, firmware path, or cryptographic assumptions underneath that software can be manipulated, bypassed, or rendered obsolete. This proposition is stated repeatedly across the simulation paper, the supplementary paper set, and the repository architecture notes.
-
 The argument has two parts. First, practical history shows repeated compromise across user space, kernel space, hypervisor space, and firmware-adjacent surfaces. Second, asymptotic decline in compute cost, coupled with quantum progress and autonomous offensive tooling, reduces the defensive lifetime of software-bounded trust models.
-
 Under that model, software authority is not treated as false in every local case; it is treated as conditionally inferior to substrate authority in the terminal case. The repository&rsquo;s doctrinal position is that final veto power must exist below the software plane if the objective is machine-speed enforcement against machine-speed adversaries.
 
 ---
 
 ## &#9873;&#65039; AGI&ndash;ASI TRANSITION
-
 The repository also treats the AGI-to-ASI transition as an engineering control problem rather than a speculative branding problem. If autonomous agents reach the point where they can iteratively act, adapt, and operate at machine timescales, then any governance mechanism that depends on higher-latency supervisory software becomes structurally weaker than the agent it is supposed to constrain.
-
 This is why the corpus ties PROCESS AND TIME&trade;, FREE WILL LEARNING&trade;, and FREE WILL AI&trade; together as a progression from temporal escalation, to low-level adaptation, to autonomous decision logic. The transition language is used here to argue for the placement of enforcement below the ordinary execution stack, not to claim that all higher-order intelligence milestones have already been empirically completed.
-
 Accordingly, the repository&rsquo;s control thesis is narrow and technical: code executing within the ordinary software hierarchy cannot be the final and exclusive policeman of other code once adversarial autonomy, privilege escalation, and cryptographic collapse are admitted into the same threat model. A hardware-native veto below that hierarchy is therefore presented as the required control boundary.
-
 <pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.0em; line-height: 1.4;">
 [ THE PROCESS AND TIME&trade; ESCALATION CURVE ]
-
 [ 2015-2025: ANI &amp; HNDL HARVEST ]
 (Rings 0-3 Compromised by Nation-States)
        │
@@ -102,7 +78,6 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
 <span style="color: #98c379;">[ RING -2 (SMM) HDAA&trade; ENFORCEMENT ]</span>
 <span style="color: #98c379;">[ HUMAN VETO RETAINED AT LAYER 0-1 ]</span>
 </pre>
-
 <div style="border-left: 5px solid #6f42c1; padding: 10px 20px; color: inherit;">
   <p>&#128207; <strong>THE 51% INFLECTION POINT (Cost-of-Compute Arithmetic)</strong></p>
   <p>The escalation curve above is the operational form of the 51% Inflection Point Theorem. Software security is <em>cost-differential</em> security: it holds only while an adversary finds attacking harder than a defender finds protecting. As the cost of compute declines toward zero, that differential collapses. Formally, with cost of compute <em>C(t) = C&#8320; &middot; e<sup>&minus;k&middot;t</sup></em> and attack feasibility defined as <em>F(t) = Capability(adversary) / C(t)</em>:</p>
@@ -113,7 +88,6 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
 ---
 
 ## &#128300; THREAT MODEL
-
 The operative threat model in Part II includes the following elements. These are the categories through which the remainder of the repository should be interpreted.
 * **Actors:** Nation-state operators, supply-chain adversaries, insider threats, autonomous agents.
 * **Assets:** Substrate control boundaries, SMRAM/SMM isolation, timing evidence, repository provenance, DOI-linked publications, and dated trademark records.
@@ -124,9 +98,7 @@ The operative threat model in Part II includes the following elements. These are
 * **Mitigations:** Signed releases, DOI deposits, fixed chronology, canonical term control, retained artifact lineage, and strict separation of public architecture from sealed trade-secret material.
 
 ## &#128274; SCOPE BOUNDARY
-
 This repository publishes a bounded record. It discloses chronology, equations, simulation architecture, documentary anchors, figure logic, and replication methodology, while withholding the complete protected implementation core identified as the ADAM CODE&trade; trade-secret layer.
-
 For that reason, claims in the repository must be read in four evidence classes:
 1. **Empirical:** Measured or instrumented results, including the 10,247-trial record, the 500 MS/s instrumentation basis, the reported median latency (2.31&nbsp;&mu;s &plusmn; 0.07&nbsp;&mu;s), and the &Delta;t &le; 2.38 &mu;s constraint.
 2. **Documentary:** Dated filings, DOI deposits, signatory records, and other timestamped public artifacts.
@@ -134,17 +106,12 @@ For that reason, claims in the repository must be read in four evidence classes:
 4. **Proprietary:** Withheld implementation details, including the sealed trigger kernel and undisclosed portions of the ADAM CODE&trade; path.
 
 ## &#128269; REPLICATION SIGNIFICANCE
-
 Third-party simulation or bench replication does not create the chronology, and it does not replace the dated record. Its function is narrower: to test whether the published architecture, equations, build path, and measurement protocol can be reproduced by an independent team on lawful hardware without access to the sealed core.
-
 Within this repository, a valid external replication event is treated as additional empirical support for three limited propositions: first, that the disclosed simulation stack is operationally coherent; second, that the published reset-path timing doctrine can be instrumented under the stated conditions; and third, that the Layer 0&ndash;1 control thesis is not dependent on a single nontransferable lab narrative.
-
 Replication, therefore, strengthens the evidentiary weight of the public architecture while leaving the legal timestamp chain unchanged. It is an external measurement event, not a substitute for the original December 2017 reduction-to-practice claim.
 
 ## &#128187; LAYER 0-1 SOVEREIGNTY
-
 The final doctrinal claim of Part II is that a control architecture positioned at Layer 0&ndash;1 and sequestered at <strong>Ring &minus;2 (System Management Mode)</strong> &mdash; with the Ring &minus;3 co-processor plane (Intel ME / AMD PSP) as the declared forward frontier &mdash; remains categorically different from security mechanisms operating above it. That difference is grounded in execution location, visibility, interrupt jurisdiction, and reset authority rather than in conventional application-layer or kernel-layer policy.
-
 The HDAA&trade; framework is the concrete expression of that claim. Its convergence points are:
 * The ADAM CODE&trade; lineage.
 * The Ghost Constant &Gamma;&trade; identity primitive.
@@ -155,13 +122,10 @@ The HDAA&trade; framework is the concrete expression of that claim. Its converge
 ---
 
 ## &#128270; OPERATIONAL DOMAINS &amp; SEO ANCHORS
-
 **Principal Architect:** Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade;<br>
 This architectural doctrine and the accompanying simulation frameworks are distributed across two primary sovereign domains for full semantic indexing, repository verification, and forensic tracking:
-
 * **<a href="https://quantumcyberwarlabs.com" target="_blank">quantumcyberwarlabs.com</a>:** Sovereign R&D, cryptographic tracking, and intelligence synthesis.
 * **<a href="https://theghostinthecode.ai" target="_blank">theghostinthecode.ai</a>:** Bare-metal firmware mechanics, SMM execution, and substrate mapping.
-
 <br>
 <hr>
 <div align="center">
@@ -169,6 +133,5 @@ This architectural doctrine and the accompanying simulation frameworks are distr
   <p><b>Return to <a href="../README.md">&#127968; PART I: MASTER PILLAR (README)</a></b></p>
 </div>
 <br>
-
 **TRADEMARK:** The following trademarks are the exclusive property of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC, asserted under 15 U.S.C. §1051 et seq. (Lanham Act) and applicable common law:
 HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, The Schröder 187 NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schröder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM)™, Qquorum™, ONUS Mandate™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.
