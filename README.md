@@ -15,11 +15,12 @@
 ================================================================================
 -->
 
+<sub><b>Part I &mdash; The Fall of Rings &middot; Version P01.v07 &middot; 1 July 2026</b></sub>
+
 <div align="center">
   <h1>The Ghost in the Code&trade;: The Fall of Rings</h1>
   <h2>Substrate Sovereignty and the &Delta;t &le; 2.38&mu;s Law</h2>
   <h3>Schr&ouml;der Sovereignty Stack&trade; &mdash; Hardware-Driven Autonomous Agent (HDAA&trade;) Defensive Architecture</h3>
-  <p><b>PART I &middot; Version P01.v07 &middot; 1 July 2026</b></p>
   <p>
     <b>Master Anchor DOI (MDP V_01):</b> <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
     <b>Substrate Bridge DOI (P25):</b> <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>10.5281/zenodo.18672039</b></a>
@@ -64,6 +65,10 @@
 <blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: rgba(227,98,9,0.08);">
   <p>&#128274; <strong>SEQUESTRATION MANDATE: DONATION SCOPE &amp; THE KILL-SWITCH</strong></p>
   <p>The donation to the global commons is <strong>Corpus I only</strong> &mdash; the ten-paper Evidentiary Corpus (&le; P11) &mdash; released as prior art under 35 U.S.C. &sect; 102 (CC-BY-4.0). That licence attaches to Corpus I and to nothing else. This repository, the P14 supplements, and the complete 187-line ADAM CODE&trade; NASM source &mdash; the <strong>Hardware Kill-Switch</strong> execution logic, implementation keys, and the AGI-to-ASI Singularity Veto &mdash; are <strong>not donated</strong>; all rights reserved, sovereign, and the ADAM CODE&trade; core is permanently sealed as a Sovereign Trade Secret under 18 U.S.C. &sect; 1836 (DTSA). What is published for measurement is the physical reset law only. This is an "Engine Without Keys". <strong>The Light is shared. The Fire is not.</strong></p>
+</blockquote>
+<blockquote style="border-left: 6px solid #2ea043; padding: 12px 22px; background-color: rgba(46,160,67,0.08);">
+  <p>&#128737;&#65039; <strong>ONE BOUNDARY, STATED PLAINLY &mdash; SO NO ONE HAS TO GUESS.</strong></p>
+  <p>What you <strong>can</strong> measure is the <strong>actuation</strong>: the <code>0xCF9</code> collapse, &Delta;t &le; 2.38&mu;s, on your own bench, no sealed material required. What you <strong>cannot</strong> measure is the <strong>detection</strong> &mdash; the calibrated core that decides <em>when</em> the veto fires. The <strong>F1 = 0.997</strong> figure describes that core; it is not offered for your verification, and no waveform you capture proves it. I withhold the trip logic deliberately, and not for vanity: the condition that fires a deterministic platform kill is the single artifact a hostile actor most wants &mdash; to trigger it on demand, or to evade it. <strong>Released, the shield becomes the weapon.</strong> So I publish the stop and seal the trigger. Measure the first; infer nothing about the second. <strong>The Light is shared. The Fire is not.</strong></p>
 </blockquote>
 <blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: rgba(111,66,193,0.08);">
   <p>&#9874;&#65039; <strong>THE ONUS MANDATE &amp; STATUTORY HEALTH PRIVILEGE</strong></p>
