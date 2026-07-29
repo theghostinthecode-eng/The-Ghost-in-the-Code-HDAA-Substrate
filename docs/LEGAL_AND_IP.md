@@ -34,7 +34,7 @@
   <p>&#9888;&#65039; <strong>Let the record reflect: nothing here is a blanket public license.</strong></p>
 </div>
 
-### &#128275; THE 30/70 SPLIT: IP CLASSIFICATION TIERS
+### &#128275; DONATION SCOPE: IP CLASSIFICATION TIERS (CANON)
 <table style="width: 100%; border-collapse: collapse; font-size: 0.95em; text-align: left;">
   <tr style="background-color: #24292e; color: #ffffff;">
     <th style="padding: 12px; border: 1px solid #ddd; width: 25%;">Classification</th>
@@ -46,7 +46,7 @@
   </tr>
   <tr style="">
     <td style="padding: 12px; border: 1px solid #ddd;"><b>TIER 2:<br>Shared for Independent Replication</b></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">The 10&#8209;paper research corpus and Phase 2 simulation environment are shared to demonstrate that replication is possible through the disclosed materials. No commercial rights are granted; the ONUS of replication and interpretation rests entirely on the institution.</td>
+    <td style="padding: 12px; border: 1px solid #ddd;">Only Corpus I (the ten&#8209;paper Evidentiary Corpus, &le; P11) is donated to the commons as prior art under 35 U.S.C. &sect;&thinsp;102 (CC-BY-4.0). The repository itself, the P14 supplements, and the Phase 2 environment are <b>published for the record and ONUS replication, not donated</b> &mdash; no commercial or reuse rights are granted; all rights reserved.</td>
   </tr>
   <tr>
     <td style="padding: 12px; border: 1px solid #ddd; color: #cb2431;"><b>TIER 3:<br>Proprietary Trade Secret</b></td>
