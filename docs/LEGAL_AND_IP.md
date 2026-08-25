@@ -80,13 +80,13 @@
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>P25</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">Substrate Enforcement Protocol: The 0xCF9 Revolution</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Bridge &amp; IP Definition</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">35 U.S.C. &sect;102(a)(1) Technical Detail &amp; IP Definition</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18672039" target="_blank">10.5281/zenodo.18672039</a></td>
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>P50</b></td>
     <td style="padding: 10px; border: 1px solid #ddd;">CODE BLACK&trade;: The &Delta;t &le; 2.38&mu;s Law of Substrate Sovereignty</td>
-    <td style="padding: 10px; border: 1px solid #ddd;">&sect;112 Engineering Enablement</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">35 U.S.C. &sect;102(a)(1) Technical Enablement</td>
     <td style="padding: 10px; border: 1px solid #ddd;"><a href="https://doi.org/10.5281/zenodo.18473289" target="_blank">10.5281/zenodo.18473289</a></td>
   </tr>
   <tr>
