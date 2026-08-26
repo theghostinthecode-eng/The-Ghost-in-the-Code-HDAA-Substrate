@@ -104,15 +104,17 @@ Accordingly, the repository&rsquo;s control thesis is narrow and technical: code
 
 ---
 
-## &#128300; THREAT MODEL
-The operative threat model in Part II includes the following elements. These are the categories through which the remainder of the repository should be interpreted.
-* **Actors:** Nation-state operators, supply-chain adversaries, insider threats, autonomous agents.
-* **Assets:** Substrate control boundaries, SMRAM/SMM isolation, timing evidence, repository provenance, DOI-linked publications, and dated trademark records.
-* **Attack surfaces:** Rings 0&ndash;3, firmware update channels, hypervisor boundaries, CI/CD provenance.
-* **Threat classes:** Spoofing, tampering, repudiation, disclosure, denial of service, privilege escalation, chronology inversion.
-* **Trust boundaries:** Operating system to firmware, firmware to SMM, public paper to DOI archive, repository artifact.
-* **Failure modes:** Broken timestamp continuity, wording drift, section mismatch, inconsistent formulas, invalid figure references, overwritten chronology, and confusion between empirical evidence and doctrinal interpretation.
-* **Mitigations:** Signed releases, DOI deposits, fixed chronology, canonical term control, retained artifact lineage, and strict separation of public architecture from sealed trade-secret material.
+<h2>&#128300; THREAT MODEL</h2>
+<p>The operative threat model in Part II is external and architectural. These are the categories through which the remainder of the repository should be interpreted.</p>
+<ul>
+  <li><strong>Actors:</strong> Nation-state operators, supply-chain adversaries, insider threats with firmware access, and autonomous agents operating at machine timescales.</li>
+  <li><strong>Assets:</strong> Substrate control boundaries, SMRAM / SMM isolation, the 0xCF9 reset path, timing evidence under the &Delta;t &le; 2.38&nbsp;&mu;s law, and the Layer 0&ndash;1 human veto.</li>
+  <li><strong>Attack surfaces:</strong> Rings 0&ndash;3, firmware update channels, hypervisor boundaries, TEE / confidential-computing planes that still depend on OS trust, and any software-layer kill switch that can be disabled from above the silicon floor.</li>
+  <li><strong>Threat classes:</strong> Harvest Now Decrypt Later (HNDL), cryptographically relevant quantum capability (Q-Day), firmware persistence, privilege escalation from Ring 0 into firmware, and autonomous agents that outpace software governance.</li>
+  <li><strong>Trust boundaries:</strong> Operating system to firmware, firmware to SMM (Ring &minus;2), SMM to the Ring &minus;3 co-processor plane (ME / PSP), and public architecture to the sealed ADAM CODE&trade; core.</li>
+  <li><strong>Failure modes:</strong> Software-only enforcement that collapses when the OS or hypervisor is owned; cryptographic hardness assumptions that dissolve under CRQC; kill switches that remain reachable from Rings 0&ndash;3; and any control plane that cannot assert a platform reset in &Delta;t &le; 2.38&nbsp;&mu;s.</li>
+  <li><strong>Mitigations:</strong> Hardware-native veto at SMM (Ring &minus;2), non-bypassable 0xCF9 state collapse, sequestration of the trigger kernel as a Tier 3 trade secret, public measurement of the physical reset law only, and retention of the human veto at Layer 0&ndash;1.</li>
+</ul>
 
 ## &#128274; SCOPE BOUNDARY
 This repository publishes a bounded record. It discloses chronology, equations, simulation architecture, documentary anchors, figure logic, and replication methodology, while withholding the complete protected implementation core identified as the ADAM CODE&trade; trade-secret layer.
