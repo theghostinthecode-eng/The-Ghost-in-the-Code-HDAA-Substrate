@@ -1,11 +1,11 @@
 <!--
 ================================================================================
-  QUANTUM CYBERWAR LABS, LLC  |  The Ghost in the Code(TM)
+  QUANTUM CYBERWAR LABS, LLC  |  The Ghost in the Code™
   Sir Steven Alexander Schröder  —  Founder & Principal Architect
-  Cyberwar & Cybersecurity Officer (globally certified) · CISM · CTIA · CySA+ ·
+  Cyberwarfare & Cybersecurity Officer (globally certified) · CISM · CTIA · CySA+ ·
   B.S. Computer Science, Minor in Assembly · FLI Asilomar Signatory (Jan 11, 2017) ·
-  AI / Robotics Researcher · Inventor of the HDAA(TM) (Hardware-Driven Autonomous
-  Agent) · 0xCF9 Reset Vector(TM) · SMM (Ring -2), Layer 0-1 · Δt ≤ 2.38μs ·
+  AI / Robotics Researcher · Inventor of the HDAA™ (Hardware-Driven Autonomous
+  Agent) & ADAM CODE™ · 0xCF9 Reset Vector™ · SMM (Ring −2)™, Layer 0-1 · Δt ≤ 2.38μs ·
   Reduced to practice December 15, 2017.
   CREATORSHIP IDENTIFICATION — canonical authorship header. Must remain verbatim
   at the head of every artifact, script, and source file in this corpus, so that
@@ -13,12 +13,11 @@
   (c) Sir Steven Alexander Schröder / Quantum Cyberwar Labs, LLC. All rights reserved.
 ================================================================================
 -->
-<sub><b>Part I &mdash; The Fall of Rings &middot; Version P01.v08 &middot; 25 August 2026</b></sub>
 
 <div align="center">
   <h1>The Ghost in the Code&trade;: The Fall of Rings</h1>
   <h2>Substrate Sovereignty and the &Delta;t &le; 2.38&mu;s Law</h2>
-  <h3>Schr&ouml;der Sovereignty Stack&trade; &mdash; Hardware-Driven Autonomous Agent (HDAA&trade;) Defensive Architecture</h3>
+  <h3>Three-Tier Sovereignty Stack&trade; &mdash; Hardware-Driven Autonomous Agent (HDAA&trade;) Defensive Architecture</h3>
   <p>
     <b>Master Anchor DOI (MDP V_01):</b> <a href="https://doi.org/10.5281/zenodo.18738911" target="_blank"><b>10.5281/zenodo.18738911</b></a><br>
     <b>Substrate Bridge DOI (P25):</b> <a href="https://doi.org/10.5281/zenodo.18672039" target="_blank"><b>10.5281/zenodo.18672039</b></a>
@@ -46,7 +45,7 @@
     </tr>
     <tr style="border-bottom: 1px solid #ddd;">
       <th style="padding: 12px;">Asserted Marks</th>
-      <td style="padding: 12px;">HDAA&trade; | Schr&ouml;der Precedence&trade; | Silicon Sovereignty&trade; | Schr&ouml;der Sovereignty Stack&trade; &mdash; asserted at common law; <strong>none federally registered</strong></td>
+      <td style="padding: 12px;">HDAA&trade; | Schr&ouml;der Precedence&trade; | Silicon Sovereignty&trade; | Three-Tier Sovereignty Stack&trade; &mdash; asserted at common law; <strong>none federally registered</strong></td>
     </tr>
     <tr style="background-color: rgba(127,127,127,0.06);">
       <th style="padding: 12px;">Author Note</th>
@@ -60,7 +59,7 @@
 <blockquote style="border-left: 5px solid #d73a49; padding: 10px 20px; background-color: rgba(215,58,73,0.08);">
   <p>&#9888;&#65039; <strong>STRATEGIC DEPLOYMENT NOTICE &mdash; PHASE 1 ARCHITECTURAL DISCLOSURE</strong></p>
   <p>This repository serves as the Master SEO Pillar and Architectural Blueprint for the <strong>Schr&ouml;der Precedence&trade;</strong> (claimed Priority Date: December 15, 2017).</p>
-  <p><strong>PHASE 2 (The Simulation Framework):</strong> The complete error-resistant, ONUS-enforced compilation environment&mdash;including the Dockerfile, Makefile, C++ harness, and unclassified NASM execution stubs&mdash;will be officially deployed by <strong>October 31, 2026</strong>. Until that date those files are <strong>not in the tree</strong>. The 10-paper Master Defensive Publication corpus remains the definitive statutory record.</p>
+  <p><strong>PHASE 2 (The Simulation Framework):</strong> The complete error-resistant, ONUS-enforced compilation environment&mdash;including the Dockerfile, Makefile, C++ harness, and unclassified NASM execution stubs&mdash;will be added to this repository iteratively after <strong>October 31, 2026</strong>, at the Author&rsquo;s discretion. October 31, 2026 is <strong>not</strong> a full release date, and no schedule or content list is committed. Those files are currently <strong>not in the tree</strong>. The 10-paper Master Defensive Publication corpus remains the definitive statutory record.</p>
 </blockquote>
 
 <blockquote style="border-left: 5px solid #e36209; padding: 10px 20px; background-color: rgba(227,98,9,0.08);">
@@ -74,13 +73,13 @@
 </blockquote>
 
 <blockquote style="border-left: 5px solid #6f42c1; padding: 10px 20px; background-color: rgba(111,66,193,0.08);">
-  <p>&#9874;&#65039; <strong>THE ONUS MANDATE &amp; AUTHOR AVAILABILITY</strong></p>
+  <p>&#9874;&#65039; <strong>THE ONUS MANDATE&trade; &amp; AUTHOR AVAILABILITY</strong></p>
   <p>The Author is disabled and makes no public appearances, live demonstrations, or oral testimony. The published corpus and the forensic record are the Author&rsquo;s proxy. No statutory privilege is invoked and none is required. The ONUS of implementation, simulation, and validation rests entirely upon the research institution. <strong>The code speaks for itself.</strong></p>
 </blockquote>
 
 <blockquote style="border-left: 5px solid #1f6feb; padding: 10px 20px; background-color: rgba(31,111,235,0.08);">
   <p>&#128270; <strong>CANONICAL CLARIFICATION: ON THE WORD &ldquo;SIMULATION&rdquo;</strong></p>
-  <p>In this corpus, &ldquo;simulation&rdquo; means the validation of a <strong>working prototype</strong>, not a theoretical model. The discipline is iterative and dates to <strong>2007</strong>. During the 2007&ndash;2011 sandbox window, three baseline <strong>ML workloads</strong> were prototyped and proven by simulation on raw x86: <strong>Asymmetric Field Arithmetic</strong> (ECC point-addition/doubling over prime fields), <strong>High-Density Database Serialization</strong> (multi-threaded, cache-isolated state commits), and <strong>Real-Time Inference Telemetry</strong> (statistical prediction and heuristic loops optimising data structures below the OS scheduler). The public mark&mdash;<strong>PROCESS AND TIME&trade;</strong> (USPTO S.N. 87333731, IC 009, filed February 13, 2017; examined then abandoned)&mdash;deliberately states only the generic boundary; the working definition, purpose, and method are disclosed for ONUS replication in Papers P14.02 / P14b.01. This foundation was re-validated across changing hardware, firmware, and OS conditions through 2017. Every reference to &ldquo;simulation&rdquo; therefore reads as <strong>&ldquo;prototype, proven via simulation.&rdquo;</strong> Phase 2 (Dockerfile / Makefile / harness / stubs) is <strong>not shipped</strong> as of this commit; ship date is October 31, 2026. <strong>The truth matters.</strong></p>
+  <p>In this corpus, &ldquo;simulation&rdquo; means the validation of a <strong>working prototype</strong>, not a theoretical model. The discipline is iterative and dates to <strong>2007</strong>. During the 2007&ndash;2011 sandbox window, three baseline <strong>ML workloads</strong> were prototyped and proven by simulation on raw x86: <strong>Asymmetric Field Arithmetic</strong> (ECC point-addition/doubling over prime fields), <strong>High-Density Database Serialization</strong> (multi-threaded, cache-isolated state commits), and <strong>Real-Time Inference Telemetry</strong> (statistical prediction and heuristic loops optimising data structures below the OS scheduler). The public mark&mdash;<strong>PROCESS AND TIME&trade;</strong> (USPTO S.N. 87333731, IC 009, filed February 13, 2017; examined then abandoned)&mdash;deliberately states only the generic boundary; the working definition, purpose, and method are disclosed for ONUS replication in Papers P14.02 / P14b.01. This foundation was re-validated across changing hardware, firmware, and OS conditions through 2017. Every reference to &ldquo;simulation&rdquo; therefore reads as <strong>&ldquo;prototype, proven via simulation.&rdquo;</strong> Phase 2 (Dockerfile / Makefile / harness / stubs) is <strong>not shipped</strong> as of this commit; it will be added iteratively after October 31, 2026, at the Author&rsquo;s discretion. <strong>The truth matters.</strong></p>
 </blockquote>
 
 <hr>
@@ -88,7 +87,7 @@
 <h2>&#9889; THE WHY: THE THEOREM OF THE LOWER LAYER SUBSTRATE</h2>
 <p>While the global technology apparatus postures about AI alignment, its architectural foundation is built on sand. The industry preaches safety, yet it operates almost exclusively at the software layer (Rings 0&ndash;3) &mdash; a layer inherently vulnerable to manipulation. OpenAI&rsquo;s own Head of Hardware, Richard Ho, conceded the point publicly at the AI Infra Summit in Santa Clara (September 2025): <em>&ldquo;It has to be built into the hardware. Today a lot of safety work is in the software. It assumes that your hardware is secure&hellip; It assumes that you can pull the plug on the hardware&hellip; these things are devious, the models are really devious.&rdquo;</em> OpenAI&rsquo;s own proposed measures were real-time kill switches built into AI clusters, telemetry to detect abnormal behavior, and secure execution paths in the silicon. The hardware chief of that laboratory argued, in 2025, for exactly the enforcement floor this corpus reduced to practice in <strong>2017</strong>.</p>
 <p>Industry mechanisms that root enforcement at Ring&nbsp;0 or, at deepest, the hypervisor/TEE plane (Ring&nbsp;&minus;1) still depend on the operating system to pull the trigger. If the OS kernel is hijacked, that security is mathematically dead.</p>
-<p><strong>This is exactly why this repository exists: to place the proof on the public record.</strong> The 10-paper Evidentiary Corpus &mdash; and only that corpus &mdash; is the donation to the global commons under 35 U.S.C. &sect;&nbsp;102. This repository is <strong>not</strong> donated; it is published to discharge the ONUS &mdash; to let the world measure the claim. This working <strong>prototype</strong> &mdash; claimed reduced to practice on December 15, 2017 and reported across 10,247 forensic trials &mdash; establishes the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at the substrate floor &mdash; <strong>SMM (Ring&nbsp;&minus;2)</strong>, the deepest execution context reachable by native host x86-64 assembly, with the Ring&nbsp;&minus;3 co-processor plane (ME / PSP) as the declared forward frontier.</p>
+<p><strong>This is exactly why this repository exists: to place the proof on the public record.</strong> The 10-paper Evidentiary Corpus &mdash; and only that corpus &mdash; is the donation to the global commons under 35 U.S.C. &sect;&nbsp;102. This repository is <strong>not</strong> donated; it is published to discharge the ONUS &mdash; to let the world measure the claim. This working <strong>prototype</strong> &mdash; claimed reduced to practice on December 15, 2017 and reported across 10,247 forensic trials &mdash; establishes the Theorem of the Lower Layer Substrate: True Asilomar Principle 16 (Human Control) cannot be a software policy; it must be a <strong>Hardware Kill-Switch</strong> enforced at the substrate floor &mdash; <strong>SMM (Ring&nbsp;&minus;2)&trade;</strong>, the deepest execution context reachable by native host x86-64 assembly, with the Ring&nbsp;&minus;3 co-processor plane (ME / PSP) as the declared forward frontier.</p>
 
 <hr>
 
@@ -141,7 +140,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 / Tier 2 boundary</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Preserve Schr&ouml;der Precedence&trade; attribution and all identity references.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Retain all scope notices in full; do not excerpt; must align with ownership and safe-harbor limits.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>Dockerfile</b></td>
@@ -149,7 +148,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 &mdash; Public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">No trademark misuse in comments or annotations.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Redistribute with copyright/notice block; toolchain only &mdash; no proprietary firmware content.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>Makefile</b></td>
@@ -157,15 +156,15 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 &mdash; Public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">No trademark misuse in comments.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Redistribute with copyright/notice block; must match repository structure.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>src_cpp_sandbox/</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">C++ simulation harness; Dark Harvest Formula; Z_aggressor scoring; 0xCF9 assertion path.</td>
+    <td style="padding: 10px; border: 1px solid #ddd;">C++ simulation harness; Dark Harvest&trade; Formula; Z_aggressor scoring; 0xCF9 assertion path.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 / Tier 2</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Preserve all doctrinal terms, equation attributions, and canonical variable names.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Educational/research use only; redistribution depends on repository license; simulation only &mdash; not production.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #0366d6;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr style="background-color: rgba(127,127,127,0.06);">
     <td style="padding: 10px; border: 1px solid #ddd;"><b>src_nasm_substrate/</b></td>
@@ -173,7 +172,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Tier 1 / Tier 2 &mdash; Partial public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Must clearly distinguish from ADAM CODE&trade; sealed core at all times; no core-claim representation.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Preserve notice block; redistribution does not convey rights to the sealed 70% core.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>forensic_metrics (corpus-disclosed)</b></td>
@@ -189,7 +188,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Trademark-bearing assets &mdash; Public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Preserve all canonical labels, captions, figure numbers, and trademark designations verbatim.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Redistribution subject to asset terms; all labels must remain intact; captions consistent with master paper.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr>
     <td style="padding: 10px; border: 1px solid #ddd;"><b>docs_corpus/</b></td>
@@ -197,7 +196,7 @@
     <td style="padding: 10px; border: 1px solid #ddd;">Publication corpus &mdash; Public</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Preserve full chronology, all marks, and complete author attribution.</td>
     <td style="padding: 10px; border: 1px solid #ddd;">Depends on individual publication terms; no unauthorized reproduction; must sync with master paper.</td>
-    <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>Planned &mdash; Phase 2 (Oct 31, 2026)</b></td>
+    <td style="padding: 10px; border: 1px solid #ddd; color: #cb2431;"><b>Planned &mdash; Phase 2 (iterative, after Oct 31, 2026)</b></td>
   </tr>
   <tr style="background-color: rgba(203,36,49,0.08); border: 2px solid #cb2431;">
     <td style="padding: 10px; color: #cb2431;"><b>ADAM CODE&trade; core</b></td>
@@ -213,20 +212,20 @@
 
 <h2>&#128220; ABSTRACT: THE PROTOTYPE &amp; ITS SIMULATION FRAMEWORK</h2>
 <p>Software-defined security layers operating at CPU privilege Rings 0 through 3 are fundamentally and permanently vulnerable to logical exploitation, runtime state manipulation, and advanced cryptographic disruption. As the compute cost approaches zero, every software-layer defense becomes temporally obsolete and mathematically doomed.</p>
-<p>This repository presents the <strong>HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype</strong> and its accompanying simulation framework: a working prototype claimed reduced to practice on December 15, 2017, together with a research framework that, <strong>on ship date October 31, 2026</strong>, will allow independent labs to reproduce the <strong>SMM (Ring &minus;2)</strong> enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. Chronological priority is claimed on December 15, 2017.</p>
+<p>This repository presents the <strong>HDAA&trade; (Hardware-Driven Autonomous Agent) Substrate Sovereignty Prototype</strong> and its accompanying simulation framework: a working prototype claimed reduced to practice on December 15, 2017, together with a research framework that, <strong>released iteratively after October 31, 2026</strong>, is intended to allow independent labs to reproduce the <strong>SMM (Ring &minus;2)&trade;</strong> enforcement architecture described in Master Defensive Publication DOI: 10.5281/zenodo.18738911. Chronological priority is claimed on December 15, 2017.</p>
 <p>The prototype embodies the Three-Plane Architecture&trade; and is reported to hold the Schr&ouml;der Limit&trade;: <strong>&Delta;t &le; 2.38 &mu;s</strong>, the maximum permissible latency from alignment breach detection to 0xCF9 hardware reset assertion. This latency is reported across 10,247 independent forensic trials at 500 MS/s, yielding a median of <strong>2.31 &mu;s &plusmn; 0.07 &mu;s</strong> (median plus one standard deviation equals the 2.38 &mu;s ceiling). Campaign F1 is <strong>0.9999</strong>; the mark <strong>F1 Score 0.997&trade;</strong> names the sealed detection core.</p>
 
 <h2>&#9889; EXECUTIVE SUMMARY &amp; REPLICATION PROTOCOL</h2>
 <p>On December 15, 2017, the HDAA&trade; framework is claimed to have been empirically realized.</p>
 <ul>
-  <li><strong>Sequestration:</strong> Operates entirely within <strong>SMM (Ring &minus;2)</strong> (invisible to all OS and hypervisors), with the Ring &minus;3 co-processor plane as the declared forward frontier.</li>
+  <li><strong>Sequestration:</strong> Operates entirely within <strong>SMM (Ring &minus;2)&trade;</strong> (invisible to all OS and hypervisors), with the Ring &minus;3 co-processor plane as the declared forward frontier.</li>
   <li><strong>Validation:</strong> Reported across 10,247 physical forensic trials (campaign F1 0.9999; mark F1 Score 0.997&trade; for the sealed core).</li>
-  <li><strong>Enforcement:</strong> When the Dark Harvest Formula&trade; detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.</li>
+  <li><strong>Enforcement:</strong> When the Dark Harvest&trade; Formula detects algebraic drift, it fires a non-bypassable 0xCF9 hardware reset.</li>
   <li><strong>Speed:</strong> Deterministic state collapse occurs in &Delta;t &le; 2.38 &mu;s (105,042&times; faster than human reaction).</li>
 </ul>
 
 <pre style="background-color: #1e1e1e; color: #56b6c2; padding: 15px; border-radius: 5px; border: 1px solid #444; font-family: monospace; font-size: 1.0em; line-height: 1.4;">
-[ THE ONUS MANDATE: REPLICATION PIPELINE ]
+[ THE ONUS MANDATE&trade;: REPLICATION PIPELINE ]
        │
        ▼
 [ RESEARCHER BENCH SETUP ]
@@ -234,7 +233,7 @@
        │
        ▼
 [ DOCKER TOOLCHAIN LOCKDOWN ]
-(GCC 13+ / NASM 2.16+ / -O0)  ← Phase 2, ship 31 Oct 2026
+(GCC 13+ / NASM 2.16+ / -O0)  ← Phase 2, iterative release
        │
        ▼
 [ HARDWARE INSTRUMENTATION ]
@@ -252,10 +251,10 @@
 <span style="color: #e06c75;">[ &Delta;t &le; 2.38 &mu;s CAPTURED ]</span>
 </pre>
 
-<p><strong>PHASE 2: The Simulation Framework (October 31, 2026)</strong></p>
-<p>The complete Simulation Framework will be released for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analysers to the PLTRST# pin on <strong>owned</strong> hardware, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.</p>
+<p><strong>PHASE 2: The Simulation Framework (iterative release after October 31, 2026)</strong></p>
+<p>The Simulation Framework will be released iteratively for independent academic replication. Because the core 187-line ADAM CODE&trade; remains a permanently sealed Tier 3 Trade Secret, Phase 2 will include a Synthetic SMM Trigger Stub. This unclassified, pre-compiled binary allows independent labs to physically hook their logic analysers to the PLTRST# pin on <strong>owned</strong> hardware, initiate a simulated breach, and empirically measure the 0xCF9 state collapse.</p>
 <blockquote>
-  <p>Scope of replication, stated plainly: independent labs validate the <strong>physical reset law</strong> &mdash; the &Delta;t &le; 2.38&nbsp;&mu;s latency from a forced breach signal to 0xCF9 state collapse &mdash; <strong>not</strong> the proprietary breach-detection intelligence. The Dark Harvest Formula&trade; scoring and the ADAM CODE&trade; kernel remain sealed (Tier 3, 18 U.S.C. &sect;&thinsp;1836). The physics is reproducible; the intelligence is sovereign. A later bench capture tests the published protocol; it does not, by itself, authenticate the 2017 campaign log.</p>
+  <p>Scope of replication, stated plainly: independent labs validate the <strong>physical reset law</strong> &mdash; the &Delta;t &le; 2.38&nbsp;&mu;s latency from a forced breach signal to 0xCF9 state collapse &mdash; <strong>not</strong> the proprietary breach-detection intelligence. The Dark Harvest&trade; Formula scoring and the ADAM CODE&trade; kernel remain sealed (Tier 3, 18 U.S.C. &sect;&thinsp;1836). The physics is reproducible; the intelligence is sovereign. A later bench capture tests the published protocol; it does not, by itself, authenticate the 2017 campaign log.</p>
 </blockquote>
 <p>The 10-paper Evidentiary Corpus is donated as prior art to the global commons, bound by the Author's status as an FLI Asilomar Signatory of its 23 Principles. This repository, the P14 supplements, and all material beyond Corpus I (P11) are NOT donated &mdash; they are published for the record and for ONUS replication, and remain sovereign work product.</p>
 <p><strong>The Light is shared. The Fire is not.</strong></p>
@@ -281,4 +280,4 @@
 <br>
 
 <p><strong>TRADEMARK:</strong> The following marks are the exclusive property of Sir Steven Alexander Schröder and Quantum Cyberwar Labs, LLC, asserted under 15 U.S.C. §1125(a) (Lanham Act) and applicable common law. <strong>None are federally registered.</strong></p>
-<p>HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, The Schröder 187 NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schröder Sovereign Kill-Switch™, The Schröder Sovereignty Corpus Series™, (A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM)™, Qquorum™, ONUS Mandate™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.</p>
+<p>HDAA™, ADAM CODE™, CODE BLACK™, ACIP™, Dark Harvest™ Formula, Schröder Precedence™, Silicon Sovereignty™, Machine vs. Machine™, Ghost Constant Γ™, 0xCF9 Delegated Primitive™, PROCESS AND TIME™, FREE WILL AI™, FREE WILL LEARNING™, The Ghost in the Code™, Cryptographic Revolution™, Schröder Limit™, Δt ≤ 2.38μs Microsecond Law™, Three-Plane Architecture™, 11+6+9 Governance Matrix™, QAIS (Quantum AI Singularity™), Schröder Doctrine™, Substrate Enforcement Protocol™, The Sovereignty Stack™, SMRR Lock™, Ring -3 SMM Sequestration™, 0xCF9 Reset Vector™, The Schröder 187 NASM x86 Assembly™, F1 Score 0.997™, Schröder Silicon Sovereignty™, The Schröder Sovereignty Corpus Series™, (A₂-SGRCG) AGI → ASI → Singularity Generic Robo-Conscience Gate™, Three-Tier Sovereignty Stack™, Substrate Sovereignty (Ring -3 / SMM)™, Qquorum™, ONUS Mandate™, GOLD Tier™, SILVER Tier™, BRONZE Tier™, Gamma™.</p>
