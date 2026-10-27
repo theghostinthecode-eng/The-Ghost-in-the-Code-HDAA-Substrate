@@ -143,7 +143,7 @@ Replication, therefore, strengthens the evidentiary weight of the public archite
 
 &#128187; LAYER 0-1 SOVEREIGNTY
 
-The final doctrinal claim of Part II is that a control architecture positioned at Layer 0&ndash;1 and sequestered at <strong>SMM (Ring &minus;2)&trade; (System Management Mode)</strong> &mdash; with the Ring &minus;3 co-processor plane (Intel ME / AMD PSP) as the declared forward frontier &mdash; remains categorically different from security mechanisms operating above it. That difference is grounded in execution location, visibility, interrupt jurisdiction, and reset authority rather than in conventional application-layer or kernel-layer policy.
+The final doctrinal claim of Part II is that a control architecture positioned at Layer 0&ndash;1 and sequestered at <strong>SMM (Ring &minus;2)&trade; (System Management Mode)</strong> &mdash; with the Ring &minus;3 co-processor plane (Intel ME / AMD PSP) as the forward frontier (vision only) &mdash; remains categorically different from security mechanisms operating above it. That difference is grounded in execution location, visibility, interrupt jurisdiction, and reset authority rather than in conventional application-layer or kernel-layer policy.
 
 The HDAA&trade; framework is the concrete expression of that claim. Its convergence points are:
 
