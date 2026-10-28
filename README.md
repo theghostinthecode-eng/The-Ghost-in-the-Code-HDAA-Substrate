@@ -1,3 +1,12 @@
+<div align="center">
+
+<!-- THE MARK — top middle — seal 09:00:00 JST 31 Oct 2026 -->
+<p align="center" style="text-align:center; margin:1.5em 0 0.25em 0; padding:0; line-height:1;">
+<span style="font-size:3.2em; line-height:1;">⚫</span>
+</p>
+<!-- …-.. -->
+<!-- end mark -->
+</div>
 <!--
 ================================================================================
   QUANTUM CYBERWAR LABS, LLC  |  The Ghost in the Code™
