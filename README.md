@@ -281,6 +281,8 @@
 <p><em>The Three-Tier IP Framework (The "Donation"), Trademark Sovereignty, and the 10-Paper Evidentiary Corpus.</em></p>
 <h3><a href="./docs/HDAA_FRAMEWORK.md">&#129518; THE HDAA&trade; FRAMEWORK &mdash; COMPLETE HIERARCHICAL MAP</a></h3>
 <p><em>Four-tier visual architecture: Trademark Lineage, Ring Stack, Execution Flow, and the Three-Tier Sovereignty Stack&trade; &mdash; with the 30/70 sealed boundary drawn into the diagram itself.</em></p>
+<h3><a href="https://github.com/theghostinthecode-eng/The-Ghost-in-the-Code-HDAA-Substrate/blob/main/GITHUB_PHASE2_OFFICIAL_NOTICE_INCLUDE_IN_DISCLAIMER_POST_REVIEW_03.md">&#128226; OFFICIAL NOTICE TO RESEARCHERS: THE PHASE 2 REPLICATION CHALLENGE</a></h3>
+<p><em>What is available now, what is not published on October 31, 2026, and what stays sealed.</em></p>
 <br>
 <p><strong>THE SUBSTRATE IS OCCUPIED. Research. Design. Deliver. Donate. Dissolve.</strong><br>
 <strong>Sir Steven Alexander Schr&ouml;der | The Ghost in the Code&trade; | Quantum Cyberwar Labs, LLC</strong></p>
