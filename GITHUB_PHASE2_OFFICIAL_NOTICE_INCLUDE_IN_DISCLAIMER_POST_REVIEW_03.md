@@ -26,7 +26,7 @@ The global academic and institutional community will **NOT** see an immediate op
 
 | | |
 |:---|:---|
-| **✅ Available now** | The HDAA™ Master Defensive Publication corpus, and this repository's published documents, including the replication mission (Part V) and the technical architecture (Part III). |
+| **✅ Available now** | The HDAA™ Master Defensive Publication corpus, and this repository's published documents, including the replication mission in [🧮 THE HDAA™ FRAMEWORK — COMPLETE HIERARCHICAL MAP](docs/HDAA_FRAMEWORK.md) and the technical architecture in [⚙️ PART III: TECHNICAL ARCHITECTURE & RESEARCHER LAB](docs/ARCHITECTURE.md). |
 | **⛔ NOT published on October 31, 2026** | The complete codebase, the un-redacted 82-Page Simulation Framework, production NASM assembly binaries, and any NASM assembly snippets. This is a stated position, not a delay. Sanitized synthetic stubs, C++ simulation harnesses, Makefiles, and Docker containers follow iteratively, as set out in Section 2. |
 | **🔒 Never published** | The complete 187-line ADAM CODE™ assembly core. |
 
