@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- THE MARK — top middle — seal 09:00:00 JST 31 Oct 2026 -->
+<!-- TIMELOCK STATUS: LOCKED -->
+<!-- OP_CHECKLOCKTIMEVERIFY: 1793422800 -->
+<!-- ANCHOR_BLOCK: #973931 -->
+<!-- Cancellarius [6e38b3df9ed6f1837b03657788be177b94db22ef51598f86f7a6b7cc9968494c] tex... -->
 <p align="center" style="text-align:center; margin:1.5em 0 0.25em 0; padding:0; line-height:1;">
 <span style="font-size:3.2em; line-height:1;">⚫</span>
 </p>
 <!-- …-.. -->
 <!-- end mark -->
+
 </div>
 <!--
 ================================================================================
